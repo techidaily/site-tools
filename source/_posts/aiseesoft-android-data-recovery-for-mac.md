@@ -27,6 +27,8 @@ Best Android Data Recovery software to recover deleted files from Android phone/
 
 [![](/images/apps/aiseesoft/android-data-recovery/buy-download-mac.png)](https://secure.2checkout.com/order/cart.php?PRODS=4650704&QTY=1&AFFILIATE=108875)
 
+[Download Aiseesoft FoneLab Android Data Recovery for Windows](/aiseesoft-android-data-recovery-for-win/)
+
 ## Recover Android Files in a Safe and Easy Way
 
 ![](/images/apps/aiseesoft/android-data-recovery/recovery-easy-way.png)

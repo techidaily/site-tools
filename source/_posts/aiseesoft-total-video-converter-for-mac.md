@@ -20,6 +20,8 @@ Aiseesoft Total Video Converter wins the worldwide reputation for its complete s
 [![](images/apps/aiseesoft/total-video-converter/box-total-video-converter-mac.png)](https://secure.2checkout.com/order/cart.php?PRODS=3727318&QTY=1&AFFILIATE=108875)
 [![](images/apps/aiseesoft/total-video-converter/buy-download-mac.png)](https://secure.2checkout.com/order/cart.php?PRODS=3727318&QTY=1&AFFILIATE=108875)
 
+[Download Aiseesoft Total Video Converter for Windows](/aiseesoft-total-video-converter-for-win/)
+
 
 ## Features
 

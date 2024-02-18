@@ -38,6 +38,9 @@ Repair unplayable and corrupt videos using a trusted video repair software for M
 
 [![](/images/common/buy-download-mac.png)](https://secure.2checkout.com/order/cart.php?PRODS=4630228&QTY=1&AFFILIATE=108875)
 
+
+[Download Stellar Video Repair for macOS](/stellar-video-repair-for-mac/)
+
 ## Powerful Video Repair Software for Mac
 
 Stellar Repair for Video is a distinguished tool for Mac that repairs corrupted video files stored in storage drives/ media-Mac volumes, Time Machine, Fusion drive, SD card, USB flash drive, etc. 

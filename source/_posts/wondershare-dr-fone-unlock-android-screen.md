@@ -25,11 +25,8 @@ Remove Android lock screen in 5 minutes
 
 No matter whether your Android phone is locked by pattern, PIN, Google FRP, password, or fingerprint, Dr.Fone - Screen Unlock Android can handle all these locks and unlock them! 
 
-[![](/images/apps/wondershare/dr.fone-android-unlock/box-dr.fone-android-unlock-win.png)](/wondershare-dr-fone-unlock-android-screen-for-win/)
-- [Wondershare Dr.Fone Android Screen Unlock for Windows](/wondershare-dr-fone-unlock-android-screen-for-win/)
-
-[![](/images/apps/wondershare/dr.fone-android-unlock/box-dr.fone-android-unlock-mac.png)](/wondershare-dr-fone-unlock-android-screen-for-mac/)
-- [Wondershare Dr.Fone Android Screen Unlock for macOS](/wondershare-dr-fone-unlock-android-screen-for-mac/)
+- [Download Wondershare Dr.Fone Android Screen Unlock for Windows](/wondershare-dr-fone-unlock-android-screen-for-win/)
+- [Download Wondershare Dr.Fone Android Screen Unlock for macOS](/wondershare-dr-fone-unlock-android-screen-for-mac/)
 
 
 ### Bypass Any Android Lock Screen in Minutes 
