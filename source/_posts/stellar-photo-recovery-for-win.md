@@ -9,6 +9,7 @@ categories:
   - Windows
   - Photo Recovery
 description: Recover photos, audios, and video files from memory cards, cameras, hdds, ssds, etc. lost due to accidental deletion, corruption, formatting, human error, & virus attack, etc.
+keywords: photo recovery, photo recover, audio recovery, video recovery, photo recovery software, photo recovery software for windows, photo recovery software for pc, photo recovery software for android, photo recovery software for ios, photo recovery software for iphone, photo recovery software for ipad, photo recovery software for ipod, photo recovery software for macbook
 ---
 
 ## Introduction

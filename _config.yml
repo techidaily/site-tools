@@ -111,7 +111,7 @@ sitemap:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/techidaily/site-tools
-  # example, https://github.com/hexojs/hexojs.github.io
+  repo: https://lauer3912@github.com/techidaily/site-tools
   # 执行 hexo clean && hexo deploy 。
   branch: gh-pages
+  token: $GITHUB_DEPLOY_TOKEN

@@ -9,6 +9,7 @@ categories:
   - Windows
   - Video Repair
 description: Best Video Repair Software to Fix Corrupt Videos. Repair corrupt or unplayable MP4, MOV, AVI, MKV, AVCHD, MJPEG, WEBM, ASF, WMV, FLV, DIVX, MPEG, MTS, M4V, 3G2, 3GP, and F4V files.
+keywords: video repair, repair video, fix corrupt videos, video repair software, repair mp4, repair mov, repair avi, repair mkv, repair avchd, repair mjpeg, repair webm, repair asf, repair wmv, repair flv, repair divx, repair mpeg, repair mts, repair m4v, repair 3g2, repair 3gp, repair f4v
 ---
 
 ## Introduction
