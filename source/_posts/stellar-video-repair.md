@@ -2,17 +2,17 @@
 title: Stellar Video Repair
 date: 2024-02-17 03:30:34
 tags: 
-  - Stellar
-  - Repair
+  - stellar
+  - repair
 categories: 
-  - Apps
-  - Windows and macOS
-  - Video Repair
+  - apps
+  - win,mac
+  - video repair
 description: Best Video Repair Software to Fix Corrupt Videos. Repair corrupt or unplayable MP4, MOV, AVI, MKV, AVCHD, MJPEG, WEBM, ASF, WMV, FLV, DIVX, MPEG, MTS, M4V, 3G2, 3GP, and F4V files.
 keywords: video repair, repair video, fix corrupt videos, video repair software, repair mp4, repair mov, repair avi, repair mkv, repair avchd, repair mjpeg, repair webm, repair asf, repair wmv, repair flv, repair divx, repair mpeg, repair mts, repair m4v, repair 3g2, repair 3gp, repair f4v
 ---
 
-## Introduction
+## 1. Introduction
 
 **Best Video Repair Software to Fix Corrupt Videos**
 
@@ -30,12 +30,12 @@ Repair corrupt or unplayable MP4, MOV, AVI, MKV, AVCHD, MJPEG, WEBM, ASF, WMV, F
 - 100% Safe & Secure to Use
 
 
-## Download
+## 2. Download
 
 - [Download Stellar Video Repair for Windows](/stellar-video-repair-for-win/)
 - [Download Stellar Video Repair for macOS](/stellar-video-repair-for-mac/)
 
-## Windows Screenshots & Video
+## 3. Windows Screenshots & Video
 
 - **Step1**: Click Add File
   Add Video(s) that you want to repair.
@@ -56,7 +56,7 @@ Repair corrupt or unplayable MP4, MOV, AVI, MKV, AVCHD, MJPEG, WEBM, ASF, WMV, F
 
 <iframe width="798" height="440" src="https://www.youtube.com/embed/Qe0ZNAFEGfQ" title="How to Fix or Repair Corrupt or Broken Video {Updated- 2023}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Mac Screenshots & Video
+## 4. Mac Screenshots & Video
 
 - **Step1**: Click Add File
   Add Video(s) that you want to repair.

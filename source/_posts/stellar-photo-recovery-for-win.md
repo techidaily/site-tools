@@ -2,17 +2,17 @@
 title: Stellar Photo Recovery for Windows
 date: 2024-02-18 02:30:34
 tags: 
-  - Stellar
-  - Recovery
+  - stellar
+  - recovery
 categories: 
-  - Apps
-  - Windows
-  - Photo Recovery
+  - apps
+  - windows
+  - photo recovery
 description: Recover photos, audios, and video files from memory cards, cameras, hdds, ssds, etc. lost due to accidental deletion, corruption, formatting, human error, & virus attack, etc.
 keywords: photo recovery, photo recover, audio recovery, video recovery, photo recovery software, photo recovery software for windows, photo recovery software for pc, photo recovery software for android, photo recovery software for ios, photo recovery software for iphone, photo recovery software for ipad, photo recovery software for ipod, photo recovery software for macbook
 ---
 
-## Introduction
+## 1. Introduction
 
 **Deleted Photo Recovery Software to Recover Lost Photos**
 
@@ -22,7 +22,7 @@ keywords: photo recovery, photo recover, audio recovery, video recovery, photo r
 - Recover lost RAW image files of popular camera brands.
 - Restore deleted multimedia files from different storage devices. 
 
-## Download
+## 2. Download
 
 [![](/images/apps/stellar/stellar-photo-recovery/logo/win.png)](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 
@@ -30,11 +30,11 @@ keywords: photo recovery, photo recover, audio recovery, video recovery, photo r
 
 [Download Stellar Photo Recovery for macOS](/stellar-photo-recovery-for-mac/)
 
-## Award Winning Photo Recovery Software
+## 3. Award Winning Photo Recovery Software
 
 Stellar Photo Recovery (previously known as Stellar Phoenix Photo Recovery) recovers lost or deleted photos, videos, and audio of any file formats from different types of digital cameras and storage devices.
 
-### Deleted Photo Recovery from any Storage Media
+### 3.1. Deleted Photo Recovery from any Storage Media
 
 ![](/images/apps/stellar/stellar-photo-recovery/page/storage-devices.png)
 
@@ -42,7 +42,7 @@ Stellar Photo Recovery (previously known as Stellar Phoenix Photo Recovery) reco
 - Supports camera brands - Nikon®, Canon®, Sony®, Kodak®, Olympus® Samsung®, Minolta®, Fuji®, etc.
 - Supports mirrorless, action, and drone cameras - GoPro®, Garmin®, DJI® and others.
 
-### Unlimited File Types Recovery
+### 3.2. Unlimited File Types Recovery
 
 ![](/images/apps/stellar/stellar-photo-recovery/page/file-types.png)
 
@@ -50,14 +50,14 @@ Stellar Photo Recovery (previously known as Stellar Phoenix Photo Recovery) reco
 - Recovers RAW images- CR3, CR2, RAF, DNG, NEF, ORF, SR2, and more.
 - Restores video formats - MOV, MXF, AVI, ASF, WMV, MP4, 3GP, etc.
 
-## More Awesome Features
+## 4. More Awesome Features
 
 1. **Memory Card Recovery**: Undelete your seemingly lost photos and media files from damaged/corrupted / inaccessible memory card, SD card (Mini, Micro, SDHC, and SDXC), memory stick, compact flash, CF card, CFast, CFast Express, SmartMedia, MultiMediaCard, XQD memory card, eXtreme (xD)-picture card, Eye-Fi WiFi SD card, P2 card and more. The software supports all kinds of SD cards from Samsung, SanDisk, Transcend, Lexar, Toshiba, Patriot, Kingston, Polaroid, Panasonic, Duracell, Verbatim, etc.
 2. **Retrieves Deleted Photos**: Stellar Photo Recovery tool recovers photos lost from all kinds of storage media. It supports the recovery of CR2 /CR3/CRW (Canon), ERF (EPSON ), RAF (Fujifilm), K25 /KDC /DCR (Kodak), MRW (Konica Minolta), MOS/MEF (Mamiya), NEF/ NRW ( Nikon), ORF (Olympus), RAW (Panasonic), PEF (Pentax), SR2/ARW/ SRF (Sony), X3F (Sigma), DNG, DJVU, PGM, Adobe EPS (Mac), Adobe EPS (Windows), TGA, JPEG, TIFF (Motorola and Intel), BMP, GIF, PNG, PSD, INDD, PSP, PCT, JP2, and other file formats.
 3. **Retrieves Deleted Videos & Audio Files**: Stellar Photo Recovery supports recovery of MP4, 3GP, AVI, MPEG, Matroska Video File (MKV), AVCHD Video File (MTS), Divx Encoded Movie File (DIVX), MOI Video File, Video Object File (VOB), OGM, 3G2, ASX, MTS, AJP, F4V, VID, TOD, HD MOV, MOV, MQV, M4B, M4V, WMV, MXF movies and SVI video formats. In addition, it can retrieve RPS, MP3, AU, WAV, MIDI, OGG, AIFF, RM, WMA, RA, M4P, M4A, ACD, AMR, AT3, CAFF, DSS, IFF, M4R, NRA, and SND files audio files. 
 4. **Recovers Photos & Videos from Encrypted Drives**: The software retrieves lost videos, photos, and audio files from BitLocker encrypted drives, volumes, and partitions. Just select the encrypted storage drive in the software, click ‘Scan’ and enter the BitLocker password. The software begins the recovery process from the encrypted HDD, SSD, flash drive, or SD card. It supports all brands including, HP®, Samsung®, Seagate®, Toshiba®, WD®, Transcend®, SanDisk®, Lexar®, LaCie®, Kingston®, Corsair®, Verbatim®, Silicon Power®, Integral®, Lenovo®, Huawei®, and more. 
 
-## Add More Power
+## 5. Add More Power
 
 1. **Save Scan Information and Resume Recovery**: The image recovery software lets you save the directory tree structure generated after a drive/volume scan to a desired location on the disk. The information is saved as a file that can be used to regenerate the tree structure of the found files/folders or to resume recovery at a later stage. You can choose to save the result of the complete procedure or stop the scan at any time and save the information up to that point. 
 2. **Add your Own File Type for Recovery**: If you’re unable to see the file format of the items you wish to restore in the supported file types list in the image recovery software, you can either edit any of the existing file types or add new file headers manually or automatically. This feature makes the product the best photo recovery software available in the market. It gives the application extended flexibility and increases its utility.
@@ -72,7 +72,7 @@ Stellar Photo Recovery (previously known as Stellar Phoenix Photo Recovery) reco
 11. **Photo Recovery from 4K Hard Drives**: Stellar Photo Recovery restores deleted or lost photos, videos, and audio files from 4K hard disks that store data in a 4096 bytes sector. The photo recovery tool can quickly scan 4K sector storage drives configured to FAT32, ExFAT, HFS+, NTFS, or APFS, file system. 
 12. **Preview Media Files Before Recovery**: The software provides a preview of lost and deleted photos, videos, and audio of all file formats, including JPEG, RAW, TIFF, PNG, MP4, MOV, FLV, MKV, MP3, OGG, and other file types while scanning the storage media. It displays a full-screen preview of the recoverable videos.
 
-## Screenshots & Video
+## 6. Screenshots & Video
 
 - **Step1**: Select Location
   > Select the drive, volume, or external media from which you want to restore media files. Click Scan.
@@ -89,7 +89,7 @@ Stellar Photo Recovery (previously known as Stellar Phoenix Photo Recovery) reco
 
 <iframe width="798" height="440" src="https://www.youtube.com/embed/vLIdtfwaoo8" title="How to Recover Deleted Photos and Videos?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Technical Specifications
+## 7. Technical Specifications
 
 - **About Product**
   - License: 	Single System

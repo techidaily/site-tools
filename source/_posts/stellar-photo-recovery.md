@@ -2,17 +2,17 @@
 title: Stellar Photo Recovery
 date: 2024-02-18 05:30:34
 tags: 
-  - Stellar
-  - Recovery
+  - stellar
+  - recovery
 categories: 
-  - Apps
-  - Windows and macOS
-  - Photo Recovery
+  - apps
+  - win
+  - photo recovery
 description: Recover photos, audios, and video files from memory cards, cameras, hdds, ssds, etc. lost due to accidental deletion, corruption, formatting, human error, & virus attack, etc.
 keywords: photo recovery, photo recover, audio recovery, video recovery, photo recovery software, photo recovery software for windows, photo recovery software for pc, photo recovery software for android, photo recovery software for ios, photo recovery software for iphone, photo recovery software for ipad, photo recovery software for ipod, photo recovery software for macbook
 ---
 
-## Introduction
+## 1. Introduction
 
 **Deleted Photo Recovery Software to Recover Lost Photos**
 
@@ -22,12 +22,12 @@ keywords: photo recovery, photo recover, audio recovery, video recovery, photo r
 - Recover lost RAW image files of popular camera brands.
 - Restore deleted multimedia files from different storage devices. 
 
-## Download
+## 2. Download
 
 - [Download Stellar Photo Recovery for Windows](/stellar-photo-recovery-for-win/)
 - [Download Stellar Photo Recovery for macOS](/stellar-photo-recovery-for-mac/)
 
-## Windows Screenshots & Video
+## 3. Windows Screenshots & Video
 
 - **Step1**: Select Location
   > Select the drive, volume, or external media from which you want to restore media files. Click Scan.
@@ -44,7 +44,7 @@ keywords: photo recovery, photo recover, audio recovery, video recovery, photo r
 
 <iframe width="798" height="440" src="https://www.youtube.com/embed/vLIdtfwaoo8" title="How to Recover Deleted Photos and Videos?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Mac Screenshots & Video
+## 4. Mac Screenshots & Video
 
 - **Step1**: Select File Type
   > Select the type of media files that you need to recover, and click 'Add'.

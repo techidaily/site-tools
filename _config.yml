@@ -101,11 +101,10 @@ theme: redefine
 # SiteMap
 sitemap:
   path: 
-    - sitemap.xml
     - sitemap.txt
-  rel: false
-  tags: true
-  categories: true
+  rel: true
+  tags: false
+  categories: false
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
