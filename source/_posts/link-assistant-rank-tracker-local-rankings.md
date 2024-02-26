@@ -33,7 +33,6 @@ You will see your organic positions, Local Pack, and other rich results that app
 
 ![](/images/apps/link-assistant/rank-tracker/local-rankings/pic-2@2x.webp)
 
-
 ## 2. Try the most comprehensive local Rank Tracker
 
 - 01 See organic listings in any of 550+ localized search engines
@@ -50,7 +49,6 @@ Select the search engine where you would like to track your site ranks: any loca
 
 ![](/images/apps/link-assistant/rank-tracker/local-rankings/pic-3@2x.webp)
 
-
 ### 2.2. Track Google Maps rankings
 
 You can pick Maps as a separate search engine and track your rankings there. See the details, the visualization graph of how your local rankings change, and who appears on the map next to you.
@@ -58,7 +56,6 @@ You can pick Maps as a separate search engine and track your rankings there. See
 [Download for FREE](https://secure.2checkout.com/order/cart.php?PRODS=4940312&QTY=1&AFFILIATE=108875)
 
 ![](/images/apps/link-assistant/rank-tracker/local-rankings/pic-4@2x.webp)
-
 
 ### 2.3. Track geo-specific rankings in multiple locations
 
@@ -69,7 +66,6 @@ And that's exactly what the local rank checker allows you to do. Set up rank che
 [Download for FREE](https://secure.2checkout.com/order/cart.php?PRODS=4940312&QTY=1&AFFILIATE=108875)
 
 ![](/images/apps/link-assistant/rank-tracker/local-rankings/pic-5@2x.webp)
-
 
 ### 2.4. Find out your top local keywords
 
@@ -83,7 +79,6 @@ Spot the top-traffic pages, and find opportunities for your local SEO strategy.
 
 ![](/images/apps/link-assistant/rank-tracker/local-rankings/pic-6@2x.webp)
 
-
 ### 2.5. Monitor your local competitors
 
 Get to know your local business landscape, and you will have a competitive edge.
@@ -96,7 +91,6 @@ Keep an eye on competitors' ranks along with your own to see how effective their
 
 ![](/images/apps/link-assistant/rank-tracker/local-rankings/pic-7@2x.webp)
 
-
 ### 2.6. Set up your local Rank Tracker with full automation
 
 With the software's automation features, you can easily monitor your local rankings automatically. Receive **regular reports** about your rankings change right to your email box.
@@ -108,7 +102,6 @@ Set up an automated task to run the checkup on autopilot **daily, weekly, monthl
 [Download for FREE](https://secure.2checkout.com/order/cart.php?PRODS=4940312&QTY=1&AFFILIATE=108875)
 
 ![](/images/apps/link-assistant/rank-tracker/local-rankings/pic-8@2x.webp)
-
 
 ## 3. Get the complete picture of your local search performance
 
@@ -129,19 +122,17 @@ You will keep your **ranking history** and **track competitors** in the same pro
 
 ![](/images/apps/link-assistant/rank-tracker/local-rankings/pic-9@2x.webp)
 
-
 ### 3.2. Local Rank Tracker with white-label SEO reports
 
-Enjoy **customizable reports** to deliver results on local search ranking progress to your boss or client. 
+Enjoy **customizable reports** to deliver results on local search ranking progress to your boss or client.
 
-Use **8 predefined templates** for building your custom company reports. 
+Use **8 predefined templates** for building your custom company reports.
 
 Move widgets around, adjust color schemes, brand your reports with company and customer logos, and do that with the **drag-and-drop editor** to instantly see the difference!
 
 [Download for FREE](https://secure.2checkout.com/order/cart.php?PRODS=4940312&QTY=1&AFFILIATE=108875)
 
 ![](/images/apps/link-assistant/rank-tracker/local-rankings/pic-10@2x.webp)
-
 
 ## 4. Find out if your local SEO strategy is working
 
@@ -157,7 +148,7 @@ With tons of fantastic time-saving SEO tools, the platform is everything you nee
 - **Search visibility for your target keywords**: Get to know your share of the online market. The rank checker will calculate the online visibility of a website for one or several keywords in specific locations.
 - **Integration with Google tools for SEO and PPC campaign**: Get data on search volume, organic traffic, bounce rates, and other metrics directly from your Google Ads and Analytics accounts.
 
-## 5. SEO PowerSuite Tip:
+## 5. SEO PowerSuite Tip
 
 ### 5.1. How do you track local rankings?
 
@@ -178,7 +169,6 @@ Go to Project Preferences and press the Add More Search Engines button next to G
 - **Step4**: Click Update rankings, and when your checkup is over, you will see how your website ranks in local search.
 
 ![](/images/apps/link-assistant/rank-tracker/local-rankings/pic-14@2x.webp)
-
 
 - **Step5**: To track search results for multiple locations, repeat the same process for all your other locations.
 
