@@ -186,9 +186,9 @@ navbar:
     pages: 1000px #other pages
   # Navbar links
   links:
-    Home: 
-      path: / 
-      icon: fa-regular fa-house # can be empty
+    News: 
+      path: https://techidaily.com
+      icon: fa-regular fa-newspaper # can be empty      
     HOWTO: 
       path: https://howto.techidaily.com
       icon: fa-regular fa-archive # can be empty
@@ -218,7 +218,7 @@ navbar:
   # Navbar search (local search). Requires hexo-generator-searchdb (npm i hexo-generator-searchdb). See https://github.com/theme-next/hexo-generator-searchdb
   search:
     # Whether to enable
-    enable: false
+    enable: true
     # Preload search data when the page loads
     preload: true
 # NAVIGATION BAR <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
