@@ -108,6 +108,8 @@ sitemap:
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+## cd .deploy_git
+## git push -u https://lauer3912@github.com/techidaily/site-tools HEAD:gh-pages --force
 deploy:
   type: git
   repo: https://lauer3912@github.com/techidaily/site-tools
