@@ -24,8 +24,8 @@ keywords: photo recovery, photo recover, audio recovery, video recovery, photo r
 
 ## 2. Download
 
-- [Download Stellar Photo Recovery for Windows](/stellar-photo-recovery-for-win/)
-- [Download Stellar Photo Recovery for macOS](/stellar-photo-recovery-for-mac/)
+- [Download for Windows](/stellar-photo-recovery-for-win/)
+- [Download for macOS](/stellar-photo-recovery-for-mac/)
 
 ## 3. Windows Screenshots & Video
 
