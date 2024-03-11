@@ -7,6 +7,7 @@ categories:
   - apps
 description: Pingora is a Rust framework to build fast, reliable and programmable networked systems.
 keywords: rust framework, network systems
+thumbnail: https://raw.githubusercontent.com/cloudflare/pingora/main/docs/assets/pingora_banner.png
 ---
 
 ![Pingora banner image](https://raw.githubusercontent.com/cloudflare/pingora/main/docs/assets/pingora_banner.png)

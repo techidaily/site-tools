@@ -8,6 +8,7 @@ categories:
   - apps
 description: Stellar PDF Repair is an effective Windows-based PDF repair software that repairs damaged PDF files. It restores forms, headers and footers, comments, word art, clip art, page format, shapes, charts, and tables in PDF documents.
 keywords: repair pdf, pdf repair, pdf recovery, pdf file repair, pdf file recovery, pdf repair tool, pdf recovery tool, pdf file repair tool, pdf file recovery tool
+thumbnail: https://www.stellarinfo.com/image/catalog/stellar_boxs/pdf-repair.png
 ---
 
 ![logo](https://www.stellarinfo.com/image/catalog/stellar_boxs/pdf-repair.png)
@@ -31,7 +32,7 @@ Stellar PDF Repair is an effective Windows-based PDF repair software that repair
 
 ## Features
 
-![Repairs Corrupt PDF Files  ](https://www.stellarinfo.com/image/catalog/feature-icon/PDF-Repair/Repairs-corrupt-Adobe-PDF-files.png)
+![Repairs Corrupt PDF Files](https://www.stellarinfo.com/image/catalog/feature-icon/PDF-Repair/Repairs-corrupt-Adobe-PDF-files.png)
 
 ### Repairs Corrupt PDF Files
 

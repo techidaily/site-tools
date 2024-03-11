@@ -9,6 +9,7 @@ categories:
   - win,linux,mac
 description: Rank Tracker is all-in-one software designed to track keywords with freely customizable rank tracking dashboards and SEO reports. The original keyword rank checker tool by SEO PowerSuite serves around 20,000 monthly users, becoming part and parcel of daily SEO ranks checking.
 keywords: seo tools, rank tracker, google seo tools, bing seo tools, keyword research, keyword rank tracking, keyword rank checker, keyword rank tracker, keyword rank tracking software, keyword rank tracking tool
+thumbnail: /images/apps/link-assistant/rank-tracker/logo/main-pic@1x.webp
 ---
 
 ## 1. What is Rank Tracker?

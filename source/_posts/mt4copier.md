@@ -8,6 +8,7 @@ categories:
   - apps
 description: With the Local Trade Copier™ software, it's super easy to copy your Forex trades to lots of MT4 & MT5 accounts fast! 
 keywords: mt4, mt5, forex, trade copier, forex trade copier, mt4 trade copier, mt5 trade copier, forex trade copier software, mt4 trade copier software, mt5 trade copier software
+thumbnail: /images/apps/mt4copier/watermark.png
 ---
 
 With the Local Trade Copier™ software, it's super easy to copy your Forex trades to lots of MT4 & MT5 accounts fast!

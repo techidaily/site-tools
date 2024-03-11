@@ -9,6 +9,7 @@ categories:
   - searches
 description: Discover the best Windows desktop search solution
 keywords: search, desktop search, windows search, file search, outlook search, email search, network search, cloud search, search everywhere
+thumbnail: /images/apps/copernic/desktop-search/pages/overview.png
 ---
 
 ## 1. Copernic Desktop Search

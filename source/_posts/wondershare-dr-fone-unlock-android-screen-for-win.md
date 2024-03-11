@@ -11,6 +11,7 @@ categories:
   - unlock
 description: Best Android Screen unlock software, remove android lock screen in 5 minutes. Remove 5 types of screen lock - PIN, pattern, password, fingerprints & face screen lock.
 keywords: android screen unlock, unlock android screen, remove android lock screen, bypass android lock screen, unlock android lock screen, unlock android screen lock, unlock android screen lock without losing data, unlock android screen lock without factory reset
+thumbnail: /images/apps/wondershare/dr.fone-android-unlock/box-dr.fone-android-unlock-win.png
 ---
 
 ## 1. Introduction

@@ -8,6 +8,7 @@ categories:
   - windows
 description: Clean removal of any program from your PC. Uninstall and remove programs and software in Windows with Revo Uninstaller Pro easily!
 keywords: uninstall tool, windows uninstall tool, android mobile uninstall tool, uninstaller, uninstaller tool, uninstaller software
+thumbnail: /images/apps/revouninstaller/pages/revo-pro-5-boxes.png
 ---
 
 ![logo box](/images/apps/revouninstaller/pages/revo-pro-5-boxes.png)

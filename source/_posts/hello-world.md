@@ -1,5 +1,6 @@
 ---
 title: TechiDaily Tools Site
+date: 2024-02-01 01:00:20
 ---
 Welcome to TechiDaily.com !
 

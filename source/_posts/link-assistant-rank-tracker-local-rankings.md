@@ -9,6 +9,7 @@ categories:
   - win,linux,mac
 description: Local Rank Tracker Tool is a part of SEO PowerSuite, a software that helps you to check accurate rankings in local search and on Google Maps. It is a powerful tool that allows you to track your website's rankings in local search results and on Google Maps. It is a great tool for local businesses that want to improve their online visibility and attract more customers.
 keywords: local rank tracker, local seo, local seo tool, local seo software, local seo rank tracker, local seo rank tracking, local seo ranking, local seo rankings, local seo rank checker, local seo rank check
+thumbnail: /images/apps/link-assistant/rank-tracker/local-rankings/pic-1@2x.webp
 ---
 
 ## 1. How to check accurate local SEO rankings?

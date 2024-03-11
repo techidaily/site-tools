@@ -6,8 +6,9 @@ tags:
 categories: 
   - apps
   - windows
-description: 
-keywords: 
+description: Our software, Driver Easy, makes updating your Windows drivers easy.
+keywords: update windows all drivers
+thumbnail: /images/apps/drivereasy/pages/package_1024x1024.png
 ---
 
 Many computer issues are caused by outdated device drivers.

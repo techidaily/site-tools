@@ -11,6 +11,7 @@ categories:
   - apps
 description:  Advanced “4-in-1” specialized tool, highly recommended by users & IT professionals worldwide to repair Word, Excel, PowerPoint, and PDF files. Supports Microsoft Office 2019, 2016, 2013, 2010, & previous versions. 
 keywords: repair, repair excel, repair word, repair pdf, repair powerpoint
+thumbnail: /images/apps/stellar/file-repair-toolkit/logo/win.png
 ---
 
 ## Toolkit for File Repair

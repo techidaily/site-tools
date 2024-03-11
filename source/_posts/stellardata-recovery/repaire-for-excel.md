@@ -8,6 +8,7 @@ categories:
   - apps
 description:  Stellar Repair for Excel - Powerful tool to repair corrupt Excel files (.xls, .xlsx, .xltm, .xltx, and .xlsm) and recover all the data with 100% integrity. Recommended by MVPs and Certified Excel experts, The tool can repair corrupted workbooks of Excel 2024, 2023, 2021, 2019, 2016, and older versions. 
 keywords: repair xls, repair xlsx, repair excel, excel repair, xls repair, xlsx repair, excel recovery, xls recovery, xlsx recovery, excel file repair, xls file repair, xlsx file repair, excel file recovery, xls file recovery, xlsx file recovery, excel repair tool, xls repair tool, xlsx repair tool, excel recovery tool, xls recovery tool, xlsx recovery tool, excel file repair tool, xls file repair tool, xlsx file repair tool, excel file recovery tool, xls file recovery tool, xlsx file recovery tool
+thumbnail: /images/apps/stellar/stellar-repair-for-excel/logo/win.png
 ---
 
 ## Repair Excel File and Restore Excel Worksheet Data Easily

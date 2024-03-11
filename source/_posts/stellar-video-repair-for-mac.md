@@ -10,6 +10,7 @@ categories:
   - video Repair
 description: Best Mac Video Repair Tool to Fix Corrupt Videos
 keywords: video repair, repair video, fix corrupt videos, video repair software, video repair software for mac, video repair software for windows, video repair software for pc, video repair software for android, video repair software for ios, video repair software for iphone, video repair software for ipad, video repair software for ipod, video repair software for macbook
+thumbnail: /images/apps/stellar/stellar-repair-for-video/logo/mac.png
 ---
 
 ## 1. Introduction

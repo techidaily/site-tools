@@ -11,6 +11,7 @@ categories:
   - windows
 description: Advanced Installer is a Windows installer authoring tool for installing, updating, and configuring your products safely, securely, and reliably. Businesses around the globe, large and small, save hundreds of hours and thousands of dollars by taking advantage of the expert knowledge built into Advanced Installer.
 keywords: windows installer, advanced installer, msix, msi, software packaging, enterprise software packaging, visual studio integration, msix packaging, msix debugging
+thumbnail: /images/apps/advancedinstaller/pages/presentation.png
 ---
 
 Building MSI installers for 20+ years. Unmatched support for MSIX technology.

@@ -6,8 +6,9 @@ tags:
 categories: 
   - apps
   - windows
-description: 
-keywords:
+description: nanoCAD is a modern computer-aided design (CAD) platform that provides designers with powerful capabilities in 2D drafting and 3D modeling.
+keywords: CAD
+thumbnail: /images/apps/nanocad/pages/nanocad.png
 ---
 
 nanoCAD is a modern computer-aided design (CAD) platform that provides designers with powerful capabilities in 2D drafting and 3D modeling.
