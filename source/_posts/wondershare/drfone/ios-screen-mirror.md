@@ -95,7 +95,7 @@ Back up iOS/Android data to a PC or Mac and restore backups selectively.
 
 Mirror, control, and record your mobile device screen on a Windows PC or Mac.
 
-## Try
+## Try Download & Buy
 
 [Get up to 28% off on Windows](https://secure.2checkout.com/order/checkout.php?PRODS=4719742&QTY=1&AFFILIATE=108875&CART=1) Online
 [Get up to 28% off on macOS](https://secure.2checkout.com/order/checkout.php?PRODS=4719751&QTY=1&AFFILIATE=108875&CART=1) Online

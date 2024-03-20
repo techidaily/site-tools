@@ -131,7 +131,7 @@ Phone Backup (iOS)
 
 Backup and restore any item on/to a device, and export what you want from the backup to your computer.
 
-## Try
+## Try Download & Buy
 
 [Get up to 28% off on Windows](https://secure.2checkout.com/order/checkout.php?PRODS=18584310&QTY=1&AFFILIATE=108875&CART=1) Online
 [Get up to 28% off on macOS](https://secure.2checkout.com/order/checkout.php?PRODS=18584310&QTY=1&AFFILIATE=108875&CART=1) Online

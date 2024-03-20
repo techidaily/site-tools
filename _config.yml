@@ -102,7 +102,7 @@ theme: redefine
 sitemap:
   path: 
     - sitemap.txt
-  rel: true
+  rel: false
   tags: false
   categories: false
 

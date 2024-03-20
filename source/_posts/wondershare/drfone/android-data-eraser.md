@@ -124,6 +124,6 @@ Screen Unlock (Android)
 
 Remove various lock screens from your Android devices without a password.
 
-## Try
+## Try Download & Buy
 
 [Get up to 28% off on Windows](https://secure.2checkout.com/order/checkout.php?PRODS=4719754&QTY=1&AFFILIATE=108875&CART=1) Online

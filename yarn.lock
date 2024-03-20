@@ -1392,12 +1392,12 @@ hexo-generator-searchdb@^1.4.1:
   dependencies:
     nunjucks "^3.2.2"
 
-hexo-generator-sitemap@^3.0.1:
-  version "3.0.1"
-  resolved "http://192.168.3.16:48730/hexo-generator-sitemap/-/hexo-generator-sitemap-3.0.1.tgz#6183995f918330c06d99aa18ca9de81dd8055841"
-  integrity sha512-n+0KLNmq6TLbiZPTQF6NY5MbEem/O+DFx0lgQZNQcU4tdjXIZRrQJs+KRKeT66NTkdlYTqb4WwCxswLqQz0crA==
+hexo-generator-sitemap-ex@^3.3.0:
+  version "3.3.0"
+  resolved "http://192.168.3.16:48730/hexo-generator-sitemap-ex/-/hexo-generator-sitemap-ex-3.3.0.tgz#8ca875c6f0dc7217f4c97b61bd8ddd5a43f590ca"
+  integrity sha512-U2jzthw41czJTWY8k6/K/mBW3o4YdVlaqeZumcaK6eshjlcbKImgD1IkahNAS+myOHaeGyBWAEcxl0+ylVtsEw==
   dependencies:
-    hexo-util "^2.1.0"
+    hexo-util "^3.0.1"
     micromatch "^4.0.2"
     nunjucks "^3.1.6"
 

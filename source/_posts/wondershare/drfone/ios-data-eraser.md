@@ -190,7 +190,7 @@ Dr.Fone - Basic
 
 All-in-one data management solution. Back up and manage phone data, and mirror your phone screen to PC.
 
-## Try
+## Try Download & Buy
 
 [Get up to 28% off on Windows](https://secure.2checkout.com/order/checkout.php?PRODS=4719749&QTY=1&AFFILIATE=108875&CART=1) Online
 [Get up to 28% off on macOS](https://secure.2checkout.com/order/checkout.php?PRODS=4719765&QTY=1&AFFILIATE=108875&CART=1) Online

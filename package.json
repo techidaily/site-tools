@@ -3,11 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo generate -c 8",
+    "build": "hexo generate -c 12",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo clean && hexo server",
-    "publish": "hexo deploy -g -c 8",
+    "publish": "hexo deploy -g -c 12",
     "_copy:image:md": "node ./copy-images-md.mjs"
   },
   "hexo": {
@@ -23,7 +23,7 @@
     "hexo-generator-feed": "^3.0.0",
     "hexo-generator-index": "^3.0.0",
     "hexo-generator-searchdb": "^1.4.1",
-    "hexo-generator-sitemap": "^3.0.1",
+    "hexo-generator-sitemap-ex": "^3.3.0",
     "hexo-generator-tag": "^2.0.0",
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-renderer-less": "^4.0.0",

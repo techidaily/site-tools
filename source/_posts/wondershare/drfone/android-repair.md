@@ -122,7 +122,7 @@ Dr.Fone - Basic
 
 Integrated data management solution. Your phone data can be managed, backed up, and mirrored to your PC.
 
-## Try
+## Try Download & Buy
 
 [Get up to 28% off on Windows](https://secure.2checkout.com/order/checkout.php?PRODS=18588033&QTY=1&AFFILIATE=108875&CART=1) Online
 [Get up to 28% off on macOS](https://secure.2checkout.com/order/checkout.php?PRODS=18588033&QTY=1&AFFILIATE=108875&CART=1) Online
