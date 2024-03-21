@@ -12,10 +12,24 @@ const indexNowKey = '6894d82c51d64a7fa2cf7e08383caec2'; // 替换为你的API密
 const siteHostName = 'tools.techidaily.com'; // 替换为你的网站URL
 const groupItemCount = 100; // 每组最多100个URL
 
+// 生成元素为 1，2， 3，…… 的数组
+function range(start, end) {
+  return Array.from({ length: end - start + 1 }, (_, i) => start + i);
+}
 
-// Step1: 从sitemap.txt中获取url列表
-const sitemap = fs.readFileSync(path.join(__dirname, '.deploy_git', 'sitemap.txt'), 'utf-8');
-const allUrls = sitemap.split('\n').filter(Boolean).map(url => url.trim());
+// Step1: 从sitemap.txt, sitemap1.txt, sitemap2.txt ...中获取url列表
+const allUrls = [];
+const sitemapFiles = [
+  'sitemap.txt', 
+  ...range(1, 500).map(i => `sitemap${i}.txt`)
+];
+for (const file of sitemapFiles) {
+  if (fs.existsSync(path.join(__dirname, '.deploy_git', file))) {
+    const sitemap = fs.readFileSync(path.join(__dirname, '.deploy_git', file), 'utf-8');
+    const urls = sitemap.split('\n').filter(Boolean).map(url => url.trim());
+    allUrls.push(...urls);
+  }
+}
 
 console.log('All urls count:%d', allUrls.length);
 
