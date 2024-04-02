@@ -42,7 +42,7 @@ const updatePostsTask = () => {
             // 目标目录的位置
             const targetDir = path.join(__dirname, 'source/_posts');
 
-            // 每次只拷贝20个文件
+            // 每次至少拷贝20个文件
             const files = fs.readdirSync(sourceDir);
             const new_posts = files.filter(file => file.endsWith('.md'));
 
@@ -57,7 +57,9 @@ const updatePostsTask = () => {
                         console.log(`拷贝 ${sourceFile} -> ${targetFile} 完成`)
 
                         // 删除源文件
-                        fs.unlinkSync(sourceFile);
+                        if (fs.existsSync(targetFile)) {
+                            fs.unlinkSync(sourceFile);
+                        }
                     } catch (e) {
                         console.error(`拷贝 ${sourceFile} -> ${targetFile} 失败`)
                         console.error(e);
@@ -123,6 +125,8 @@ const backupGit = () => {
         enableBackup = true;
         console.log(`第一次备份`);
     }
+
+    if (!enableBackup) return;
 
     console.log('准备备份 git 仓库');
     try {

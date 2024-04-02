@@ -1,4 +1,4 @@
-Sitemap: https://tools.techidaily.com/sitemap.txt
+Sitemap: https://tools.techidaily.com/sitemap.xml
 User-agent: Googlebot
 Disallow:
 

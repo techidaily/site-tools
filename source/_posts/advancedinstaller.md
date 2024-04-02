@@ -1,6 +1,6 @@
 ---
 title: Windows Installer Packaging Tool for Developers, ISVs & Enterprises - Advanced Installer
-date: 2024-04-01T02:38:05.456Z
+date: 2024-04-01T08:21:19.416Z
 tags: 
   - windows installer
   - advanced installer
