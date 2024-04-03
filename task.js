@@ -108,7 +108,13 @@ const publishTask = () => {
     
     try {
         console.log('执行 yarn 安装依赖');
-        execSync(`yarn`, { cwd: __dirname });
+        execSync(`yarn install`, { cwd: __dirname });
+
+        try {
+          console.log('执行 git gc --prune=now');
+          execSync(`git gc --prune=now`, { cwd: __dirname });
+          execSync(`git gc --prune=now`, { cwd: `${__dirname}/.deploy_git` });
+        } catch(e){}
 
         console.log('执行 yarn run publish');
         const child = execSync(`yarn run publish`, { cwd: __dirname });
@@ -148,7 +154,18 @@ const backupGit = () => {
 
     console.log('准备备份 git 仓库');
     try {
-        const out = execSync(`git add . && git commit -m "auto backup on ${now.toISOString()}" && git push`, { cwd: __dirname });
+        // 所有文件启动 lfs
+        execSync(`git lfs install`, { cwd: __dirname });
+
+        // 跟踪大文件
+        execSync(`git lfs track "*.mp4"`, { cwd: __dirname });
+        execSync(`git lfs track "*.zip"`, { cwd: __dirname });
+        execSync(`git lfs track "*.tar.gz"`, { cwd: __dirname });
+        execSync(`git lfs track "*.gz"`, { cwd: __dirname });
+        execSync(`git lfs track "*.rar"`, { cwd: __dirname });
+        execSync(`git lfs track "*.xml"`, { cwd: __dirname });
+
+        const out = execSync(`git add . && git commit -m "auto backup on ${now.toISOString()}" && git lfs push origin main`, { cwd: __dirname });
         console.log(out.toString());
 
         // 更新备份时间
