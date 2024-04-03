@@ -1,6 +1,6 @@
 ---
 title: iPhone Data Recovery Software
-date: 2024-03-12 15:13:20
+date: 2024-04-02T01:41:43.853Z
 description: iPhone Data Recovery Software to Recover Lost Photos, Videos & More
 keywords: iphone data recovery, iphone recovery software, recover deleted data from iphone
 thumbnail: https://www.stellardata-recovery.com/public/image/catalog/screenshot/iphone-data-recovery-win/iPhone-win-screen3.png

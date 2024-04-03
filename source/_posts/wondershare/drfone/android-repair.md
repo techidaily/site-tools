@@ -1,6 +1,6 @@
 ---
 title: Android System Repair
-date: 2024-03-14 05:13:20
+date: 2024-04-02T01:41:43.854Z
 description: Fix various Android issues by yourself, such as a black screen of death, Play Store not working, OTA update failed, etc.
 keywords: fix android system issues, android system repair, android system recovery, android system repair tool
 thumbnail: https://images.wondershare.com/drfone/product-2021/system-repair/android-repair-banner.png

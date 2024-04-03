@@ -1,6 +1,6 @@
 ---
 title: Long Tail Keyword Research Tool
-date: 2024-03-12 14:43:20
+date: 2024-04-02T01:41:43.812Z
 description: Use Rank Tracker to discover new keyword ideas!
 keywords: keyword gap
 thumbnail: https://cdn1.link-assistant.com/thumbs/w1068-c1/themes/basic/images/header/rt-intro-screen.png

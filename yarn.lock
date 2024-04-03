@@ -1392,10 +1392,10 @@ hexo-generator-searchdb@^1.4.1:
   dependencies:
     nunjucks "^3.2.2"
 
-hexo-generator-sitemap-ex@^3.3.0:
-  version "3.3.0"
-  resolved "http://192.168.3.16:48730/hexo-generator-sitemap-ex/-/hexo-generator-sitemap-ex-3.3.0.tgz#8ca875c6f0dc7217f4c97b61bd8ddd5a43f590ca"
-  integrity sha512-U2jzthw41czJTWY8k6/K/mBW3o4YdVlaqeZumcaK6eshjlcbKImgD1IkahNAS+myOHaeGyBWAEcxl0+ylVtsEw==
+hexo-generator-sitemap-ex@^3.4.1:
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/hexo-generator-sitemap-ex/-/hexo-generator-sitemap-ex-3.4.1.tgz#1fb0a5558a02abcedcb389dcf37e346c805da14e"
+  integrity sha512-9aG4k6Ah7cUgDroa81s1H/f+W+ncxuK/Bkgc7B0G63OesxlooFD0iGsBqolsyJeUtO15m1zawBjrxXCWhA5U0Q==
   dependencies:
     hexo-util "^3.0.1"
     micromatch "^4.0.2"
@@ -2920,8 +2920,16 @@ statuses@~1.5.0:
   resolved "http://192.168.3.16:48730/statuses/-/statuses-1.5.0.tgz#161c7dac177659fd9811f43771fa99381478628c"
   integrity sha512-OpZ3zP+jT1PI7I8nemJX4AKmAX070ZkYPVWV/AaKTJl+tXCTGyVdC1a4SL8RUQYEwk/f34ZX8UTykN68FwrqAA==
 
-"string-width-cjs@npm:string-width@^4.2.0", string-width@^4.1.0:
-  name string-width-cjs
+"string-width-cjs@npm:string-width@^4.2.0":
+  version "4.2.3"
+  resolved "http://192.168.3.16:48730/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
+  integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
+  dependencies:
+    emoji-regex "^8.0.0"
+    is-fullwidth-code-point "^3.0.0"
+    strip-ansi "^6.0.1"
+
+string-width@^4.1.0:
   version "4.2.3"
   resolved "http://192.168.3.16:48730/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
   integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
@@ -2953,7 +2961,7 @@ string_decoder@~1.1.1:
   dependencies:
     safe-buffer "~5.1.0"
 
-"strip-ansi-cjs@npm:strip-ansi@^6.0.1", strip-ansi@^6.0.0, strip-ansi@^6.0.1:
+"strip-ansi-cjs@npm:strip-ansi@^6.0.1":
   version "6.0.1"
   resolved "http://192.168.3.16:48730/strip-ansi/-/strip-ansi-6.0.1.tgz#9e26c63d30f53443e9489495b2105d37b67a85d9"
   integrity sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==
@@ -2973,6 +2981,13 @@ strip-ansi@^5.0.0:
   integrity sha512-DuRs1gKbBqsMKIZlrffwlug8MHkcnpjs5VPmL1PAh+mA30U0DTotfDZ0d2UUsXpPmPmMMJ6W773MaA3J+lbiWA==
   dependencies:
     ansi-regex "^4.1.0"
+
+strip-ansi@^6.0.0, strip-ansi@^6.0.1:
+  version "6.0.1"
+  resolved "http://192.168.3.16:48730/strip-ansi/-/strip-ansi-6.0.1.tgz#9e26c63d30f53443e9489495b2105d37b67a85d9"
+  integrity sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==
+  dependencies:
+    ansi-regex "^5.0.1"
 
 strip-ansi@^7.0.1:
   version "7.1.0"

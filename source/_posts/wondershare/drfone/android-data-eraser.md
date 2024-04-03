@@ -1,6 +1,6 @@
 ---
 title: Android Data Eraser
-date: 2024-03-14 05:13:20
+date: 2024-04-02T01:41:43.854Z
 description: Permanently erase all the data saved in your Android device, eliminating your privacy in donated or discarded devices.
 keywords: android data eraser, erase android data, erase android phone data, erase android tablet data
 thumbnail: https://images.wondershare.com/drfone/2023/data-eraser/android-banner-pic.png

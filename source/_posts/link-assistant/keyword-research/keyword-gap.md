@@ -1,6 +1,6 @@
 ---
 title: Keyword Gap Analysis Tool
-date: 2024-03-12 12:43:20
+date: 2024-04-02T01:41:43.811Z
 description: Find the missing pieces of your content strategy — competitors' SEO keywords your site doesn't rank for.
 keywords: keyword gap
 thumbnail: https://cdn1.link-assistant.com/images/common-theme/landings/keyword-research/keyword-gap/screen-01.svg

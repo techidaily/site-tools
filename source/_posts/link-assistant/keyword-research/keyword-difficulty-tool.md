@@ -1,6 +1,6 @@
 ---
 title: Free Keyword Difficulty checker tool
-date: 2024-03-12 12:43:20
+date: 2024-04-02T01:41:43.811Z
 description: Pick your best SEO keywords to enter the top 10 results
 keywords: keyword checker
 thumbnail: https://cdn1.link-assistant.com/images/common-theme/landings/keyword-research/keyword-difficulty-tool/main-pic@1x.png

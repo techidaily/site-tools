@@ -1,6 +1,6 @@
 ---
 title: Android Screen Mirror
-date: 2024-03-14 05:13:20
+date: 2024-04-02T01:41:43.854Z
 description: Mirror your Android device screen to a PC and control it reversely, drag and drop files between your phone and PC.
 keywords: mirror android screen, android screen mirror, android screen recording, android screen mirroring
 thumbnail: https://images.wondershare.com/drfone/features2023/screen-mirror/android-banner-pic.png

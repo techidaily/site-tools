@@ -1,6 +1,6 @@
 ---
 title: iOS Data Eraser
-date: 2024-03-14 05:13:20
+date: 2024-04-02T01:41:43.857Z
 description: Permanently erase what you want from your iPhone/iPad/iPod touch, whole devices, or part of data, keeping your privacy secure.
 keywords: ios data eraser, erase iphone data, erase ipad data, erase ipod data
 thumbnail: https://images.wondershare.com/drfone/2023/data-eraser/ios-banner-pic.png

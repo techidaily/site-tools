@@ -1,6 +1,6 @@
 ---
 title: YouTube Keyword Tool
-date: 2024-03-12 12:43:20
+date: 2024-04-02T01:41:43.812Z
 description: Generate YouTube keyword ideas with Rank Tracker
 keywords: 
 thumbnail: https://cdn1.link-assistant.com/images/common-theme/landings/keyword-research/youtube-keyword-tool/main-pic@2x.webp
