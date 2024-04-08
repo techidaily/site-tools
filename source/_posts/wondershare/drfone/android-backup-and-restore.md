@@ -1,6 +1,6 @@
 ---
 title: Android Phone Backup
-date: 2024-04-07T03:06:42.550Z
+date: 2024-04-07T20:35:18.919Z
 description: Back up data on your Android devices quickly and restore Local/iCloud/iTunes backup files selectively to any device.
 keywords: backup android, android backup, samsung backup, huawei backup, xiaomi backup
 thumbnail: https://images.wondershare.com/drfone/features2023/renew/backup-android-banner-pic.png

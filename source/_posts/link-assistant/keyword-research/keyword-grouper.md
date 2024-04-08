@@ -1,6 +1,6 @@
 ---
 title: Keyword Grouping Tool
-date: 2024-04-07T03:06:42.546Z
+date: 2024-04-07T20:35:18.889Z
 description: In All Keyword Research Methods & Rank Tracking
 keywords: keyword gap
 thumbnail: https://cdn1.link-assistant.com/images/common-theme/landings/keyword-research/keyword-grouper/new/main-pic@1x.webp

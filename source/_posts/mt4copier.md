@@ -1,6 +1,6 @@
 ---
 title: Local Trade Copier
-date: 2024-04-07T03:06:42.548Z
+date: 2024-04-07T20:35:18.896Z
 tags: 
   - mt4
   - mt5

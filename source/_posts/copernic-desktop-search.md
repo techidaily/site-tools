@@ -1,6 +1,6 @@
 ---
 title: Copernic Desktop Search
-date: 2024-04-07T03:06:42.545Z
+date: 2024-04-07T20:35:18.868Z
 tags: 
   - deep desktop search
 categories: 

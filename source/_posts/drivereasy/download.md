@@ -1,6 +1,6 @@
 ---
 title: Driver Easy - Update your drivers in Windows 11,10 and 7.
-date: 2024-04-07T03:06:42.545Z
+date: 2024-04-07T20:35:18.869Z
 tags: 
   - drivers
 categories: 

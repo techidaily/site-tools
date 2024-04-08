@@ -1,6 +1,6 @@
 ---
 title: iOS & Android WhatsApp Transfer 
-date: 2024-04-07T03:06:42.543Z
+date: 2024-04-07T20:35:18.859Z
 description: Back up your WhatsApp, WeChat, LINE, Kik, and Viber chat history and attachments. Transfer WhatsApp data between OS without struggle.
 keywords: backup whatsapp, transfer whatsapp, whatsapp backup, whatsapp transfer
 thumbnail: https://images.wondershare.com/drfone/product-2021/whatsapp/whatsapp-banner.png
