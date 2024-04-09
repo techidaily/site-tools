@@ -1,6 +1,6 @@
 ---
 title: iOS & Android Phone Transfer
-date: 2024-04-07T20:35:18.856Z
+date: 2024-04-08T17:03:09.183Z
 description: One-click to transfer data between any two devices that run iOS or Android, including contacts, messages, photos, etc.
 keywords: transfer data between ios and android, phone transfer, ios to android transfer, android to ios transfer
 thumbnail: https://images.wondershare.com/drfone/product-2021/phone/phone-banner.png

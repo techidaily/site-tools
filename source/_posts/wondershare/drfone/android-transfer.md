@@ -1,6 +1,6 @@
 ---
 title: Android Phone Manager/Transfer Tool
-date: 2024-04-07T20:35:18.924Z
+date: 2024-04-08T17:03:09.221Z
 description: Manage and transfer data and files between Android and PC/iTunes and transfer iCloud data directly to Android/PC.
 keywords: transfer android data, manage android data, android data transfer, android data manager
 thumbnail: https://images.wondershare.com/drfone/features2023/renew/manager-android-banner-pic.png

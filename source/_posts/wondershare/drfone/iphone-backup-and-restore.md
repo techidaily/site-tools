@@ -1,6 +1,6 @@
 ---
 title: iOS Phone Backup
-date: 2024-04-07T20:35:18.852Z
+date: 2024-04-08T17:03:09.179Z
 description: Back up data on your iOS devices easily and restore Local/iCloud/iTunes backup files selectively to any device.
 keywords: backup ios, ios backup, iphone backup, ipad backup, ipod backup
 thumbnail: https://images.wondershare.com/drfone/features2023/renew/backup-ios-banner-pic.png
