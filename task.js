@@ -514,6 +514,13 @@ const publishTask = () => {
   const refPushInfo = { hasPushSuccess: false };
 
   try {
+
+    // 不要使用 git pull origin main，因为可能会导致冲突
+    // try {
+    // console.log(`执行 git gc --prune=now. ${nowDate()}`);
+    // execSync(`git pull origin main`, { cwd: __dirname });
+    // } catch (e) { }
+
     console.log(`执行 yarn 安装依赖. ${nowDate()}`);
     execSync(`yarn install`, { cwd: __dirname });
 
@@ -615,8 +622,12 @@ const backupGit = () => {
 
 
     // 添加关键文章内容
-    console.log(`git add source/ 添加关键文章内容`);
-    execSync(`git add source/ `, { cwd: __dirname, maxBuffer: 100 * 1024 * 1024 });
+    try {
+      console.log(`git add source/ 添加关键文章内容`);
+      execSync(`git add source/ `, { cwd: __dirname, maxBuffer: 100 * 1024 * 1024 });
+      execSync(`git add themes/ `, { cwd: __dirname, maxBuffer: 100 * 1024 * 1024 });
+    } catch (e){}
+
 
     // 提交
     console.log(`git commit -m "auto backup on ${now.toISOString()}" && git lfs push origin main`);
@@ -628,13 +639,22 @@ const backupGit = () => {
       console.error(e);
     }
 
-    const out = spawnSync(`git`, [
-      `lfs`, `push`, `origin`, `main`,
-    ], { cwd: __dirname, maxBuffer: 100 * 1024 * 1024, env: { ...process.env, ...globalEnv } });
-    tryCheckPushToGitHubSuccess(out, refPushInfo, 'main -> main');
+    try {
+      const out = spawnSync(`git`, [
+        `lfs`, `push`, `origin`, `main`,
+      ], { cwd: __dirname, maxBuffer: 100 * 1024 * 1024, env: { ...process.env, ...globalEnv } });
+      tryCheckPushToGitHubSuccess(out, refPushInfo, 'main -> main');
+    } catch(e){}
 
     if (!refPushInfo.hasPushSuccess) {
-      throw new Error('备份到 main 分支失败');
+      const out2 = spawnSync(`git`, [
+       `push`, `origin`, `main`, `--force`,
+      ], { cwd: __dirname, maxBuffer: 100 * 1024 * 1024, env: { ...process.env, ...globalEnv } });
+      tryCheckPushToGitHubSuccess(out2, refPushInfo, 'main -> main');
+
+      if (!refPushInfo.hasPushSuccess) {
+        throw new Error('备份失败');
+      }
     }
 
     // 更新备份时间
