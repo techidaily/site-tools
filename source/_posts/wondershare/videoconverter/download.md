@@ -7,6 +7,7 @@ tags:
 categories: 
   - apps
   - windows
+  - macOS
 description: 17 years of revolution for the leading format support, speed, and quality. Enriched with 20+ lightweight features, we offer an ultra-high-speed video converter and compressor designed to process 4K/8K/HDR files.
 keywords: video converter, video compressor, 4K, 8K, HDR, video editing, video conversion, video compression, video download, video recording, video burning, video transfer, video metadata, video subtitle, video watermark, video screen recording, video GIF, video VR, video TV, video DLNA, video cast, video toolbox, video player, video metadata, video subtitle, video watermark, video screen recording, video GIF, video VR, video TV, video DLNA, video cast, video toolbox, video player
 thumbnail: https://images.wondershare.com/videoconverter/images2023/vc15/banner-img.png
