@@ -3,11 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo generate -c 12",
+    "build": "hexo generate -c 10",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo clean && hexo server",
-    "publish": "hexo deploy -g -c 12",
+    "publish": "hexo deploy -g -c 10",
     "_copy:image:md": "node ./copy-images-md.mjs"
   },
   "hexo": {

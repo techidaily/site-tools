@@ -116,8 +116,9 @@ function tryCheckPushToGitHubSuccess(outOrError, refPushInfo, keyWords = 'HEAD -
   }
 }
 
-function tryDeploy(env = {}) {
+function tryDeploy(env = {}, tryTimes) {
   console.log('Deploying...');
+
   const deployDir = path.join(__dirname, '.deploy_git');
   if (!fs.existsSync(deployDir)) return;
 
@@ -126,13 +127,17 @@ function tryDeploy(env = {}) {
     gitShortRepoName = 'site';
   }
 
-  const command = `git push -u https://$GITHUB_DEPLOY_TOKEN@github.com/techidaily/${gitShortRepoName}.git HEAD:gh-pages --force`;
+  // 根据当前tryTimes获得0，1, 2, 3, 4, 5的值
+  const tryIndex = tryTimes % 5;
+  const gitUrl = tryIndex > 0 ? `https://$GITHUB_DEPLOY_TOKEN@github.com/techidaily/${gitShortRepoName}.git`: `git@github.com:techidaily/${gitShortRepoName}.git`;
+
+  const command = `git push -u ${gitUrl} HEAD:gh-pages --force`;
   console.log(`命令: ${command}`);
   const refPushInfo = { hasPushSuccess: false };
 
   try {
     const out = spawnSync('git', [
-      'push', '-u', `https://${process.env.GITHUB_DEPLOY_TOKEN}@github.com/techidaily/${gitShortRepoName}.git`,
+      'push', '-u', `${gitUrl}`,
       'HEAD:gh-pages', '--force'
     ], { cwd: deployDir, maxBuffer: 100 * 1024 * 1024, env: { ...process.env, ...env } });
 
@@ -151,15 +156,11 @@ let deploySuccess = false;
 
 (async () => {
   const proxyAddress = 'http://192.168.3.16:7890';
-  let envList = [{}, { HTTPS_PROXY: proxyAddress, HTTP_PROXY: proxyAddress }];
   for (let i = 0; i < maxTryTimes; i++) {
     console.log(`尝试部署，剩余尝试次数: ${maxTryTimes - i}`);
-
-    // 交替选择envList中的元素
-    // const env = envList[i % envList.length];
-    const env = envList[1];
+    const env = { HTTPS_PROXY: proxyAddress, HTTP_PROXY: proxyAddress }
     try {
-      tryDeploy(env);
+      tryDeploy(env, i);
       console.log('部署成功');
       deploySuccess = true;
       i = maxTryTimes;

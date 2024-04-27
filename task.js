@@ -283,6 +283,7 @@ const updatePostsTask = () => {
   // 解析命令行参数
   if (isProcessArgsContains('--only-map')) {
     urlMapHelper.save();
+    console.log(`只更新url2title的映射关系，完成`);
     process.exit(0);
   }
 
@@ -333,7 +334,7 @@ const updatePostsTask = () => {
   ];
   const isFirstPublish = !gPublishHelper.findLastPublishDateFileIsExist();
   if (!isFirstPublish) { // 如果不是第一次发布，只更新最旧的一定数量的文件
-    oldestPosts = posts.slice(0, posts.length < maxAllPostCount ? 5000 : 12000);
+    oldestPosts = posts.slice(0, posts.length < maxAllPostCount ? 6000 : 15000);
   }
 
   // 开始更新处理
@@ -544,6 +545,12 @@ const publishTask = () => {
         execSync(`rm -fr ./docs`, { cwd: __dirname });
         execSync(`rm -fr ./.deploy_git`, { cwd: __dirname });
       }
+    } catch (e) { }
+
+    // 先执行 fix-markdown-issue.js
+    try {
+      console.log(`执行 fix-markdown-issue.js. ${nowDate()}`);
+      require(path.join(__dirname, 'fix-markdown-issue.js'));
     } catch (e) { }
 
     console.log(`执行 yarn run publish. ${nowDate()}`);
