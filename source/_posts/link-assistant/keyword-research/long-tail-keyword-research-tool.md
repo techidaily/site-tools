@@ -1,6 +1,6 @@
 ---
 title: Long Tail Keyword Research Tool
-date: 2024-04-11T22:51:34.933Z
+date: 2024-05-19T02:17:35.169Z
 description: Use Rank Tracker to discover new keyword ideas!
 keywords: keyword gap
 thumbnail: https://cdn1.link-assistant.com/thumbs/w1068-c1/themes/basic/images/header/rt-intro-screen.png
@@ -90,3 +90,5 @@ Once you've merged your keyword lists and got rid of short-tail keywords, it's t
     data-ad-format="autorelaxed"
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
+
+

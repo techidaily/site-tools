@@ -1,6 +1,6 @@
 ---
 title: Keyword Grouping Tool
-date: 2024-04-11T22:51:34.932Z
+date: 2024-05-19T02:17:35.168Z
 description: In All Keyword Research Methods & Rank Tracking
 keywords: keyword gap
 thumbnail: https://cdn1.link-assistant.com/images/common-theme/landings/keyword-research/keyword-grouper/new/main-pic@1x.webp
@@ -192,3 +192,5 @@ The keyword clustering functionality allows sorting words like humans do. You wi
     data-ad-format="autorelaxed"
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
+
+
