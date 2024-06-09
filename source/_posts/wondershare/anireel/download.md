@@ -1,6 +1,6 @@
 ---
 title: Anireel
-date: 2024-05-19T02:17:35.173Z
+date: 2024-06-08T00:05:07.094Z
 tags: 
   - animation
   - videos
@@ -344,3 +344,10 @@ For Windows 11 / 10 / 8.1 (64 bit OS)
 </ul></div>
 
 
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
