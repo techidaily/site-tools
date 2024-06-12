@@ -116,7 +116,7 @@ function tryCheckPushToGitHubSuccess(outOrError, refPushInfo, keyWords = 'HEAD -
   }
 }
 
-function tryDeploy(env = {}, tryTimes) {
+function tryDeploy(env = {}) {
   console.log('Deploying...');
 
   const deployDir = path.join(__dirname, '.deploy_git');
@@ -127,9 +127,7 @@ function tryDeploy(env = {}, tryTimes) {
     gitShortRepoName = 'site';
   }
 
-  // 根据当前tryTimes获得0，1, 2, 3, 4, 5的值
-  const tryIndex = tryTimes % 5;
-  const gitUrl = tryIndex > 0 ? `https://$GITHUB_DEPLOY_TOKEN@github.com/techidaily/${gitShortRepoName}.git`: `git@github.com:techidaily/${gitShortRepoName}.git`;
+  const gitUrl =  `git@github.com:techidaily/${gitShortRepoName}.git`;
 
   const command = `git push -u ${gitUrl} HEAD:gh-pages --force`;
   console.log(`命令: ${command}`);
@@ -160,7 +158,7 @@ let deploySuccess = false;
     console.log(`尝试部署，剩余尝试次数: ${maxTryTimes - i}`);
     const env = { HTTPS_PROXY: proxyAddress, HTTP_PROXY: proxyAddress }
     try {
-      tryDeploy(env, i);
+      tryDeploy(env);
       console.log('部署成功');
       deploySuccess = true;
       i = maxTryTimes;
