@@ -346,6 +346,65 @@ function isMarkdownFileWillDeleted(markdownFile, content, unlink = true) {
   return false;
 }
 
+function fixConentByLine(line) {
+  // 字符串处理，以1个或者多个#开头的，后面跟着空格, 空格后面出现 ![**](**) 或者 [**](**)， 提取出 [**] 或者 ![**] 中的**部分，舍去其他部分
+  // 例如： ## [You test](dfdfdf) => ## You test
+
+  const match1 = line.match(/^(#+)\s*(.*?)\!\[\s*(.*?)\s*\]\s*\((.*?)\s*\)\s*/)
+  if (match1) {
+    const [_, prefix, content, imgAtl, imgUrl] = match1
+
+    let part = ``;
+    if (content.trim().length > 0) {
+      part = `${content.trim()}\n\n`
+    } else {
+      part = `${imgAtl.trim()}\n\n`
+    }
+
+    if (imgUrl && imgUrl.trim().length > 0) {
+      part = `${part}![${imgAtl.trim()}](${imgUrl.trim()})`
+    }
+
+    const lines = `${prefix} ${part}`.split('\n')
+    return lines.map(line => fixConentByLine(line)).join('\n')
+  }
+
+  const match2 = line.match(/^(#+)\s*(.*?)\[\s*(.*?)\s*\]\s*\((.*?)\s*\)\s*/)
+  if (match2) {
+    const [_, prefix, content, title, url] = match2
+
+    let part = ``;
+    if (content.trim().length > 0) {
+      part = `${content.trim()} ${title.trim()}`
+    } else {
+      part = `${title.trim()}`
+    }
+
+    const lines = `${prefix} ${part}`.split('\n')
+    return lines.map(line => fixConentByLine(line)).join('\n')
+  }
+
+  return line
+}
+
+function fixMarkdownContent(content) {
+  // 以下需要分行处理
+  const lines = content.split('\n')
+  content = lines.map(line => fixConentByLine(line)).join('\n')
+
+  // 通用规则
+  content = content.replace(/!\[\s*(.*?)\s*\]/g, '![$1]')
+  content = content.replace(/!\s+\[\s*(.*?)\s*\]/g, '![$1]')
+  content = content.replace(/\]\s+\(\s*(.*?)\s*\)/g, ']($1)')
+  content = content.replace(/\]\s+\[\s*(.*?)\s*\]/g, '][$1]')
+
+  content = content.replace(/\[\s*(.*?)\s*\]/g, '[$1]')
+  content = content.replace(/\(\s*(.*?)\s*\)/g, '($1)')
+  content = content.replace(/\]\s+\]/g, ']]')
+  content = content.replace(/<br>/gi, '\n')
+  return content
+}
+
 // 删除文档中的重复内容
 function removeDuplicatedLinesFromContent(content) {
   // 由于历史原因，已经包含 also read 内容的，不做处理，直接返回原值
@@ -569,6 +628,7 @@ const updatePostsTask = () => {
     try {
       // 尝试删除文档中的重复内容
       let newContent = removeDuplicatedLinesFromContent(content);
+      newContent = fixMarkdownContent(newContent);
 
       // 处理 also read
       const url = getRelativePathForPost(postPath);
@@ -645,6 +705,7 @@ const updatePostsTask = () => {
               // 拷贝过去的文件也要更新一下时间
               // 尝试删除文档中的重复内容
               let newContent = removeDuplicatedLinesFromContent(content);
+              newContent = fixMarkdownContent(newContent);
 
               // 处理 also read
               const url = getRelativePathForPost(targetFile);
@@ -939,7 +1000,16 @@ const backupGit = () => {
 
       // 需要备份的关键文件
       execSync(
-        `git add _config.redefine.yml _config.yml init.js package.json readme.md submit.bing.js`,
+        `git add _config.redefine.yml _config.yml package.json readme.md`,
+        {
+          cwd: __dirname,
+          maxBuffer: 100 * 1024 * 1024,
+        },
+      );
+
+      // 需要备份的关键文件
+      execSync(
+        `git add init.js submit.bing.js`,
         {
           cwd: __dirname,
           maxBuffer: 100 * 1024 * 1024,
