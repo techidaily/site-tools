@@ -1074,6 +1074,20 @@ const backupGit = () => {
   }
 };
 
+// 执行自定义任务文件
+const execCustomTask = () => {
+  const task_file = path.join(__dirname, "custom-task.js");
+  if (fs.existsSync(task_file)) {
+    console.log(`执行自定义任务文件 ${task_file}`)
+    try {
+      require(task_file);
+    } catch (e) {
+      console.log(`执行自定义任务文件 ${task_file} 失败`)
+      console.error(e);
+    }
+  }
+}
+
 const cleanPM2Logs = () => {
   console.log(`清理 pm2 日志`);
   try {
@@ -1091,6 +1105,7 @@ const cleanPM2Logs = () => {
 // 只执行更新文章的任务
 if (isProcessArgsContains("--only-update-posts")) {
   cleanPM2Logs();
+  execCustomTask();
   updatePostsTask();
   cleanMemoryTask();
   process.exit(0);
@@ -1099,14 +1114,33 @@ if (isProcessArgsContains("--only-update-posts")) {
 // 解析命令行参数， 只处理map
 if (isProcessArgsContains("--only-map")) {
   cleanPM2Logs();
+  execCustomTask();
   updatePostsTask();
   cleanMemoryTask();
   process.exit(0);
 }
 
+// 解析命令行参数，如果出现限制每天执行的时间段，例如: 21:00 - 07:00 时间段内执行
+if (isProcessArgsContains("--only-night")) {
+  // 获得当前时间，要小时部分
+  const nowHour = (new Date()).getHours();
+  if (nowHour <= 6 || nowHour >= 21) {
+    normalRunTask();
+  } else {
+    console.log("当前时间不在 21:00 - 07:00 时间段内，不执行任务");
+  }
+}
+
+
 // 正常执行任务
 if (gPublishHelper.check()) {
+  normalRunTask();
+}
+
+
+function normalRunTask() {
   cleanPM2Logs();
+  execCustomTask();
   // 执行任务队列
   backupGit();
   updatePostsTask();
