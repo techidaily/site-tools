@@ -1,6 +1,6 @@
 ---
 title: Stellar Video Repair for macOS
-date: 2024-05-19T02:17:35.171Z
+date: 2024-06-30T13:58:09.890Z
 tags: 
   - stellar
   - repair
@@ -95,7 +95,7 @@ The 'Advance Repair' feature helps to repair severely damaged videos using a ‘
 
 ### 5.3. Saves Repaired Files at the Desired Location
 
-Stellar Repair for Video allows saving repaired videos at the desired location on a Mac drive/volume, Time Machine, flash drive, or other external storage media supported by macOS[AA1]  Ventura, Big Sur, Catalina, Mojave, and older versions. Simply browse to specify the desired location to save the repaired video files.
+Stellar Repair for Video allows saving repaired videos at the desired location on a Mac drive/volume, Time Machine, flash drive, or other external storage media supported by macOS [AA1]  Ventura, Big Sur, Catalina, Mojave, and older versions. Simply browse to specify the desired location to save the repaired video files.
 
 ### 5.4. Batch Repair Multiple Videos
 
