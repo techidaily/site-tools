@@ -21,7 +21,7 @@ With the Local Trade Copier™ software, it's super easy to copy your Forex trad
 
 - **Local Trade Copier™ for MT4 & MT5 (Personal Monthly Plan)** : [$31.47/month](https://secure.2checkout.com/order/cart.php?PRODS=4722887&QTY=1&AFFILIATE=108875)
 - **Local Trade Copier™ for MT4 & MT5 (Manager Monthly Plan)** : [$96.58/month](https://secure.2checkout.com/order/cart.php?PRODS=4723269&QTY=1&AFFILIATE=108875)
-- **Local Trade Copier™ for MT4 & MT5 (VIP Monthly Plan)** : [$215.95/month](https://secure.2checkout.com/order/checkout.php?PRODS=4723270&QTY=1&AFFILIATE=108875)
+- **Local Trade Copier™ for MT4 & MT5 (VIP Monthly Plan)** : [$215.95/month](https://secure.2checkout.com/order/cart.php?PRODS=4723270&QTY=1&AFFILIATE=108875)
 - **Local Trade Copier™ for MT4 & MT5 (Personal Annual Plan)** : [$314.71/year](https://secure.2checkout.com/order/cart.php?PRODS=4723646&QTY=1&AFFILIATE=108875)
 - **Local Trade Copier™ for MT4 & MT5 (Manager Annual Plan)** : [$965.83/year](https://secure.2checkout.com/order/cart.php?PRODS=4723648&QTY=1&AFFILIATE=108875)
 - **Local Trade Copier™ for MT4 & MT5 (VIP Annual Plan)** : [$2159.55/year](https://secure.2checkout.com/order/cart.php?PRODS=4723650&QTY=1&AFFILIATE=108875)

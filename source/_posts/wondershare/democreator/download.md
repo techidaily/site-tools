@@ -15,10 +15,10 @@ thumbnail: https://images.wondershare.com/democreator/images2024/homepage/202401
 
 ## Free Download && Buy Now
 
-- [Wondershare DemoCreator for Win - Annual Plan](https://secure.2checkout.com/order/checkout.php?PRODS=38244636&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare DemoCreator for Win - Perpetual Plan](https://secure.2checkout.com/order/checkout.php?PRODS=38244643&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare DemoCreator for Mac - Perpetual Plan](https://secure.2checkout.com/order/checkout.php?PRODS=38212008&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare DemoCreator for Mac - Annual Plan](https://secure.2checkout.com/order/checkout.php?PRODS=38212061&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare DemoCreator for Win - Annual Plan](https://secure.2checkout.com/order/cart.php?PRODS=38244636&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare DemoCreator for Win - Perpetual Plan](https://secure.2checkout.com/order/cart.php?PRODS=38244643&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare DemoCreator for Mac - Perpetual Plan](https://secure.2checkout.com/order/cart.php?PRODS=38212008&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare DemoCreator for Mac - Annual Plan](https://secure.2checkout.com/order/cart.php?PRODS=38212061&QTY=1&AFFILIATE=108875&CART=1)
 
 ## High-Quality Recording Experiences for Every Purpose
 

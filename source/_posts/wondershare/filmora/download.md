@@ -18,12 +18,12 @@ thumbnail: https://images.wondershare.com/filmora/filmora13/homepage/banner-bg-v
 
 ## Free Download && Buy Filmora
 
-- [Wondershare Filmora (Video Editor)](https://secure.2checkout.com/order/checkout.php?PRODS=4560177&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare Filmora for Win - Perpetual License (NEW)](https://secure.2checkout.com/order/checkout.php?PRODS=37744872&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare Filmora for Mac - Perpetual License (NEW)](https://secure.2checkout.com/order/checkout.php?PRODS=4579868&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare Filmora for Win - Annual Plan (NEW)](https://secure.2checkout.com/order/checkout.php?PRODS=4714227&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare Filmora for Mac - Annual Plan (NEW)](https://secure.2checkout.com/order/checkout.php?PRODS=4714228&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare FilmoraPro (Lifetime)](https://secure.2checkout.com/order/checkout.php?PRODS=19907489&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare Filmora (Video Editor)](https://secure.2checkout.com/order/cart.php?PRODS=4560177&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare Filmora for Win - Perpetual License (NEW)](https://secure.2checkout.com/order/cart.php?PRODS=37744872&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare Filmora for Mac - Perpetual License (NEW)](https://secure.2checkout.com/order/cart.php?PRODS=4579868&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare Filmora for Win - Annual Plan (NEW)](https://secure.2checkout.com/order/cart.php?PRODS=4714227&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare Filmora for Mac - Annual Plan (NEW)](https://secure.2checkout.com/order/cart.php?PRODS=4714228&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare FilmoraPro (Lifetime)](https://secure.2checkout.com/order/cart.php?PRODS=19907489&QTY=1&AFFILIATE=108875&CART=1)
 
 ## Filmora - AI Video Editing Software
 

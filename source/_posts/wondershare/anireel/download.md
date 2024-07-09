@@ -14,10 +14,10 @@ thumbnail: https://images.wondershare.com/anireel/images2022/home/banner.png
 
 ## Free Download && Buy Now
 
-- [Wondershare Anireel Standard - 1 Month License (Windows only)](https://secure.2checkout.com/order/checkout.php?PRODS=38953911&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare Anireel Standard - 1 Year License (Windows only)](https://secure.2checkout.com/order/checkout.php?PRODS=38953916&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare Anireel Bundle - 1 Month License (Windows only)](https://secure.2checkout.com/order/checkout.php?PRODS=38953925&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare Anireel Bundle - 1 Year License (Windows only)](https://secure.2checkout.com/order/checkout.php?PRODS=38953926&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare Anireel Standard - 1 Month License (Windows only)](https://secure.2checkout.com/order/cart.php?PRODS=38953911&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare Anireel Standard - 1 Year License (Windows only)](https://secure.2checkout.com/order/cart.php?PRODS=38953916&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare Anireel Bundle - 1 Month License (Windows only)](https://secure.2checkout.com/order/cart.php?PRODS=38953925&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare Anireel Bundle - 1 Year License (Windows only)](https://secure.2checkout.com/order/cart.php?PRODS=38953926&QTY=1&AFFILIATE=108875&CART=1)
 
 ## The Easy Way to Create Riveting Animated Explainer Videos
 

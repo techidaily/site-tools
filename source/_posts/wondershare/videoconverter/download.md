@@ -15,15 +15,15 @@ thumbnail: https://images.wondershare.com/videoconverter/images2023/vc15/banner-
 
 ## Free Download && Buy Now
 
-- [UniConverter 14 for Windows - ANNUAL PLAN](https://secure.2checkout.com/order/checkout.php?PRODS=39279238&QTY=1&AFFILIATE=108875&CART=1)
-- [UniConverter 14 for Windows - PERPETUAL PLAN](https://secure.2checkout.com/order/checkout.php?PRODS=39279294&QTY=1&AFFILIATE=108875&CART=1)
-- [UniConverter 14 for Mac - ANNUAL PLAN](https://secure.2checkout.com/order/checkout.php?PRODS=39279303&QTY=1&AFFILIATE=108875&CART=1)
-- [UniConverter 14 for Mac - PERPETUAL PLAN](https://secure.2checkout.com/order/checkout.php?PRODS=39279337&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare UniConverter 13 for Win - Perpetual Plan](https://secure.2checkout.com/order/checkout.php?PRODS=4560063&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare UniConverter 13 for Mac - Perpetual Plan](https://secure.2checkout.com/order/checkout.php?PRODS=4560074&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare UniConverter 13 for Win - Annual Plan](https://secure.2checkout.com/order/checkout.php?PRODS=38191716&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare UniConverter 13 for Mac - Annual Plan](https://secure.2checkout.com/order/checkout.php?PRODS=38191743&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare Video Converter Pro for Mac](https://secure.2checkout.com/order/checkout.php?PRODS=4560072&QTY=1&AFFILIATE=108875&CART=1)
+- [UniConverter 14 for Windows - ANNUAL PLAN](https://secure.2checkout.com/order/cart.php?PRODS=39279238&QTY=1&AFFILIATE=108875&CART=1)
+- [UniConverter 14 for Windows - PERPETUAL PLAN](https://secure.2checkout.com/order/cart.php?PRODS=39279294&QTY=1&AFFILIATE=108875&CART=1)
+- [UniConverter 14 for Mac - ANNUAL PLAN](https://secure.2checkout.com/order/cart.php?PRODS=39279303&QTY=1&AFFILIATE=108875&CART=1)
+- [UniConverter 14 for Mac - PERPETUAL PLAN](https://secure.2checkout.com/order/cart.php?PRODS=39279337&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare UniConverter 13 for Win - Perpetual Plan](https://secure.2checkout.com/order/cart.php?PRODS=4560063&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare UniConverter 13 for Mac - Perpetual Plan](https://secure.2checkout.com/order/cart.php?PRODS=4560074&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare UniConverter 13 for Win - Annual Plan](https://secure.2checkout.com/order/cart.php?PRODS=38191716&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare UniConverter 13 for Mac - Annual Plan](https://secure.2checkout.com/order/cart.php?PRODS=38191743&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare Video Converter Pro for Mac](https://secure.2checkout.com/order/cart.php?PRODS=4560072&QTY=1&AFFILIATE=108875&CART=1)
 
 ## Overview
 

@@ -142,7 +142,7 @@ In addition to iOS® data recovery, this version is inclusive of iPhone® Data E
 
 **$79.99**
 
-[Buy Now](https://secure.2checkout.com/order/checkout.php?PRODS=31594275&QTY=1&AFFILIATE=108875&CART=1)
+[Buy Now](https://secure.2checkout.com/order/cart.php?PRODS=31594275&QTY=1&AFFILIATE=108875&CART=1)
 
 - Includes all features of Standard
 - iPhone® Data Eraser
@@ -155,7 +155,7 @@ The All-in-one iPhone® solution supports multiple iOS® devices - iPhone®, iPa
 
 **$199.99**
 
-[Buy Now](https://secure.2checkout.com/order/checkout.php?PRODS=37650475&QTY=1&AFFILIATE=108875&CART=1)
+[Buy Now](https://secure.2checkout.com/order/cart.php?PRODS=37650475&QTY=1&AFFILIATE=108875&CART=1)
 
 - Includes all features of Toolkit
 - iPhone® Data Eraser

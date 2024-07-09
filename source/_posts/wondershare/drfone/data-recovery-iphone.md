@@ -15,8 +15,8 @@ thumbnail: https://images.wondershare.com/drfone/product-2021/data-recovery/data
 
 ## Try Download & Buy
 
-[Get up to 28% off on Windows](https://secure.2checkout.com/order/checkout.php?PRODS=4719756&QTY=1&AFFILIATE=108875&CART=1) Online
-[Get up to 28% off on macOS](https://secure.2checkout.com/order/checkout.php?PRODS=4719756&QTY=1&AFFILIATE=108875&CART=1) Online
+[Get up to 28% off on Windows](https://secure.2checkout.com/order/cart.php?PRODS=4719756&QTY=1&AFFILIATE=108875&CART=1) Online
+[Get up to 28% off on macOS](https://secure.2checkout.com/order/cart.php?PRODS=4719756&QTY=1&AFFILIATE=108875&CART=1) Online
 
 - **Selective Recovery**: Recover what you need selectively from iPhone without overwriting data.
 

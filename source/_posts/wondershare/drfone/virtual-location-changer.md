@@ -20,8 +20,8 @@ Dr.Fone - Virtual Location (iOS/Android) ![hot icon](https://images.wondershare.
 
 ## Try Download & Buy
 
-[Get up to 28% off on Windows](https://secure.2checkout.com/order/checkout.php?PRODS=4719742&QTY=1&AFFILIATE=108875&CART=1) Online
-[Get up to 28% off on macOS](https://secure.2checkout.com/order/checkout.php?PRODS=4719751&QTY=1&AFFILIATE=108875&CART=1) Online
+[Get up to 28% off on Windows](https://secure.2checkout.com/order/cart.php?PRODS=4719742&QTY=1&AFFILIATE=108875&CART=1) Online
+[Get up to 28% off on macOS](https://secure.2checkout.com/order/cart.php?PRODS=4719751&QTY=1&AFFILIATE=108875&CART=1) Online
 
 ## Play Geo-Based Games without Going Outside
 

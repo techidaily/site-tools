@@ -120,8 +120,8 @@ Write your own ringtones, and design a special wallpaper with clicks? Fly your i
 
 Offer a complete set of solutions for your phone. All-rounded, so pro.
 
-[Get up to 28% off on Windows](https://secure.2checkout.com/order/checkout.php?PRODS=4719742&QTY=1&AFFILIATE=108875&CART=1) Online
-[Get up to 28% off on macOS](https://secure.2checkout.com/order/checkout.php?PRODS=4719751&QTY=1&AFFILIATE=108875&CART=1) Online
+[Get up to 28% off on Windows](https://secure.2checkout.com/order/cart.php?PRODS=4719742&QTY=1&AFFILIATE=108875&CART=1) Online
+[Get up to 28% off on macOS](https://secure.2checkout.com/order/cart.php?PRODS=4719751&QTY=1&AFFILIATE=108875&CART=1) Online
 
 ### Dr.Fone - Air
 

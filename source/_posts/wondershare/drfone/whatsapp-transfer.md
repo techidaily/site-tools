@@ -122,8 +122,8 @@ All-in-one data management solution. Back up and manage phone data, and mirror y
 
 ## Try Download & Buy
 
-[Get up to 28% off on Windows](https://secure.2checkout.com/order/checkout.php?PRODS=27852413&QTY=1&AFFILIATE=108875&CART=1) Online
-[Get up to 28% off on macOS](https://secure.2checkout.com/order/checkout.php?PRODS=27852549&QTY=1&AFFILIATE=108875&CART=1) Online
+[Get up to 28% off on Windows](https://secure.2checkout.com/order/cart.php?PRODS=27852413&QTY=1&AFFILIATE=108875&CART=1) Online
+[Get up to 28% off on macOS](https://secure.2checkout.com/order/cart.php?PRODS=27852549&QTY=1&AFFILIATE=108875&CART=1) Online
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>

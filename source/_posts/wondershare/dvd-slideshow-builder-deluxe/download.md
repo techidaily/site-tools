@@ -18,7 +18,7 @@ The ultimate software to weave your photos and video clips into a stunning DVD s
 
 ## Free Download && Buy Now
 
-- [Download for Win7,10, Win11](https://secure.2checkout.com/order/checkout.php?PRODS=4560064&QTY=1&AFFILIATE=108875&CART=1)
+- [Download for Win7,10, Win11](https://secure.2checkout.com/order/cart.php?PRODS=4560064&QTY=1&AFFILIATE=108875&CART=1)
 
 ## Craft an Original Story Using Your Memories
 

@@ -15,8 +15,8 @@ thumbnail: https://images.media.io/kwicut/images2023/index/top-banner2.png
 
 ## Free Download && Buy Now
 
-- [Download For Free for Windows](https://secure.2checkout.com/order/checkout.php?PRODS=4579873&QTY=1&AFFILIATE=108875&CART=1)
-- [Download For Free for macOS](https://secure.2checkout.com/order/checkout.php?PRODS=4579874&QTY=1&AFFILIATE=108875&CART=1)
+- [Download For Free for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4579873&QTY=1&AFFILIATE=108875&CART=1)
+- [Download For Free for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4579874&QTY=1&AFFILIATE=108875&CART=1)
 
 ## Easy and powerful DVD Toolbox. Meet all your DVD needs
 

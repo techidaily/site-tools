@@ -16,19 +16,19 @@ thumbnail: https://tunesgo.wondershare.com/images/home_banner_pc.png
 
 ## Free Download && Buy Now
 
-- [Wondershare TunesGo (Win) - iOS & Android Devices - Perpetual License](https://secure.2checkout.com/order/checkout.php?PRODS=4579896&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare TunesGo (Mac) - iOS & Android Devices - Perpetual License](https://secure.2checkout.com/order/checkout.php?PRODS=4594912&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare TunesGo (Win) - iOS Devices - Perpetual License](https://secure.2checkout.com/order/checkout.php?PRODS=4698522&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare TunesGo (Win) - Android Devices - Perpetual License](https://secure.2checkout.com/order/checkout.php?PRODS=4698523&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare TunesGo (Mac) - iOS Devices - Perpetual License](https://secure.2checkout.com/order/checkout.php?PRODS=4698524&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare TunesGo (Mac) - Android Devices - Perpetual License](https://secure.2checkout.com/order/checkout.php?PRODS=4698527&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare TunesGo (Win) - iOS & Android Devices - Perpetual License](https://secure.2checkout.com/order/cart.php?PRODS=4579896&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare TunesGo (Mac) - iOS & Android Devices - Perpetual License](https://secure.2checkout.com/order/cart.php?PRODS=4594912&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare TunesGo (Win) - iOS Devices - Perpetual License](https://secure.2checkout.com/order/cart.php?PRODS=4698522&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare TunesGo (Win) - Android Devices - Perpetual License](https://secure.2checkout.com/order/cart.php?PRODS=4698523&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare TunesGo (Mac) - iOS Devices - Perpetual License](https://secure.2checkout.com/order/cart.php?PRODS=4698524&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare TunesGo (Mac) - Android Devices - Perpetual License](https://secure.2checkout.com/order/cart.php?PRODS=4698527&QTY=1&AFFILIATE=108875&CART=1)
 
-- [Wondershare TunesGo (Win) - Android Devices - Annual Subscription](https://secure.2checkout.com/order/checkout.php?PRODS=38784203&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare TunesGo (Win) - iOS & Android Devices - Annual Subscription](https://secure.2checkout.com/order/checkout.php?PRODS=38784205&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare TunesGo (Win) - iOS Devices - Annual Subscription](https://secure.2checkout.com/order/checkout.php?PRODS=38784209&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare TunesGo (Mac) - Android Devices - Annual Subscription](https://secure.2checkout.com/order/checkout.php?PRODS=38784148&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare TunesGo (Mac) - iOS & Android Devices - Annual Subscription](https://secure.2checkout.com/order/checkout.php?PRODS=38784186&QTY=1&AFFILIATE=108875&CART=1)
-- [Wondershare TunesGo (Mac) - iOS Devices - Annual Subscription](https://secure.2checkout.com/order/checkout.php?PRODS=38784194&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare TunesGo (Win) - Android Devices - Annual Subscription](https://secure.2checkout.com/order/cart.php?PRODS=38784203&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare TunesGo (Win) - iOS & Android Devices - Annual Subscription](https://secure.2checkout.com/order/cart.php?PRODS=38784205&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare TunesGo (Win) - iOS Devices - Annual Subscription](https://secure.2checkout.com/order/cart.php?PRODS=38784209&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare TunesGo (Mac) - Android Devices - Annual Subscription](https://secure.2checkout.com/order/cart.php?PRODS=38784148&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare TunesGo (Mac) - iOS & Android Devices - Annual Subscription](https://secure.2checkout.com/order/cart.php?PRODS=38784186&QTY=1&AFFILIATE=108875&CART=1)
+- [Wondershare TunesGo (Mac) - iOS Devices - Annual Subscription](https://secure.2checkout.com/order/cart.php?PRODS=38784194&QTY=1&AFFILIATE=108875&CART=1)
 
 ## Seamless Entertainment with All Your Media Around
 

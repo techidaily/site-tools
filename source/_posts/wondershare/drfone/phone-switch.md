@@ -134,8 +134,8 @@ Integrated data management solution. Your phone data can be managed, backed up, 
 
 ## Try Download & Buy
 
-[Get up to 28% off on Windows](https://secure.2checkout.com/order/checkout.php?PRODS=4719745&QTY=1&AFFILIATE=108875&CART=1) Online
-[Get up to 28% off on macOS](https://secure.2checkout.com/order/checkout.php?PRODS=4719759&QTY=1&AFFILIATE=108875&CART=1) Online
+[Get up to 28% off on Windows](https://secure.2checkout.com/order/cart.php?PRODS=4719745&QTY=1&AFFILIATE=108875&CART=1) Online
+[Get up to 28% off on macOS](https://secure.2checkout.com/order/cart.php?PRODS=4719759&QTY=1&AFFILIATE=108875&CART=1) Online
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
 <li><a href="https://tools.techidaily.com/download/" ><u>Driver Easy - Update your drivers in Windows 11,10 and 7.</u></a></li>
