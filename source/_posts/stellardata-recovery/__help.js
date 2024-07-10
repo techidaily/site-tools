@@ -162,7 +162,7 @@ const contentLines = _.uniq(txt.split('\n').map(v => v.trim()).filter(v => v.len
 
 const fBuyUrl = (product) => {
   const map = gData.productBuyMap || {};
-  return map[product] || '';
+  return (map[product] || '').replace('https://secure.2checkout.com/order/checkout.php', 'https://secure.2checkout.com/order/cart.php');
 }
 
 const lines = [
