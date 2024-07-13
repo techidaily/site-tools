@@ -1,7 +1,6 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="keywords" content="<%= encodePercent(page.keyword) || encodePercent(page.keywords) || encodePercent(config.keywords) || 'Hexo Theme Redefine' %>">
     <% if (!theme.global.open_graph) { %>
         <meta name="description" content="<%= encodePercent(page.description) || encodePercent(config.description) || 'Hexo Theme Redefine' %>">
     <% }%>
@@ -121,6 +120,9 @@
         <link href="<%- theme.global.fonts.english.url %>" rel="stylesheet">
     <% } %>
 
+    <% if (theme.global.preloader) { %>
+        <%- renderJS('js/libs/anime.min.js')%>
+    <% } %>
 
     <%- export_config() %>
 
