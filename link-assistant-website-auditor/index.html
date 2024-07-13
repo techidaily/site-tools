@@ -167,9 +167,10 @@
 </style>
 
 <div class="preloader">
-    <h2 class="ml13">
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/anime.min.js"></script>
+    <h1 class="ml13">
         Tools
-    </h2>
+    </h1>
     <script>
         var textWrapper = document.querySelector('.ml13');
         // Split text into words
@@ -187,28 +188,24 @@
             textWrapper.appendChild(document.createTextNode(' ')); // Add space between words
         });
 
-        var animation = anime.timeline({loop: true})
+
+        anime.timeline({loop: true})
             .add({
                 targets: '.ml13 .letter',
-                translateY: [40,0],
+                translateY: [100,0],
                 translateZ: 0,
                 opacity: [0,1],
-                filter: ['blur(5px)', 'blur(0px)'], // Starting from blurred to unblurred
                 easing: "easeOutExpo",
                 duration: 1400,
-                delay: (el, i) => 300 + 30 * i,
+                delay: (el, i) => 300 + 30 * i
             }).add({
-                targets: '.ml13 .letter',
-                translateY: [0,-40],
-                opacity: [1,0],
-                filter: ['blur(0px)', 'blur(5px)'], // Ending from unblurred to blurred
-                easing: "easeInExpo",
-                duration: 1200,
-                delay: (el, i) => 100 + 30 * i,
-                complete: function() {
-                    hidePreloader(); // Call hidePreloader after the animation completes
-                }
-            });
+            targets: '.ml13 .letter',
+            translateY: [0,-100],
+            opacity: [1,0],
+            easing: "easeInExpo",
+            duration: 1200,
+            delay: (el, i) => 100 + 30 * i
+        });
 
         let themeStatus = JSON.parse(localStorage.getItem('REDEFINE-THEME-STATUS'))?.isDark;
 
@@ -231,15 +228,20 @@
         }
 
         window.addEventListener('load', function () {
-            setTimeout(hidePreloader, 5000); // Call hidePreloader after 5000 milliseconds if not already called by animation
+            hidePreloaderAfterTimeout(1000); // Hide after 1000 milliseconds once the window has loaded
         });
 
-        function hidePreloader() {
-            var preloader = document.querySelector('.preloader');
-            preloader.style.opacity = '0';
+        // Backup failsafe: Hide preloader after a maximum of 5000 milliseconds, regardless of the window load event
+        hidePreloaderAfterTimeout(5000);
+
+        function hidePreloaderAfterTimeout(delay) {
             setTimeout(function () {
-                preloader.style.display = 'none';
-            }, 200);
+                var preloader = document.querySelector('.preloader');
+                preloader.style.opacity = '0';
+                setTimeout(function () {
+                    preloader.style.display = 'none';
+                }, 200);
+            }, delay);
         }
     </script>
 </div>
@@ -262,10 +264,6 @@
     
     
     
-    
-
-    
-        <script src="https://cloudflare-cdn.techidaily.com/js/libs/anime.min.js"></script>
     
 
     <script id="hexo-configurations">
@@ -373,9 +371,10 @@
 </style>
 
 <div class="preloader">
-    <h2 class="ml13">
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/anime.min.js"></script>
+    <h1 class="ml13">
         Tools
-    </h2>
+    </h1>
     <script>
         var textWrapper = document.querySelector('.ml13');
         // Split text into words
@@ -393,28 +392,24 @@
             textWrapper.appendChild(document.createTextNode(' ')); // Add space between words
         });
 
-        var animation = anime.timeline({loop: true})
+
+        anime.timeline({loop: true})
             .add({
                 targets: '.ml13 .letter',
-                translateY: [40,0],
+                translateY: [100,0],
                 translateZ: 0,
                 opacity: [0,1],
-                filter: ['blur(5px)', 'blur(0px)'], // Starting from blurred to unblurred
                 easing: "easeOutExpo",
                 duration: 1400,
-                delay: (el, i) => 300 + 30 * i,
+                delay: (el, i) => 300 + 30 * i
             }).add({
-                targets: '.ml13 .letter',
-                translateY: [0,-40],
-                opacity: [1,0],
-                filter: ['blur(0px)', 'blur(5px)'], // Ending from unblurred to blurred
-                easing: "easeInExpo",
-                duration: 1200,
-                delay: (el, i) => 100 + 30 * i,
-                complete: function() {
-                    hidePreloader(); // Call hidePreloader after the animation completes
-                }
-            });
+            targets: '.ml13 .letter',
+            translateY: [0,-100],
+            opacity: [1,0],
+            easing: "easeInExpo",
+            duration: 1200,
+            delay: (el, i) => 100 + 30 * i
+        });
 
         let themeStatus = JSON.parse(localStorage.getItem('REDEFINE-THEME-STATUS'))?.isDark;
 
@@ -437,15 +432,20 @@
         }
 
         window.addEventListener('load', function () {
-            setTimeout(hidePreloader, 5000); // Call hidePreloader after 5000 milliseconds if not already called by animation
+            hidePreloaderAfterTimeout(1000); // Hide after 1000 milliseconds once the window has loaded
         });
 
-        function hidePreloader() {
-            var preloader = document.querySelector('.preloader');
-            preloader.style.opacity = '0';
+        // Backup failsafe: Hide preloader after a maximum of 5000 milliseconds, regardless of the window load event
+        hidePreloaderAfterTimeout(5000);
+
+        function hidePreloaderAfterTimeout(delay) {
             setTimeout(function () {
-                preloader.style.display = 'none';
-            }, 200);
+                var preloader = document.querySelector('.preloader');
+                preloader.style.opacity = '0';
+                setTimeout(function () {
+                    preloader.style.display = 'none';
+                }, 200);
+            }, delay);
         }
     </script>
 </div>
