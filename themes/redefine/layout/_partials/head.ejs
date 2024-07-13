@@ -1,6 +1,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="<%= encodePercent(page.keyword) || encodePercent(page.keywords) || encodePercent(config.keywords) || 'Hexo Theme Redefine' %>">
     <% if (!theme.global.open_graph) { %>
         <meta name="description" content="<%= encodePercent(page.description) || encodePercent(config.description) || 'Hexo Theme Redefine' %>">
     <% }%>
@@ -119,6 +120,7 @@
         <link rel="preload" as="stylesheet" href="<%- theme.global.fonts.english.url %>">
         <link href="<%- theme.global.fonts.english.url %>" rel="stylesheet">
     <% } %>
+
 
     <%- export_config() %>
 
