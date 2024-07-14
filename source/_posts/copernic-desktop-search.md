@@ -1,6 +1,6 @@
 ---
 title: Copernic Desktop Search
-date: 2024-07-10T11:03:44.059Z
+date: 2024-07-13T12:18:08.991Z
 tags: 
   - deep desktop search
 categories: 
@@ -60,6 +60,9 @@ The Refine pane on the left of the interface allows you to forage further into t
 
 ![Refine fields](/images/apps/copernic/desktop-search/pages/desktop-refine.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### 3.6. Contextual menu
 
 Right-click on any file in the Preview pane and immediately see the file’s context menu. From there act on your files, documents or emails—and find that ever-elusive information you’ve been looking for.
@@ -86,6 +89,9 @@ Kickstart your teams’ productivity! While Copernic searches, employees can spe
 | --- | --- | --- | --- |
 | [BUY NOW](https://shop.copernic.com/order/cart.php?PRODS=41027763&QTY=1&AFFILIATE=108875) | [BUY NOW](https://shop.copernic.com/order/cart.php?PRODS=41033091&QTY=1&AFFILIATE=108875) | [BUY NOW](https://shop.copernic.com/order/cart.php?PRODS=41033101&QTY=1&AFFILIATE=108875) | [BUY NOW](https://shop.copernic.com/order/cart.php?PRODS=39849321&QTY=1&AFFILIATE=108875) |
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. Support file types
 
 Search over 170 file types

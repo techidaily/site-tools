@@ -1,6 +1,6 @@
 ---
 title: Keyword Grouping Tool
-date: 2024-07-10T11:03:44.170Z
+date: 2024-07-13T12:18:08.639Z
 description: In All Keyword Research Methods & Rank Tracking
 keywords: keyword gap
 thumbnail: https://cdn1.link-assistant.com/images/common-theme/landings/keyword-research/keyword-grouper/new/main-pic@1x.webp
@@ -32,6 +32,9 @@ Keyword grouping is now **available in all keyword suggestion methods and Rank T
 
 ![Drag and drop one or several keywords into groups](https://cdn1.link-assistant.com/images/common-theme/landings/keyword-research/keyword-grouper/new/pic-2@2x.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Tree view of keyword groups with folders and subfolders](https://cdn1.link-assistant.com/images/common-theme/landings/keyword-research/keyword-grouper/new/pic-3@2x.webp)
 
 Enjoy the unbeaten flexibility of topic clustering
@@ -106,6 +109,9 @@ Better SEO content strategies
 
 Use powerful topic research.Find trending topics. Explore content gaps. Plan your content thoroughly.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Improved keyword research](https://cdn1.link-assistant.com/images/common-theme/landings/keyword-research/keyword-grouper/new/trophy.webp)
 
 Improved keyword research

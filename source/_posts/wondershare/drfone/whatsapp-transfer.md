@@ -1,6 +1,6 @@
 ---
 title: iOS & Android WhatsApp Transfer 
-date: 2024-07-10T11:03:44.888Z
+date: 2024-07-13T12:18:09.439Z
 description: Back up your WhatsApp, WeChat, LINE, Kik, and Viber chat history and attachments. Transfer WhatsApp data between OS without struggle.
 keywords: backup whatsapp, transfer whatsapp, whatsapp backup, whatsapp transfer
 thumbnail: https://images.wondershare.com/drfone/product-2021/whatsapp/whatsapp-banner.png
@@ -37,6 +37,9 @@ Need to transfer more than just your social apps to a new phone? Try Dr.Fone - P
 
 Photos, videos, contacts, contact blacklist, messages, call history, bookmarks, calendar, voice memo, music, alarm records, voicemail, ringtones, wallpaper, and notes.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ios to ios](https://images.wondershare.com/drfone/product-2021/whatsapp/ios-to-ios.svg)
 
 ### iOS to iOS
@@ -65,6 +68,9 @@ Call log is not supported anymore on iOS 13 or above. App data is not supported 
 
 1 GHz or faster processor (Intel or AMD)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Hard Disk Space
 
 200 MB of available hard disk space
