@@ -55,7 +55,4 @@ Stellar Repair for Excel is the best choice for repairing corrupt or damaged Exc
 
 
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tools.techidaily.com/stellardata-recovery/repair-for-pdf/"><u>Stellar Repair for PDF</u></a></li>
-</ul></div>
+

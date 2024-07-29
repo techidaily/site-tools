@@ -232,7 +232,4 @@ Agencies can save SEO audit results to cloud storage and easily share white-labe
 
 
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tools.techidaily.com/link-assistant-rank-tracker/"><u>SEO PowerSuite - Rank Tracker</u></a></li>
-</ul></div>
+

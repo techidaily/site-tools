@@ -107,7 +107,4 @@ Mirror, control, and record your mobile device screen on a Windows PC.
 
 
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/android-repair/"><u>Android System Repair</u></a></li>
-</ul></div>
+

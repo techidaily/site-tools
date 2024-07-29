@@ -125,7 +125,4 @@ Stellar Photo Recovery (previously known as Stellar Phoenix Photo Recovery) reco
 
 
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tools.techidaily.com/stellar-photo-recovery-for-mac/"><u>Stellar Photo Recovery for macOS</u></a></li>
-</ul></div>
+
