@@ -1,6 +1,6 @@
 ---
 title: Local Trade Copier
-date: 2024-07-28T23:40:52.473Z
+date: 2024-08-11T10:32:56.534Z
 tags: 
   - mt4
   - mt5
@@ -38,9 +38,6 @@ With the Local Trade Copier™ software, it's super easy to copy your Forex trad
 
 ## 3. Imagine this
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Imagine](/images/apps/mt4copier/imagine.png)
 
 What if I said there’s a tool that lets you **copy your trades to many Metatrader accounts super easily**?
@@ -189,9 +186,6 @@ When we have a Client account setup like this, the MAAB Trade Filters will cease
 
 Finally, we have a second Client account that we want to improve with MAAB Trading Filter. I will attach the MAAB Trade Filter (client-side) indicator first and then set it to connect with the first #60055865 Master account in the ServerAccountNumber field.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](/images/apps/mt4copier/maab-trade-filter/15.png)
 
 Now we add the Client EA v2.9.9f from the Experts list and enable it from the settings window. This time I will also set the EA to compare the Moving Average to equity instead of the account balance.

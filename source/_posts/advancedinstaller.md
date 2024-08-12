@@ -1,6 +1,6 @@
 ---
 title: Windows Installer Packaging Tool for Developers, ISVs & Enterprises - Advanced Installer
-date: 2024-07-28T23:40:51.950Z
+date: 2024-08-11T10:32:56.746Z
 tags: 
   - windows installer
   - advanced installer
@@ -28,9 +28,6 @@ Advanced Installer is a Windows installer authoring tool for installing, updatin
 
 Migrate and maintain your software installations with ease.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Save time and money
 
 Businesses around the globe, large and small, save hundreds of hours and thousands of dollars by taking advantage of the expert knowledge built into Advanced Installer.
@@ -50,9 +47,6 @@ Businesses around the globe, large and small, save hundreds of hours and thousan
 
 ![Product Details Page](/images/apps/advancedinstaller/pages/msix-build-page.png)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Visual Studio Integration
 
 As a VSIP Premier partner, we work closely with Microsoft to bring you the best packaging and deployment tool.

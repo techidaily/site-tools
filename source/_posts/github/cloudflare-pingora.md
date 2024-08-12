@@ -1,6 +1,6 @@
 ---
 title: Pingora
-date: 2024-07-28T23:40:52.141Z
+date: 2024-08-11T10:32:56.897Z
 tags: 
   - nginx
 categories: 
@@ -10,9 +10,6 @@ keywords: rust framework, network systems
 thumbnail: https://raw.githubusercontent.com/cloudflare/pingora/main/docs/assets/pingora_banner.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Pingora banner image](https://raw.githubusercontent.com/cloudflare/pingora/main/docs/assets/pingora_banner.png)
 
 ## What is Pingora
@@ -33,9 +30,6 @@ Pingora is battle tested as it has been serving more than 40 million Internet re
 * Customizable load balancing and failover strategies
 * Support for a variety of observability tools
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Reasons to use Pingora
 
 * **Security** is your top priority: Pingora is a more memory safe alternative for services that are written in C/C++.

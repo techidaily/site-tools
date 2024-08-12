@@ -1,6 +1,6 @@
 ---
 title: nanoCAD Engineering Ecosystem
-date: 2024-07-28T23:40:52.486Z
+date: 2024-08-11T10:32:56.544Z
 tags: 
   - cad
 categories: 
@@ -33,16 +33,10 @@ nanoCAD can be used on its own as a cost-effective DWG-editor, or customized wit
     - [nanoCAD 23 Platform](https://nanocad.com/products/nanocad-platform/)
     - [Construction](https://nanocad.com/products/nanocad-construction-module/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2. How nanoCAD works
 
 <iframe width="699" height="420" src="https://www.youtube.com/embed/6ChB-IKcETI" title="nanoCAD 23 with 5 professional modules" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3. nanoCAD Across Industries
 
 ### 3.1. Mechanical Engineering
