@@ -24,12 +24,12 @@ thumbnail: /images/apps/aiseesoft/android-data-recovery/box-android-data-recover
 Best Android Data Recovery software to recover deleted files from Android phone/SD card/tablet to Windows 11/10/8/7 and macOS Sonoma/Monterey/Catalina/Big Sur/High Sierra.
 
 - 100% clean & safe
-- Android 13/12/11/10/9/8/7/6 Compatible
+- Android 14/13/12/11/10/9/8/7/6 Compatible
 
-## 2. Get it
+## 2. Download
 
-- [Download Aiseesoft FoneLab Android Data Recovery for Windows](/aiseesoft-android-data-recovery-for-win/)
-- [Download Aiseesoft FoneLab Android Data Recovery for macOS](/aiseesoft-android-data-recovery-for-mac/)
+- [Windows 11, 10, 8, 7](https://secure.2checkout.com/order/cart.php?PRODS=4644627&QTY=1&AFFILIATE=108875)
+- [Mac OS X 10.7 or higher](https://secure.2checkout.com/order/cart.php?PRODS=4650704&QTY=1&AFFILIATE=108875)
 
 ## 3. It's so easy to use
 

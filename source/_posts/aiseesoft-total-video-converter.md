@@ -17,7 +17,10 @@ thumbnail: /images/apps/aiseesoft/total-video-converter/box-total-video-converte
 
 Aiseesoft Video Converter wins the worldwide reputation for its complete set of video conversion and editing tools. With it, you can enjoy any videos and music files on your any device without limitation, even HD/4K UHD and 3D videos are highly supported.
 
-## 2. Get it
+## 2. Download
+
+- [Windows 11, 10, 8, 7](https://secure.2checkout.com/order/cart.php?PRODS=4575878&QTY=1&AFFILIATE=108875)
+- [Mac OS X 10.7 or higher](https://secure.2checkout.com/order/cart.php?PRODS=4594445&QTY=1&AFFILIATE=108875)
 
 ### 2.1. Video Converter Ultimate for Windows
 
