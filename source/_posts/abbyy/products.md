@@ -93,117 +93,117 @@ table tr td.check:before {
 </tr>
 <tr>
 <td class="pl-3">View PDFs</td>
-<td class="check">&nbsp;</td>
-<td class="check">&nbsp;</td>
-<td class="check">&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="check">√&nbsp;</td>
 </tr>
 <tr>
 <td class="pl-3">Edit and organize PDFs</td>
-<td class="check">&nbsp;</td>
-<td class="check">&nbsp;</td>
-<td class="point">&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="point">○&nbsp;</td>
 </tr>
 <tr>
 <td class="pl-3">Protect and sign PDFs</td>
-<td class="check">&nbsp;</td>
-<td class="check">&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="check">√&nbsp;</td>
 <td><span class="text-xxxs">Password protection after PDF creation only</span></td>
 </tr>
 <tr>
 <td class="pl-3">Collaborate on and approve PDFs</td>
-<td class="check">&nbsp;</td>
-<td class="check">&nbsp;</td>
-<td class="point">&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="point">○&nbsp;</td>
 </tr>
 <tr>
 <td class="pl-3">Create PDFs</td>
-<td class="check">&nbsp;</td>
-<td class="check">&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="check">√&nbsp;</td>
 <td><span class="text-xxxs">From scans and paper only</span></td>
 </tr>
 <tr>
 <td class="pl-3">Create fillable PDF forms</td>
-<td class="check">&nbsp;</td>
-<td class="check">&nbsp;</td>
-<td class="point">&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="point">○&nbsp;</td>
 </tr>
 <tr>
 <td class="pl-3">Compare documents</td>
-<td class="point">&nbsp;</td>
-<td class="check">&nbsp;</td>
-<td class="point">&nbsp;</td>
+<td class="point">○&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="point">○&nbsp;</td>
 </tr>
 <tr>
 <td class="pl-3">Digitize documents and scans with OCR</td>
-<td class="check">&nbsp;</td>
-<td class="check">&nbsp;</td>
-<td class="check">&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="check">√&nbsp;</td>
 </tr>
 <tr>
 <td class="pl-3">Convert PDFs</td>
-<td class="check">&nbsp;</td>
-<td class="check">&nbsp;</td>
-<td class="check">&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="check">√&nbsp;</td>
 </tr>
 <tr>
 <td class="pl-3">Integration with Microsoft Office</td>
-<td class="check">&nbsp;</td>
-<td class="check">&nbsp;</td>
-<td class="point">&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="point">○&nbsp;</td>
 </tr>
 <tr>
 <td class="pl-3">Optimize digitization and conversion routines</td>
-<td class="point">&nbsp;</td>
+<td class="point">○&nbsp;</td>
 <td><span class="text-xxxs">HotFolder</span></td>
-<td class="point">&nbsp;</td>
+<td class="point">○&nbsp;</td>
 </tr>
 <tr>
 <td class="pl-3">ABBYY Screenshot Reader</td>
-<td class="check">&nbsp;</td>
-<td class="check">&nbsp;</td>
-<td class="point">&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="point">○&nbsp;</td>
 </tr>
 <tr>
 <td class="pl-3">ABBYY FineReader for iOS</td>
-<td class="check">&nbsp;</td>
-<td class="check">&nbsp;</td>
-<td class="check">&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="check">√&nbsp;</td>
 </tr>
 <tr>
 <td class="pl-3">Volume benefits *</td>
-<td class="check">&nbsp;</td>
-<td class="check">&nbsp;</td>
-<td class="check">&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="check">√&nbsp;</td>
 </tr>
 <tr>
 <td class="pl-3">Flexible license types (Standalone, Per Seat*, Concurrent*, Remote*)</td>
 <td><span class="text-xxxs">Yes, except for Concurrent</span></td>
-<td class="check">&nbsp;</td>
+<td class="check">√&nbsp;</td>
 <td><span class="text-xxxs">Only Per Seat available</span></td>
 </tr>
 <tr>
 <td class="pl-3">Automated deployment and centralized license management *</td>
-<td class="check">&nbsp;</td>
-<td class="check">&nbsp;</td>
-<td class="point">&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="point">○&nbsp;</td>
 </tr>
 <tr>
 <td class="pl-3">Extended CLI- and RPA-enabled licenses *</td>
-<td class="point">&nbsp;</td>
-<td class="check">&nbsp;</td>
-<td class="point">&nbsp;</td>
+<td class="point">○&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="point">○&nbsp;</td>
 </tr>
 <tr>
 <td class="pl-3">Dark Mode and Continuity Camera support</td>
-<td class="point">&nbsp;</td>
-<td class="point">&nbsp;</td>
-<td class="check">&nbsp;</td>
+<td class="point">○&nbsp;</td>
+<td class="point">○&nbsp;</td>
+<td class="check">√&nbsp;</td>
 </tr>
 <tr>
 <td class="pl-3">Modern, easy-to-use interface</td>
-<td class="check">&nbsp;</td>
-<td class="check">&nbsp;</td>
-<td class="check">&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="check">√&nbsp;</td>
+<td class="check">√&nbsp;</td>
 </tr>
 </tbody>
 </table>
