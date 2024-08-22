@@ -73,33 +73,141 @@ A high-quality, modern OCR application for macOS® to convert PDFs, paper docume
 
 ## Products comparison
 
-|   | FineReader PDF Standard for Windows  
-![windows](https://pdf.abbyy.com/media/3884/win-g-24.svg) | FineReader PDF Corporate for Windows  
-![windows](https://pdf.abbyy.com/media/3884/win-g-24.svg) | FineReader PDF  
-for Mac<sup>®</sup>  
-![mac](https://pdf.abbyy.com/media/3883/mac-g-24.svg) |
-| --- | --- | --- | --- |
-| View PDFs |   |   |   |
-| Edit and organize PDFs |   |   |   |
-| Protect and sign PDFs |   |   | Password protection after PDF creation only |
-| Collaborate on and approve PDFs |   |   |   |
-| Create PDFs |   |   | From scans and paper only |
-| Create fillable PDF forms |   |   |   |
-| Compare documents |   |   |   |
-| Digitize documents and scans with OCR |   |   |   |
-| Convert PDFs |   |   |   |
-| Integration with Microsoft Office |   |   |   |
-| Optimize digitization and conversion routines |   | HotFolder |   |
-| ABBYY Screenshot Reader |   |   |   |
-| ABBYY FineReader for iOS |   |   |   |
-| Volume benefits \* |   |   |   |
-| Flexible license types (Standalone, Per Seat\*, Concurrent\*, Remote\*) | Yes, except for Concurrent |   | Only Per Seat available |
-| Automated deployment and centralized license management \* |   |   |   |
-| Extended CLI- and RPA-enabled licenses \* |   |   |   |
-| Dark Mode and Continuity Camera support |   |   |   |
-| Modern, easy-to-use interface |   |   |   |
+<style>
+table tr td.check:before {
+    display: inline-block;
+    background: url(https://pdf.abbyy.com/images/sprites/main.svg?v=1723048757582) no-repeat -256px -265px;
+    background-size: 2238px 2179px;
+    width: 24px;
+    height: 24px;
+}
+</style>
 
-_\* Only supported by certain volume license types. For more information about these licenses & contact to our sales team, please [click here](https://pdf.abbyy.com/licensing/pricing/)._
+<table border="0" class="first-left-table text-center table-white gray-h-table border-gray">
+<tbody>
+<tr class="bg-gray-08">
+<th style="width: 25%;">&nbsp;</th>
+<th class="text-center" style="width: 25%;"><span class="text-md">FineReader PDF Standard for Windows<br><img class="mt-1" src="https://pdf.abbyy.com/media/3884/win-g-24.svg" alt="windows" data-udi="umb://media/378f6c1cccfe40e98d0f22f090d670d8"></span></th>
+<th class="text-center" style="width: 25%;"><span class="text-md">FineReader PDF Corporate for Windows<br><img class="mt-1" src="https://pdf.abbyy.com/media/3884/win-g-24.svg" alt="windows" data-udi="umb://media/378f6c1cccfe40e98d0f22f090d670d8"></span></th>
+<th class="text-center" style="width: 25%;"><span class="text-md">FineReader PDF<br>for Mac<sup>®</sup><br><img class="mt-1" src="https://pdf.abbyy.com/media/3883/mac-g-24.svg" alt="mac" data-udi="umb://media/d72936bfad044498b4a75a81b832d049"></span></th>
+</tr>
+<tr>
+<td class="pl-3">View PDFs</td>
+<td class="check">&nbsp;</td>
+<td class="check">&nbsp;</td>
+<td class="check">&nbsp;</td>
+</tr>
+<tr>
+<td class="pl-3">Edit and organize PDFs</td>
+<td class="check">&nbsp;</td>
+<td class="check">&nbsp;</td>
+<td class="point">&nbsp;</td>
+</tr>
+<tr>
+<td class="pl-3">Protect and sign PDFs</td>
+<td class="check">&nbsp;</td>
+<td class="check">&nbsp;</td>
+<td><span class="text-xxxs">Password protection after PDF creation only</span></td>
+</tr>
+<tr>
+<td class="pl-3">Collaborate on and approve PDFs</td>
+<td class="check">&nbsp;</td>
+<td class="check">&nbsp;</td>
+<td class="point">&nbsp;</td>
+</tr>
+<tr>
+<td class="pl-3">Create PDFs</td>
+<td class="check">&nbsp;</td>
+<td class="check">&nbsp;</td>
+<td><span class="text-xxxs">From scans and paper only</span></td>
+</tr>
+<tr>
+<td class="pl-3">Create fillable PDF forms</td>
+<td class="check">&nbsp;</td>
+<td class="check">&nbsp;</td>
+<td class="point">&nbsp;</td>
+</tr>
+<tr>
+<td class="pl-3">Compare documents</td>
+<td class="point">&nbsp;</td>
+<td class="check">&nbsp;</td>
+<td class="point">&nbsp;</td>
+</tr>
+<tr>
+<td class="pl-3">Digitize documents and scans with OCR</td>
+<td class="check">&nbsp;</td>
+<td class="check">&nbsp;</td>
+<td class="check">&nbsp;</td>
+</tr>
+<tr>
+<td class="pl-3">Convert PDFs</td>
+<td class="check">&nbsp;</td>
+<td class="check">&nbsp;</td>
+<td class="check">&nbsp;</td>
+</tr>
+<tr>
+<td class="pl-3">Integration with Microsoft Office</td>
+<td class="check">&nbsp;</td>
+<td class="check">&nbsp;</td>
+<td class="point">&nbsp;</td>
+</tr>
+<tr>
+<td class="pl-3">Optimize digitization and conversion routines</td>
+<td class="point">&nbsp;</td>
+<td><span class="text-xxxs">HotFolder</span></td>
+<td class="point">&nbsp;</td>
+</tr>
+<tr>
+<td class="pl-3">ABBYY Screenshot Reader</td>
+<td class="check">&nbsp;</td>
+<td class="check">&nbsp;</td>
+<td class="point">&nbsp;</td>
+</tr>
+<tr>
+<td class="pl-3">ABBYY FineReader for iOS</td>
+<td class="check">&nbsp;</td>
+<td class="check">&nbsp;</td>
+<td class="check">&nbsp;</td>
+</tr>
+<tr>
+<td class="pl-3">Volume benefits *</td>
+<td class="check">&nbsp;</td>
+<td class="check">&nbsp;</td>
+<td class="check">&nbsp;</td>
+</tr>
+<tr>
+<td class="pl-3">Flexible license types (Standalone, Per Seat*, Concurrent*, Remote*)</td>
+<td><span class="text-xxxs">Yes, except for Concurrent</span></td>
+<td class="check">&nbsp;</td>
+<td><span class="text-xxxs">Only Per Seat available</span></td>
+</tr>
+<tr>
+<td class="pl-3">Automated deployment and centralized license management *</td>
+<td class="check">&nbsp;</td>
+<td class="check">&nbsp;</td>
+<td class="point">&nbsp;</td>
+</tr>
+<tr>
+<td class="pl-3">Extended CLI- and RPA-enabled licenses *</td>
+<td class="point">&nbsp;</td>
+<td class="check">&nbsp;</td>
+<td class="point">&nbsp;</td>
+</tr>
+<tr>
+<td class="pl-3">Dark Mode and Continuity Camera support</td>
+<td class="point">&nbsp;</td>
+<td class="point">&nbsp;</td>
+<td class="check">&nbsp;</td>
+</tr>
+<tr>
+<td class="pl-3">Modern, easy-to-use interface</td>
+<td class="check">&nbsp;</td>
+<td class="check">&nbsp;</td>
+<td class="check">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
 <li><a href="https://tools.techidaily.com/epubor/epub-to-pdf-converter/"><u>EPUB to PDF Converter</u></a></li>
