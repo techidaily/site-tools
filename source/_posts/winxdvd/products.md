@@ -1,12 +1,12 @@
 ---
 title: Winxdvd's Products
-date: 2024-08-28T01:41:37.006Z
+date: 2024-08-29T02:41:37.006Z
 tags: 
   - winxdvd
 categories: 
   - apps
   - win,mac
-description: WinXDVD Software: DVD Ripper, AI Video Enhancer and Converter, iPhone Transfer
+description: WinXDVD Software - DVD Ripper, AI Video Enhancer and Converter, iPhone Transfer
 thumbnail: https://www.winxdvd.com/img/footlogo-fift.png
 ---
 
