@@ -12,6 +12,13 @@ thumbnail: 	https://www.macdvdripperpro.com/images/tray.png
 
 Mac DVD Ripper Pro，The easiest DVD ripper for your Mac
 
+<!--__INIT__BEGIN__TAG__PRODUCTS__LIST__-->
+<!--__INIT__END__TAG__PRODUCTS__LIST__-->
+
+<!--__INIT__BEGIN__TAG__FEED_PRODUCTS__LIST__-->
+<!--__INIT__END__TAG__FEED_PRODUCTS__LIST__-->
+
+<hr>
 
 ## Buy Now
 

@@ -14,11 +14,17 @@ Mondly - Learn Languages Online for Free
 
 Learn languages online for free with Mondly by Pearson, the language learning app loved by millions of people worldwide. Immersive, interactive, and fun. Start learning today!
 
+<!--__INIT__BEGIN__TAG__PRODUCTS__LIST__-->
 ## Download All Products
 
 - 1. [Mondly - Learn Languages Online for Free](https://tools.techidaily.com/mondly/download/)
 
+<!--__INIT__END__TAG__PRODUCTS__LIST__-->
 
+<!--__INIT__BEGIN__TAG__FEED_PRODUCTS__LIST__-->
+<!--__INIT__END__TAG__FEED_PRODUCTS__LIST__-->
+
+<hr>
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>

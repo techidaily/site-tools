@@ -12,6 +12,7 @@ thumbnail: https://www.winxdvd.com/img/footlogo-fift.png
 
 Digiarty (winxdvd.com) is a world-leading provider of DVD video software across Windows (10/11) and macOS. Unlock the power of lightning-fast WinX DVD ripping/copy/clone tools, AI video/image enhancer, 4K video converter, resizer, recorder, and editor, and iPhone media manager.
 
+<!--__INIT__BEGIN__TAG__PRODUCTS__LIST__-->
 ## Download All Products
 
 - 1. [WinX DVD Copy Pro](https://tools.techidaily.com/winxdvd/dvd-copy-pro/)
@@ -20,7 +21,14 @@ Digiarty (winxdvd.com) is a world-leading provider of DVD video software across 
 - 4. [Winxvideo AI](https://tools.techidaily.com/winxdvd/winxvideo-ai/)
 
 
+<!--__INIT__END__TAG__PRODUCTS__LIST__-->
+
+<!--__INIT__BEGIN__TAG__FEED_PRODUCTS__LIST__-->
+<!--__INIT__END__TAG__FEED_PRODUCTS__LIST__-->
+
 <hr>
+
+
 
 
 

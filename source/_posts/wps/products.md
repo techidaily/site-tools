@@ -61,6 +61,13 @@ Smarter, Faster, Easier, Free with Seamless MS Office Compatibility
 - **Mac OS X 10.7 or higher**
   - [WPS Office Template /Monthly $5.99](https://secure.2checkout.com/order/checkout.php?PRODS=39249752&QTY=1&AFFILIATE=108875&CART=1)
   - [WPS Office Template /Yearly $55.99](https://secure.2checkout.com/order/checkout.php?PRODS=39249770&QTY=1&AFFILIATE=108875&CART=1)
+
+<!--__INIT__BEGIN__TAG__PRODUCTS__LIST__-->
+<!--__INIT__END__TAG__PRODUCTS__LIST__-->
+
+<!--__INIT__BEGIN__TAG__FEED_PRODUCTS__LIST__-->
+<!--__INIT__END__TAG__FEED_PRODUCTS__LIST__-->
+
 <hr>
 
 

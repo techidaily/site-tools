@@ -12,6 +12,7 @@ thumbnail: https://www.macxdvd.com/face/videoface-fift.png
 
 Movavi Best video and photo tools for you。
 
+<!--__INIT__BEGIN__TAG__PRODUCTS__LIST__-->
 ## Download All Products
 
 - 1. [Movavi Effects Store](https://tools.techidaily.com/movavi/effects-store/)
@@ -22,6 +23,11 @@ Movavi Best video and photo tools for you。
 - 6. [Movavi Video Editor](https://tools.techidaily.com/movavi/video-editor/)
 - 7. [Movavi Video Suite](https://tools.techidaily.com/movavi/video-suite/)
 
+
+<!--__INIT__END__TAG__PRODUCTS__LIST__-->
+
+<!--__INIT__BEGIN__TAG__FEED_PRODUCTS__LIST__-->
+<!--__INIT__END__TAG__FEED_PRODUCTS__LIST__-->
 
 <hr>
 
