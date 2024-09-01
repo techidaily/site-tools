@@ -12,11 +12,17 @@ thumbnail: https://www.acethinker.com/wp-content/themes/acetheme/dist/img/index-
 
 Acethinker
 
+<!--__INIT__BEGIN__TAG__PRODUCTS__LIST__-->
 ## Download All Products
 
 - 1. [Aqua Clip / Video Keeper](https://tools.techidaily.com/acethinker/aquaclip-downloader/)
 
+<!--__INIT__END__TAG__PRODUCTS__LIST__-->
 
+<!--__INIT__BEGIN__TAG__FEED_PRODUCTS__LIST__-->
+<!--__INIT__END__TAG__FEED_PRODUCTS__LIST__-->
+
+<hr>
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>

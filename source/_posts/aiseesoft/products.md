@@ -12,6 +12,7 @@ thumbnail: https://www.aiseesoft.com/style/images/aiseesoft-logo.svg
 
 Aiseesoft offers professional software solutions to convert, edit and record video/audio files, recover deleted files from iOS/Android/Windows/Mac, etc.
 
+<!--__INIT__BEGIN__TAG__PRODUCTS__LIST__-->
 ## Download All Products
 
 - 1. [AI Photo Editor](https://tools.techidaily.com/aiseesoft/ai-photo-editor/)
@@ -50,7 +51,12 @@ Aiseesoft offers professional software solutions to convert, edit and record vid
 - 34. [Video Enhancer](https://tools.techidaily.com/aiseesoft/video-enhancer/)
 - 35. [WhatsApp Transfer for iOS](https://tools.techidaily.com/aiseesoft/whatsapp-transfer-for-ios/)
 
+<!--__INIT__END__TAG__PRODUCTS__LIST__-->
 
+<!--__INIT__BEGIN__TAG__FEED_PRODUCTS__LIST__-->
+<!--__INIT__END__TAG__FEED_PRODUCTS__LIST__-->
+
+<hr>
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>

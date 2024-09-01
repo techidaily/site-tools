@@ -24,6 +24,7 @@ The YouTube download is based on the youtube_dl script.
 The Hardware acceleration is based on the Nvidia CUDA, AMD and Intel Hardware Computing SDK.
 The Russian UI is translated by Vitaly Naumenkov from Dnepro of Ukraine
 
+<!--__INIT__BEGIN__TAG__PRODUCTS__LIST__-->
 ## Download All Products
 
 - 1. [5KPlayer](https://tools.techidaily.com/5kplayer/5k-player/)
@@ -33,6 +34,11 @@ The Russian UI is translated by Vitaly Naumenkov from Dnepro of Ukraine
 - 5. [5KPlayer - Youtube Download](https://tools.techidaily.com/5kplayer/youtube-download/)
 - 6. [DearMob iPhone Manager](https://tools.techidaily.com/5kplayer/iphone-manager/)
 
+
+<!--__INIT__END__TAG__PRODUCTS__LIST__-->
+
+<!--__INIT__BEGIN__TAG__FEED_PRODUCTS__LIST__-->
+<!--__INIT__END__TAG__FEED_PRODUCTS__LIST__-->
 
 <hr>
 
