@@ -11,7 +11,7 @@
     "_copy:image:md": "node ./copy-images-md.mjs"
   },
   "hexo": {
-    "version": "7.2.0"
+    "version": "7.3.0"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
