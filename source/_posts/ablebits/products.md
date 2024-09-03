@@ -159,9 +159,6 @@ Use time-saving add-ins for Excel and Outlook, smart add-ons for Google Sheets a
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=38204491&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/Icon+48x48-2.png" alt="Compare Sheets add-on for Google Sheets, 12-month subscription" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=38204491&amp;QTY=1&amp;AFFILIATE=108875">Compare Sheets add-on for Google Sheets, 12-month subscription</a></h3>
@@ -184,9 +181,6 @@ Use time-saving add-ins for Excel and Outlook, smart add-ons for Google Sheets a
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=38204716&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/1_Icon+48x48-2.png" alt="Compare Sheets add-on for Google Sheets, Lifetime subscription" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=38204716&amp;QTY=1&amp;AFFILIATE=108875">Compare Sheets add-on for Google Sheets, Lifetime subscription</a></h3>
@@ -539,9 +533,6 @@ Use time-saving add-ins for Excel and Outlook, smart add-ons for Google Sheets a
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=4729658&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/1_icon-48x48-ms.png" alt="Merge Sheets add-on for Google Sheets, Lifetime subscription" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=4729658&amp;QTY=1&amp;AFFILIATE=108875">Merge Sheets add-on for Google Sheets, Lifetime subscription</a></h3>
@@ -776,9 +767,6 @@ Use time-saving add-ins for Excel and Outlook, smart add-ons for Google Sheets a
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=4721564&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" alt="Power Tools add-on for Google Sheets, 12-month subscription" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=4721564&amp;QTY=1&amp;AFFILIATE=108875">Power Tools add-on for Google Sheets, 12-month subscription</a></h3>
@@ -908,9 +896,6 @@ Use time-saving add-ins for Excel and Outlook, smart add-ons for Google Sheets a
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=4720550&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/icon-48x48-ms.png" alt="Merge Sheets add-on for Google Sheets, 12-month subscription" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=4720550&amp;QTY=1&amp;AFFILIATE=108875">Merge Sheets add-on for Google Sheets, 12-month subscription</a></h3>

@@ -22,9 +22,6 @@ Flipbuilder
   <ul class="home-article-list">
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=38696206&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/7_CorporateForMac_120172.png" alt="Flip PDF Plus Corporate for Mac (10 Seats)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=38696206&amp;QTY=1&amp;AFFILIATE=108875">Flip PDF Plus Corporate for Mac (10 Seats)</a></h3>
@@ -44,9 +41,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=38691271&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/1_CorporateForMac_120172.png" alt="Flip PDF Plus Corporate for Mac (4 Seats)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=38691271&amp;QTY=1&amp;AFFILIATE=108875">Flip PDF Plus Corporate for Mac (4 Seats)</a></h3>
@@ -66,9 +60,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=38691521&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/2_CorporateForMac_120172.png" alt="Flip PDF Plus Corporate for Mac (5 Seats)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=38691521&amp;QTY=1&amp;AFFILIATE=108875">Flip PDF Plus Corporate for Mac (5 Seats)</a></h3>
@@ -88,9 +79,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=38694443&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/3_CorporateForMac_120172.png" alt="Flip PDF Plus Corporate for Mac (6 Seats)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=38694443&amp;QTY=1&amp;AFFILIATE=108875">Flip PDF Plus Corporate for Mac (6 Seats)</a></h3>
@@ -132,9 +120,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=38696171&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/5_CorporateForMac_120172.png" alt="Flip PDF Plus Corporate for Mac (8 Seats)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=38696171&amp;QTY=1&amp;AFFILIATE=108875">Flip PDF Plus Corporate for Mac (8 Seats)</a></h3>
@@ -242,9 +227,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=38691689&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/5_CorporateForWin_120172.png" alt="Flip PDF Plus Corporate for Windows (6 Seats)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=38691689&amp;QTY=1&amp;AFFILIATE=108875">Flip PDF Plus Corporate for Windows (6 Seats)</a></h3>
@@ -308,9 +290,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=38696099&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/3_CorporateForWin_120172.png" alt="Flip PDF Plus Corporate for Windows (9 Seats)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=38696099&amp;QTY=1&amp;AFFILIATE=108875">Flip PDF Plus Corporate for Windows (9 Seats)</a></h3>
@@ -352,9 +331,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=37446033&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/CorporateForWin_120172.png" alt="Flip PDF Plus Corporate for Windows" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=37446033&amp;QTY=1&amp;AFFILIATE=108875">Flip PDF Plus Corporate for Windows</a></h3>
@@ -374,9 +350,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=37306084&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/flip_pdf_plus_pro_mac.png" alt="Flip PDF Plus Pro for Mac" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=37306084&amp;QTY=1&amp;AFFILIATE=108875">Flip PDF Plus Pro for Mac</a></h3>
@@ -418,9 +391,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=36877827&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/flip_pdf_plus_mac.png" alt="Flip PDF Plus for Mac" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=36877827&amp;QTY=1&amp;AFFILIATE=108875">Flip PDF Plus for Mac</a></h3>
@@ -440,9 +410,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=35505155&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/flip_pdf_plus_win.png" alt="Flip PDF Plus for Windows" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=35505155&amp;QTY=1&amp;AFFILIATE=108875">Flip PDF Plus for Windows</a></h3>
@@ -557,9 +524,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592615&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Merger.JPG" alt="A-PDF AutoCAD to PDF" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592615&amp;QTY=1&amp;AFFILIATE=108875">A-PDF AutoCAD to PDF</a></h3>
@@ -579,9 +543,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592617&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+AutoMail.JPG" alt="A-PDF AutoMail" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592617&amp;QTY=1&amp;AFFILIATE=108875">A-PDF AutoMail</a></h3>
@@ -601,9 +562,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592619&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Barcode+Split.JPG" alt="A-PDF Barcode Split Service" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592619&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Barcode Split Service</a></h3>
@@ -623,9 +581,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592623&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Batch+Print.png" alt="A-PDF Batch Print" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592623&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Batch Print</a></h3>
@@ -645,9 +600,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592625&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Comment+Collector.JPG" alt="A-PDF Comment Collector" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592625&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Comment Collector</a></h3>
@@ -667,9 +619,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592627&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Content+Splitter.JPG" alt="A-PDF Content Splitter" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592627&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Content Splitter</a></h3>
@@ -689,9 +638,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592631&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Content+Splitter+Service.JPG" alt="A-PDF Content Splitter Service" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592631&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Content Splitter Service</a></h3>
@@ -711,9 +657,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592633&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Data+Extractor.JPG" alt="A-PDF Data Extractor" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592633&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Data Extractor</a></h3>
@@ -733,9 +676,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592634&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Deskew2.jpg" alt="A-PDF Deskew" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592634&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Deskew</a></h3>
@@ -755,9 +695,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592636&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+DjVu+to+PDF+%282%29.jpg" alt="A-PDF DJVU to PDF" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592636&amp;QTY=1&amp;AFFILIATE=108875">A-PDF DJVU to PDF</a></h3>
@@ -777,9 +714,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592639&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Editor+for+Mac+.JPG" alt="A-PDF Editor for Mac" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592639&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Editor for Mac</a></h3>
@@ -799,9 +733,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592640&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+EPUB+to+Flipbook.JPG" alt="A-PDF EPUB to FlipBook" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592640&amp;QTY=1&amp;AFFILIATE=108875">A-PDF EPUB to FlipBook</a></h3>
@@ -821,9 +752,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592642&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Excel+to+PDF.JPG" alt="A-PDF Excel to PDF" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592642&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Excel to PDF</a></h3>
@@ -843,9 +771,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592645&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Explorer.JPG" alt="A-PDF Explorer" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592645&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Explorer</a></h3>
@@ -865,9 +790,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592647&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Form+Filler.JPG" alt="A-PDF Filler" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592647&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Filler</a></h3>
@@ -887,9 +809,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592649&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Form+Data+Extractor.JPG" alt="A-PDF Form Data Extractor" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592649&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Form Data Extractor</a></h3>
@@ -909,9 +828,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592651&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+HTML+to+PDF.JPG" alt="A-PDF HTML to PDF" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592651&amp;QTY=1&amp;AFFILIATE=108875">A-PDF HTML to PDF</a></h3>
@@ -931,9 +847,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592653&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Image+Converter+Pro.JPG" alt="A-PDF Image Converter" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592653&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Image Converter</a></h3>
@@ -953,9 +866,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592655&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Image+Downsample.JPG" alt="A-PDF Image Downsample" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592655&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Image Downsample</a></h3>
@@ -975,9 +885,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592657&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Image+Extractor.JPG" alt="A-PDF Image Extractor" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592657&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Image Extractor</a></h3>
@@ -997,9 +904,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592659&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Image+to+PDF.JPG" alt="A-PDF Image to PDF" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592659&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Image to PDF</a></h3>
@@ -1038,9 +942,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592663&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Label.JPG" alt="A-PDF Label" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592663&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Label</a></h3>
@@ -1060,9 +961,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592665&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Mailer.JPG" alt="A-PDF Mailer" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592665&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Mailer</a></h3>
@@ -1082,9 +980,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592667&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Manual+Split.JPG" alt="A-PDF Manual Split" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592667&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Manual Split</a></h3>
@@ -1104,9 +999,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592766&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/1_A-PDF+Merger.JPG" alt="A-PDF Merger" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592766&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Merger</a></h3>
@@ -1145,9 +1037,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592761&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Merger+For+MAC+300943277.JPG" alt="A-PDF Merger for Mac" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592761&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Merger for Mac</a></h3>
@@ -1167,9 +1056,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592757&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+N-up+Page.JPG" alt="A-PDF N-up Page" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592757&amp;QTY=1&amp;AFFILIATE=108875">A-PDF N-up Page</a></h3>
@@ -1189,9 +1075,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592759&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Number+Pro.JPG" alt="A-PDF Number Pro" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592759&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Number Pro</a></h3>
@@ -1211,9 +1094,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592755&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+OCR.JPG" alt="A-PDF OCR" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592755&amp;QTY=1&amp;AFFILIATE=108875">A-PDF OCR</a></h3>
@@ -1252,9 +1132,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592751&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Page+Crop.JPG" alt="A-PDF Page Crop" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592751&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Page Crop</a></h3>
@@ -1274,9 +1151,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592748&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Page+Cut.JPG" alt="A-PDF Page Cut" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592748&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Page Cut</a></h3>
@@ -1296,9 +1170,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592746&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Page+Master.JPG" alt="A-PDF Page Master" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592746&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Page Master</a></h3>
@@ -1318,9 +1189,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592741&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Page+Size+Split+.JPG" alt="A-PDF Page Size Split" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592741&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Page Size Split</a></h3>
@@ -1340,9 +1208,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592738&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Password+Security.JPG" alt="A-PDF Password Security" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592738&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Password Security</a></h3>
@@ -1362,9 +1227,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592734&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Password+Security+for+Mac.JPG" alt="A-PDF Password Security for Mac" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592734&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Password Security for Mac</a></h3>
@@ -1384,9 +1246,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592730&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Password+Security+Service.JPG" alt="A-PDF Password Security Service" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592730&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Password Security Service</a></h3>
@@ -1406,9 +1265,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592536&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Photo+Collage+Builder.JPG" alt="A-PDF Photo Collage Builder" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592536&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Photo Collage Builder</a></h3>
@@ -1428,9 +1284,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592729&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Photo+Exif+Editor.JPG" alt="A-PDF Photo Exif Editor" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592729&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Photo Exif Editor</a></h3>
@@ -1450,9 +1303,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592535&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Photo+Slideshow+Builder.JPG" alt="A-PDF Photo SlideShow Builder" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592535&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Photo SlideShow Builder</a></h3>
@@ -1494,9 +1344,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592725&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+PPT+to+EXE.JPG" alt="A-PDF PPT to EXE" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592725&amp;QTY=1&amp;AFFILIATE=108875">A-PDF PPT to EXE</a></h3>
@@ -1516,9 +1363,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592723&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Preview+and+Move.JPG" alt="A-PDF Preview and Move" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592723&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Preview and Move</a></h3>
@@ -1538,9 +1382,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592721&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Preview+and+Rename.JPG" alt="A-PDF Preview and Rename" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592721&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Preview and Rename</a></h3>
@@ -1560,9 +1401,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592719&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Rename.JPG" alt="A-PDF Rename" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592719&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Rename</a></h3>
@@ -1582,9 +1420,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592715&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Restrict+Remover.JPG" alt="A-PDF Restrictions Remover" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592715&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Restrictions Remover</a></h3>
@@ -1623,9 +1458,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592710&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Restrictions+Remover+for+Mac.JPG" alt="A-PDF Restrictions Remover for Mac" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592710&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Restrictions Remover for Mac</a></h3>
@@ -1645,9 +1477,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592708&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Scan+and+Split.JPG" alt="A-PDF Scan and Split" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592708&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Scan and Split</a></h3>
@@ -1667,9 +1496,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592707&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Scan+Optimizer.JPG" alt="A-PDF Scan Optimizer" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592707&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Scan Optimizer</a></h3>
@@ -1689,9 +1515,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592705&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Scan+Paper.JPG" alt="A-PDF Scan Paper" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592705&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Scan Paper</a></h3>
@@ -1711,9 +1534,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592744&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Size+Splitter.gif" alt="A-PDF Size Splitter" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592744&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Size Splitter</a></h3>
@@ -1774,9 +1594,6 @@ Flipbuilder
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592701&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Split+for+Mac.JPG" alt="A-PDF Split for Mac" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592701&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Split for Mac</a></h3>
@@ -1816,9 +1633,6 @@ extracts text from PDF files based on pages.</body></html>                </div>
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592697&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Text+Replace.JPG" alt="A-PDF Text Replace" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592697&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Text Replace</a></h3>
@@ -1838,9 +1652,6 @@ extracts text from PDF files based on pages.</body></html>                </div>
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592694&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+ThumbnailerJPG.JPG" alt="A-PDF Thumbnailer" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592694&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Thumbnailer</a></h3>
@@ -1860,9 +1671,6 @@ extracts text from PDF files based on pages.</body></html>                </div>
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592692&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+TIFF+Merge+and+Split.JPG" alt="A-PDF TIFF Merge and Split" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592692&amp;QTY=1&amp;AFFILIATE=108875">A-PDF TIFF Merge and Split</a></h3>
@@ -1882,9 +1690,6 @@ extracts text from PDF files based on pages.</body></html>                </div>
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592690&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+To+Black%26White.JPG" alt="A-PDF to Black/White" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592690&amp;QTY=1&amp;AFFILIATE=108875">A-PDF to Black/White</a></h3>
@@ -1904,9 +1709,6 @@ extracts text from PDF files based on pages.</body></html>                </div>
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592688&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+to+Excel.JPG" alt="A-PDF To Excel" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592688&amp;QTY=1&amp;AFFILIATE=108875">A-PDF To Excel</a></h3>
@@ -1926,9 +1728,6 @@ extracts text from PDF files based on pages.</body></html>                </div>
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592686&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+To+Image.JPG" alt="A-PDF To Image" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592686&amp;QTY=1&amp;AFFILIATE=108875">A-PDF To Image</a></h3>
@@ -1948,9 +1747,6 @@ extracts text from PDF files based on pages.</body></html>                </div>
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592684&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+to+Video.JPG" alt="A-PDF To Video" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592684&amp;QTY=1&amp;AFFILIATE=108875">A-PDF To Video</a></h3>
@@ -1970,9 +1766,6 @@ extracts text from PDF files based on pages.</body></html>                </div>
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592682&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Visio+to+PDF.JPG" alt="A-PDF Visio to PDF" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592682&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Visio to PDF</a></h3>
@@ -1992,9 +1785,6 @@ extracts text from PDF files based on pages.</body></html>                </div>
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592681&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Watermark2.jpg" alt="A-PDF Watermark" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592681&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Watermark</a></h3>
@@ -2014,9 +1804,6 @@ extracts text from PDF files based on pages.</body></html>                </div>
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592676&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Watermark.JPG" alt="A-PDF Watermark for Mac" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592676&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Watermark for Mac</a></h3>
@@ -2036,9 +1823,6 @@ extracts text from PDF files based on pages.</body></html>                </div>
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592672&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Watermark+Services.JPG" alt="A-PDF Watermark Service" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592672&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Watermark Service</a></h3>
@@ -2058,9 +1842,6 @@ extracts text from PDF files based on pages.</body></html>                </div>
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592670&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/A-PDF+Word+to+PDF.JPG" alt="A-PDF Word to PDF" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592670&amp;QTY=1&amp;AFFILIATE=108875">A-PDF Word to PDF</a></h3>
@@ -2175,9 +1956,6 @@ extracts text from PDF files based on pages.</body></html>                </div>
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592606&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/box_shot_of_android_book_app_maker.png" alt="Android Magazine App Maker" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592606&amp;QTY=1&amp;AFFILIATE=108875">Android Magazine App Maker</a></h3>
@@ -2488,9 +2266,6 @@ extracts text from PDF files based on pages.</body></html>                </div>
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592567&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/box_flip_pdf_android_pad_small.png" alt="Flip PDF for Android Tablet" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592567&amp;QTY=1&amp;AFFILIATE=108875">Flip PDF for Android Tablet</a></h3>
@@ -2510,9 +2285,6 @@ extracts text from PDF files based on pages.</body></html>                </div>
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592565&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/box_06.png" alt="Flip PDF for iPad" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592565&amp;QTY=1&amp;AFFILIATE=108875">Flip PDF for iPad</a></h3>
@@ -2554,9 +2326,6 @@ extracts text from PDF files based on pages.</body></html>                </div>
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592561&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/box_shot_of_flip_pdf_for_iphone.png" alt="Flip PDF for iPhone" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592561&amp;QTY=1&amp;AFFILIATE=108875">Flip PDF for iPhone</a></h3>
@@ -2683,9 +2452,6 @@ extracts text from PDF files based on pages.</body></html>                </div>
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592545&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/box_shot_of_flip_word.png" alt="Flip Word" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592545&amp;QTY=1&amp;AFFILIATE=108875">Flip Word</a></h3>
@@ -2705,9 +2471,6 @@ extracts text from PDF files based on pages.</body></html>                </div>
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31592544&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/f0ba399068ef754cb53f5c66e141bfb9/products/box_shot_of_flip_writer.png" alt="Flip Writer" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31592544&amp;QTY=1&amp;AFFILIATE=108875">Flip Writer</a></h3>

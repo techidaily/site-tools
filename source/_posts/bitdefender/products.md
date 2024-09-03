@@ -22,9 +22,6 @@ Bitdefender
   <ul class="home-article-list">
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://store.bitdefender.com/images/merchant/76330c26dea62332de2ca7b4a9ef51ec/products/GZ_sbs.jpg" alt="Bitdefender GravityZone Small Business Security" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="">Bitdefender GravityZone Small Business Security</a></h3>
@@ -44,9 +41,6 @@ Bitdefender
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://store.bitdefender.com/images/merchant/76330c26dea62332de2ca7b4a9ef51ec/products/GZ-Mobile.png" alt="Bitdefender GravityZone Security for Mobile" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="">Bitdefender GravityZone Security for Mobile</a></h3>
@@ -85,9 +79,6 @@ Bitdefender
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://store.bitdefender.com/images/merchant/76330c26dea62332de2ca7b4a9ef51ec/products/1_Full+Disk+Encryption.png" alt="Bitdefender Full Disk Encryption" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="">Bitdefender Full Disk Encryption</a></h3>
@@ -107,9 +98,6 @@ Bitdefender
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://store.bitdefender.com/images/merchant/76330c26dea62332de2ca7b4a9ef51ec/products/BS.png" alt="Bitdefender GravityZone Business Security" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="">Bitdefender GravityZone Business Security</a></h3>
@@ -129,9 +117,6 @@ Bitdefender
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://store.bitdefender.com/images/merchant/76330c26dea62332de2ca7b4a9ef51ec/products/Premium.png" alt="Bitdefender GravityZone Business Security Premium" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="">Bitdefender GravityZone Business Security Premium</a></h3>
@@ -151,9 +136,6 @@ Bitdefender
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://store.bitdefender.com/images/merchant/76330c26dea62332de2ca7b4a9ef51ec/products/1_Patch+Management.png" alt="Bitdefender Patch Management" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="">Bitdefender Patch Management</a></h3>
@@ -192,9 +174,6 @@ Bitdefender
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://store.bitdefender.com/images/merchant/76330c26dea62332de2ca7b4a9ef51ec/products/GZES2020-Online-EN.png" alt="Bitdefender GravityZone Business Security Premium" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="">Bitdefender GravityZone Business Security Premium</a></h3>
@@ -214,9 +193,6 @@ Bitdefender
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://store.bitdefender.com/images/merchant/76330c26dea62332de2ca7b4a9ef51ec/products/GZABS2020-Online-EN.png" alt="Bitdefender GravityZone Business Security Premium (migrated from GravityZone Advanced Business Security)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="">Bitdefender GravityZone Business Security Premium (migrated from GravityZone Advanced Business Security)</a></h3>
@@ -236,9 +212,6 @@ Bitdefender
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://store.bitdefender.com/images/merchant/76330c26dea62332de2ca7b4a9ef51ec/products/GZBS2020-Online-EN.png" alt="Bitdefender GravityZone Business Security" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="">Bitdefender GravityZone Business Security</a></h3>
@@ -258,9 +231,6 @@ Bitdefender
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://store.bitdefender.com/images/merchant/76330c26dea62332de2ca7b4a9ef51ec/products/Full+Disk+Encryption.png" alt="Bitdefender Full Disk Encryption" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="">Bitdefender Full Disk Encryption</a></h3>
@@ -280,9 +250,6 @@ Bitdefender
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://store.bitdefender.com/images/merchant/76330c26dea62332de2ca7b4a9ef51ec/products/Patch+Management.png" alt="Bitdefender Patch Management" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="">Bitdefender Patch Management</a></h3>
@@ -302,9 +269,6 @@ Bitdefender
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://store.bitdefender.com/images/merchant/76330c26dea62332de2ca7b4a9ef51ec/products/_AdvancedBusinessSecurity2015-GravityZone_200px.png" alt="Bitdefender GravityZone Business Security Premium (migrated from GravityZone Advanced Business Security)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="">Bitdefender GravityZone Business Security Premium (migrated from GravityZone Advanced Business Security)</a></h3>
@@ -324,9 +288,6 @@ Bitdefender
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://store.bitdefender.com/images/merchant/76330c26dea62332de2ca7b4a9ef51ec/products/_BusinessSecurity2015-GravityZone_200px.png" alt="Bitdefender GravityZone Business Security" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="">Bitdefender GravityZone Business Security</a></h3>

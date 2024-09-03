@@ -22,9 +22,6 @@ thumbnail: https://www.macxdvd.com/face/videoface-fift.png
   <ul class="home-article-list">
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=42100155&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Smart+Extrude+-+3Ds+Max+Modifier+Plugin.png" alt="Smart Extrude - 3Ds Max Modifier Plugin" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=42100155&amp;QTY=1&amp;AFFILIATE=108875">Smart Extrude - 3Ds Max Modifier Plugin</a></h3>
@@ -67,9 +64,6 @@ Moreover, Smart Extrude adds the capability to tune the extrusion angle and extr
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=37963426&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/copy_copy_fusion+logo-256.png" alt="Fusion/1 Year" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=37963426&amp;QTY=1&amp;AFFILIATE=108875">Fusion/1 Year</a></h3>
@@ -91,9 +85,6 @@ Moreover, Smart Extrude adds the capability to tune the extrusion angle and extr
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=37732619&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/IES+ExplorerPlus.jpg" alt="IES Explorer+ [Windows Explorer Extension]" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=37732619&amp;QTY=1&amp;AFFILIATE=108875">IES Explorer+ [Windows Explorer Extension]</a></h3>
@@ -138,9 +129,6 @@ Curlipse is included in a pack with&nbsp;<a href="https://3d-kstudio.com/product
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=37252938&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Spline+Flow+-+new+parametric+modeling+plugin+-+product+image.jpg" alt="Spline Flow" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=37252938&amp;QTY=1&amp;AFFILIATE=108875">Spline Flow</a></h3>
@@ -160,9 +148,6 @@ Curlipse is included in a pack with&nbsp;<a href="https://3d-kstudio.com/product
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=35098553&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/fusion+logo-256.png" alt="Fusion/3 Months" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=35098553&amp;QTY=1&amp;AFFILIATE=108875">Fusion/3 Months</a></h3>
@@ -184,9 +169,6 @@ Curlipse is included in a pack with&nbsp;<a href="https://3d-kstudio.com/product
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=33980678&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/1_Sweep+Shapes+Mitered+Door-Drawer-part-1.jpg" alt="Mitered Door-Drawer Moldings Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=33980678&amp;QTY=1&amp;AFFILIATE=108875">Mitered Door-Drawer Moldings Bundle</a></h3>
@@ -210,9 +192,6 @@ Curlipse is included in a pack with&nbsp;<a href="https://3d-kstudio.com/product
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=33980775&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/1_Sweep+Shapes.+Panel+Chair+Rail+Molding-A+1.jpg" alt="Panel Chair Rail Molding Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=33980775&amp;QTY=1&amp;AFFILIATE=108875">Panel Chair Rail Molding Bundle</a></h3>
@@ -236,9 +215,6 @@ Curlipse is included in a pack with&nbsp;<a href="https://3d-kstudio.com/product
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=33978290&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep-Shapes-Hand+Rails.jpg" alt="Sweep Profile Hand Rails" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=33978290&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Hand Rails</a></h3>
@@ -260,9 +236,6 @@ Curlipse is included in a pack with&nbsp;<a href="https://3d-kstudio.com/product
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=33979072&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Shapes+Mitered+Door-Drawer-part-1.jpg" alt="Sweep Profile Mitered Door Drawer 1" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=33979072&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Mitered Door Drawer 1</a></h3>
@@ -284,9 +257,6 @@ Curlipse is included in a pack with&nbsp;<a href="https://3d-kstudio.com/product
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=33979227&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Shapes+Mitered+Door-Drawer-part-2.jpg" alt="Sweep Profile Mitered Door Drawer 2" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=33979227&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Mitered Door Drawer 2</a></h3>
@@ -308,9 +278,6 @@ Curlipse is included in a pack with&nbsp;<a href="https://3d-kstudio.com/product
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=33979907&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Shapes.+Panel+Chair+Rail+Molding-A+1.jpg" alt="Sweep Profile Panel Chair Rail Molding-A 1" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=33979907&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Panel Chair Rail Molding-A 1</a></h3>
@@ -332,9 +299,6 @@ Curlipse is included in a pack with&nbsp;<a href="https://3d-kstudio.com/product
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=33979964&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Shapes.+Panel+Chair+Rail+Molding-A+2.jpg" alt="Sweep Profile Panel Chair Rail Molding-A 2" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=33979964&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Panel Chair Rail Molding-A 2</a></h3>
@@ -356,9 +320,6 @@ Curlipse is included in a pack with&nbsp;<a href="https://3d-kstudio.com/product
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=33980061&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Shapes.+Panel+Chair+Rail+Molding-B+1.jpg" alt="Sweep Profile Panel Chair Rail Molding-B 1" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=33980061&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Panel Chair Rail Molding-B 1</a></h3>
@@ -380,9 +341,6 @@ Curlipse is included in a pack with&nbsp;<a href="https://3d-kstudio.com/product
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=33980182&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Shapes.+Panel+Chair+Rail+Molding-B+2.jpg" alt="Sweep Profile Panel Chair Rail Molding-B 2" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=33980182&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Panel Chair Rail Molding-B 2</a></h3>
@@ -404,9 +362,6 @@ Curlipse is included in a pack with&nbsp;<a href="https://3d-kstudio.com/product
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31821832&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Shapes+Casings-B-part-3.jpg" alt="Sweep Profile Casings-B 3" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31821832&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Casings-B 3</a></h3>
@@ -428,9 +383,6 @@ Curlipse is included in a pack with&nbsp;<a href="https://3d-kstudio.com/product
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31425797&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/copy_Sweep+Shapes+Crowns-B-part-1.jpg" alt="Sweep Profile Crowns-B 1" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31425797&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Crowns-B 1</a></h3>
@@ -451,9 +403,6 @@ Ready to use with the plugin “Sweep Profile”.</p></body></html>             
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31426317&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Shapes+Crowns-B-part-2.jpg" alt="Sweep Profile Crowns-B 2" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31426317&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Crowns-B 2</a></h3>
@@ -474,9 +423,6 @@ Ready to use with the plugin “Sweep Profile”.</p></body></html>             
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=30920730&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/copy_1_Sweep+Shapes+Casings-A-part-3.jpg" alt="Sweep Profile Moldings Mega Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=30920730&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Moldings Mega Bundle</a></h3>
@@ -500,9 +446,6 @@ Mega Bundle contains&nbsp;27 sets (more than 1200 shapes ) of shapes for modelin
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=30713254&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/1_Sweep+Shapes+Casings-A-part-3.jpg" alt="Sweep Profile Casing Moldings Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=30713254&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Casing Moldings Bundle</a></h3>
@@ -526,9 +469,6 @@ Mega Bundle contains&nbsp;27 sets (more than 1200 shapes ) of shapes for modelin
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=30713218&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Shapes+Casings-B-part-2.jpg" alt="Sweep Profile Casings-B 2" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=30713218&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Casings-B 2</a></h3>
@@ -550,9 +490,6 @@ Mega Bundle contains&nbsp;27 sets (more than 1200 shapes ) of shapes for modelin
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=30697101&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/copy_Sweep+Shapes+Casings-B-part-1.jpg" alt="Sweep Profile Casings-B 1" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=30697101&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Casings-B 1</a></h3>
@@ -574,9 +511,6 @@ Mega Bundle contains&nbsp;27 sets (more than 1200 shapes ) of shapes for modelin
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=30685183&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Shapes+Casings-A-part-2.jpg" alt="Sweep Profile Casings-A 2" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=30685183&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Casings-A 2</a></h3>
@@ -598,9 +532,6 @@ Mega Bundle contains&nbsp;27 sets (more than 1200 shapes ) of shapes for modelin
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=30686578&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Shapes+Casings-A-part-3.jpg" alt="Sweep Profile Casings-A 3" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=30686578&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Casings-A 3</a></h3>
@@ -622,9 +553,6 @@ Mega Bundle contains&nbsp;27 sets (more than 1200 shapes ) of shapes for modelin
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=30686639&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Shapes+Casings-A-part-4.jpg" alt="Sweep Profile Casings-A 4" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=30686639&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Casings-A 4</a></h3>
@@ -646,9 +574,6 @@ Mega Bundle contains&nbsp;27 sets (more than 1200 shapes ) of shapes for modelin
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=30294965&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/1_Sweep+Shapes+Baseboards-A-part-1.jpg" alt="Sweep Profile Baseboards Moldings Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=30294965&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Baseboards Moldings Bundle</a></h3>
@@ -670,9 +595,6 @@ Mega Bundle contains&nbsp;27 sets (more than 1200 shapes ) of shapes for modelin
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=30294726&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Shapes+Baseboards-B-part-1.jpg" alt="Sweep Profile Baseboards-B 1" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=30294726&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Baseboards-B 1</a></h3>
@@ -693,9 +615,6 @@ Ready to use with the plugin “Sweep Profile”.</p></body></html>             
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=30295972&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Shapes+Crowns-A-part-1.jpg" alt="Sweep Profile Crown Moldings Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=30295972&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Crown Moldings Bundle</a></h3>
@@ -717,9 +636,6 @@ Ready to use with the plugin “Sweep Profile”.</p></body></html>             
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=30204026&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Shapes+Crowns-A-part-4.jpg" alt="Sweep Profile Crowns-A 4" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=30204026&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Crowns-A 4</a></h3>
@@ -740,9 +656,6 @@ Ready to use with the plugin “Sweep Profile”.</p></body></html>             
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=30205031&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Shapes+Crowns-A-part-5.jpg" alt="Sweep Profile Crowns-A 5" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=30205031&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Crowns-A 5</a></h3>
@@ -763,9 +676,6 @@ Ready to use with the plugin “Sweep Profile”.</p></body></html>             
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=30104848&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/1_Sweep+Shapes+Crowns-A-part-2.jpg" alt="Sweep Profile Crowns-A 2" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=30104848&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Crowns-A 2</a></h3>
@@ -786,9 +696,6 @@ Ready to use with the plugin “Sweep Profile”.</p></body></html>             
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=30105034&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/2_Sweep+Shapes+Crowns-A-part-3.jpg" alt="Sweep Profile Crowns-A 3" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=30105034&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Crowns-A 3</a></h3>
@@ -809,9 +716,6 @@ Ready to use with the plugin “Sweep Profile”.</p></body></html>             
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=29940335&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/1_Sweep+Shapes+Crowns-A-part-1.jpg" alt="Sweep Profile Crowns-A 1" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=29940335&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Crowns-A 1</a></h3>
@@ -832,9 +736,6 @@ Ready to use with the plugin “Sweep Profile”.</p></body></html>             
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=29654306&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Shapes+Baseboards-A-part-2.jpg" alt="Sweep Profile Baseboards-A 2" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=29654306&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Baseboards-A 2</a></h3>
@@ -856,9 +757,6 @@ Ready to use with the plugin “Sweep Profile”.</p></body></html>             
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=29655402&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Shapes+Baseboards-A-part-3.jpg" alt="Sweep Profile Baseboards-A 3" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=29655402&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Baseboards-A 3</a></h3>
@@ -880,9 +778,6 @@ Ready to use with the plugin “Sweep Profile”.</p></body></html>             
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=28161522&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Shapes+Baseboards-A-part-1.jpg" alt="Sweep Profile Baseboards-A 1" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=28161522&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Baseboards-A 1</a></h3>
@@ -904,9 +799,6 @@ Ready to use with the plugin “Sweep Profile”</p></body></html>              
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=27976857&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Shapes+Casings-A-part-1.jpg" alt="Sweep Profile Casings-A 1" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=27976857&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile Casings-A 1</a></h3>
@@ -928,9 +820,6 @@ Ready to use with the plugin “Sweep Profile”</p></body></html>              
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=24300063&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Sweep+Profile+PRO.jpg" alt="Sweep Profile" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=24300063&amp;QTY=1&amp;AFFILIATE=108875">Sweep Profile</a></h3>
@@ -974,9 +863,6 @@ Contains 37 ready-to-be-used architectural profiles.</p></body></html>          
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=4724819&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/1_Classic_Furniture.jpg" alt="Classic Furniture" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=4724819&amp;QTY=1&amp;AFFILIATE=108875">Classic Furniture</a></h3>
@@ -1022,9 +908,6 @@ Find, collect and relink the asset files.</p></body></html>                </div
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=4724835&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Banner_1000x1000_16-FilePathFinder+Advanced+Asset+Tracking+System.jpg" alt="FilePathFinder PRO" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=4724835&amp;QTY=1&amp;AFFILIATE=108875">FilePathFinder PRO</a></h3>
@@ -1046,9 +929,6 @@ Find, collect and relink the asset files.</p>
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=4724832&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/1_Materials+Manager+-+3ds+Max+Material+Library+Explorer-2.jpg" alt="Materials Manager" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=4724832&amp;QTY=1&amp;AFFILIATE=108875">Materials Manager</a></h3>
@@ -1116,9 +996,6 @@ Supports to most contemporary renderers.</p></body></html>                </div>
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=4724842&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/7a71bed212ae4dc677694b682cad7aee/products/Spline+Modeling+Bundle.png" alt="Spline Modeling Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=4724842&amp;QTY=1&amp;AFFILIATE=108875">Spline Modeling Bundle</a></h3>

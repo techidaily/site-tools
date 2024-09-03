@@ -1466,9 +1466,6 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=36978913&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/muse_vue_ant_design_dashboard_pro.jpg" alt="Muse Vue Ant Design Dashboard PRO" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=36978913&amp;QTY=1&amp;AFFILIATE=108875">Muse Vue Ant Design Dashboard PRO</a></h3>
@@ -2342,9 +2339,6 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31158543&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/opt_adsp_react_thumbnail.jpg" alt="Argon Design System PRO React" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31158543&amp;QTY=1&amp;AFFILIATE=108875">Argon Design System PRO React</a></h3>
@@ -3822,9 +3816,6 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=5939520&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/opt_mdp_vue_thumbnail.jpg" alt="Vue Material Dashboard PRO" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=5939520&amp;QTY=1&amp;AFFILIATE=108875">Vue Material Dashboard PRO</a></h3>
@@ -4302,9 +4293,6 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=4717909&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/Paper-Dashboard-KIT-PRO-Card_Thumbnail.png" alt="Paper Dashboard PRO PSD" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=4717909&amp;QTY=1&amp;AFFILIATE=108875">Paper Dashboard PRO PSD</a></h3>
@@ -4508,9 +4496,6 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
-                <a href="https://secure.2checkout.com/order/cart.php?PRODS=4701744&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/1_Screen+Shot+2016-11-23+at+14.56.24.png" alt="Cyber Monday Big Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
-        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=4701744&amp;QTY=1&amp;AFFILIATE=108875">Cyber Monday Big Bundle</a></h3>
