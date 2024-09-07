@@ -22,6 +22,9 @@ Coolmuster
   <ul class="home-article-list">
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=32748843&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Coolmuster Android Backup Manager for Mac - 1 Year License(1 PC)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=32748843&amp;QTY=1&amp;AFFILIATE=108875">Coolmuster Android Backup Manager for Mac - 1 Year License(1 PC)</a></h3>
@@ -42,6 +45,9 @@ Coolmuster
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=32749026&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Coolmuster Android Backup Manager for Mac - Lifetime License(1 PC)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=32749026&amp;QTY=1&amp;AFFILIATE=108875">Coolmuster Android Backup Manager for Mac - Lifetime License(1 PC)</a></h3>
@@ -85,6 +91,9 @@ Coolmuster
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=32743118&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Coolmuster iOS Assistant for Mac - 1 Year License(1 PC)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=32743118&amp;QTY=1&amp;AFFILIATE=108875">Coolmuster iOS Assistant for Mac - 1 Year License(1 PC)</a></h3>
@@ -105,6 +114,9 @@ Coolmuster
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=32743204&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Coolmuster iOS Assistant for Mac - Lifetime License(1 PC)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=32743204&amp;QTY=1&amp;AFFILIATE=108875">Coolmuster iOS Assistant for Mac - Lifetime License(1 PC)</a></h3>
@@ -150,6 +162,9 @@ Coolmuster
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=32742976&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Coolmuster Mobile Transfer for Mac - 1 Year License(1 PC)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=32742976&amp;QTY=1&amp;AFFILIATE=108875">Coolmuster Mobile Transfer for Mac - 1 Year License(1 PC)</a></h3>
@@ -170,6 +185,9 @@ Coolmuster
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=32743000&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Coolmuster Mobile Transfer for Mac - Lifetime License(1 PC)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=32743000&amp;QTY=1&amp;AFFILIATE=108875">Coolmuster Mobile Transfer for Mac - Lifetime License(1 PC)</a></h3>
@@ -190,6 +208,9 @@ Coolmuster
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=32734058&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Coolmuster Android Assistant for Mac - 1 Year License(1 PC)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=32734058&amp;QTY=1&amp;AFFILIATE=108875">Coolmuster Android Assistant for Mac - 1 Year License(1 PC)</a></h3>
@@ -210,6 +231,9 @@ Coolmuster
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=32734930&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Coolmuster Android Assistant for Mac - Lifetime License(1 PC)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=32734930&amp;QTY=1&amp;AFFILIATE=108875">Coolmuster Android Assistant for Mac - Lifetime License(1 PC)</a></h3>
@@ -276,6 +300,9 @@ Coolmuster
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=32721061&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Coolmuster Android Eraser - Lifetime License(1 PC)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=32721061&amp;QTY=1&amp;AFFILIATE=108875">Coolmuster Android Eraser - Lifetime License(1 PC)</a></h3>
@@ -319,6 +346,9 @@ Coolmuster
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=32722510&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Coolmuster iOS Assistant - 1 Year License(1 PC)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=32722510&amp;QTY=1&amp;AFFILIATE=108875">Coolmuster iOS Assistant - 1 Year License(1 PC)</a></h3>
@@ -339,6 +369,9 @@ Coolmuster
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=32722609&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Coolmuster iOS Assistant - Lifetime License(1 PC)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=32722609&amp;QTY=1&amp;AFFILIATE=108875">Coolmuster iOS Assistant - Lifetime License(1 PC)</a></h3>
@@ -405,6 +438,9 @@ Coolmuster
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=32721277&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Coolmuster Mobile Transfer - 1 Year License(1 PC)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=32721277&amp;QTY=1&amp;AFFILIATE=108875">Coolmuster Mobile Transfer - 1 Year License(1 PC)</a></h3>
@@ -425,7 +461,7 @@ Coolmuster
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
                 <a href="https://secure.2checkout.com/order/cart.php?PRODS=32721487&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/b2e1050f83b6efe25ffc56d7847e9ff1/products/mobile-transfer.png" alt="Coolmuster Mobile Transfer - Lifetime License(1 PC)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Coolmuster Mobile Transfer - Lifetime License(1 PC)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
         </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
@@ -469,6 +505,9 @@ Coolmuster
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=32667153&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Coolmuster Android Assistant - Lifetime License(1 PC)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=32667153&amp;QTY=1&amp;AFFILIATE=108875">Coolmuster Android Assistant - Lifetime License(1 PC)</a></h3>
@@ -489,6 +528,9 @@ Coolmuster
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=32666910&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Coolmuster Android Eraser - 1 Year License(1 PC)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=32666910&amp;QTY=1&amp;AFFILIATE=108875">Coolmuster Android Eraser - 1 Year License(1 PC)</a></h3>
@@ -510,7 +552,7 @@ Coolmuster
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
                 <a href="https://secure.2checkout.com/order/cart.php?PRODS=32666790&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/b2e1050f83b6efe25ffc56d7847e9ff1/products/android-smscontacts-recovery.png" alt="Coolmuster Android SMS + Contacts Recovery - 1 Year License(3 Devices, 1 PC)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Coolmuster Android SMS + Contacts Recovery - 1 Year License(3 Devices, 1 PC)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
         </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
@@ -533,7 +575,7 @@ Coolmuster
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
                 <a href="https://secure.2checkout.com/order/cart.php?PRODS=32673283&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/b2e1050f83b6efe25ffc56d7847e9ff1/products/labfone-android.PNG" alt="Coolmuster Lab.Fone for Android - 1 Year License(1 PC, 5 Devices)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Coolmuster Lab.Fone for Android - 1 Year License(1 PC, 5 Devices)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
         </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
@@ -555,6 +597,9 @@ Coolmuster
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=27031597&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Coolmuster Android Assistant - 1 Year License(1 PC)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=27031597&amp;QTY=1&amp;AFFILIATE=108875">Coolmuster Android Assistant - 1 Year License(1 PC)</a></h3>
