@@ -249,7 +249,7 @@ Creative-tim
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
                 <a href="https://secure.2checkout.com/order/cart.php?PRODS=40915031&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/nuxt-argon-dashboard.jpg" alt="Nuxt Argon Dashboard 2 PRO Laravel" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Nuxt Argon Dashboard 2 PRO Laravel" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
         </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
@@ -293,7 +293,7 @@ Creative-tim
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
                 <a href="https://secure.2checkout.com/order/cart.php?PRODS=40914973&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/vue-material-dashboard-laravel-pro.jpg" alt="Vue Material Dashboard 2 PRO Laravel" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Vue Material Dashboard 2 PRO Laravel" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
         </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
@@ -381,7 +381,7 @@ Creative-tim
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
                 <a href="https://secure.2checkout.com/order/cart.php?PRODS=40525555&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/corporate-ui-dashboard-pro.jpg" alt="Corporate UI Dashboard Pro" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Corporate UI Dashboard Pro" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
         </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
@@ -424,6 +424,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=40107907&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Angular Bundle - Winter 2022" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=40107907&amp;QTY=1&amp;AFFILIATE=108875">Angular Bundle - Winter 2022</a></h3>
@@ -443,6 +446,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=40107939&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Bootstrap Bundle - Winter 2022" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=40107939&amp;QTY=1&amp;AFFILIATE=108875">Bootstrap Bundle - Winter 2022</a></h3>
@@ -462,6 +468,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=40108022&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Laravel Bundle - Winter 2022" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=40108022&amp;QTY=1&amp;AFFILIATE=108875">Laravel Bundle - Winter 2022</a></h3>
@@ -481,6 +490,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=40108039&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Mobile Bundle - Winter 2022" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=40108039&amp;QTY=1&amp;AFFILIATE=108875">Mobile Bundle - Winter 2022</a></h3>
@@ -500,6 +512,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=40107852&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="React Bundle - Winter 2022" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=40107852&amp;QTY=1&amp;AFFILIATE=108875">React Bundle - Winter 2022</a></h3>
@@ -519,6 +534,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=40108065&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Tailwind Bundle - Winter 2022" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=40108065&amp;QTY=1&amp;AFFILIATE=108875">Tailwind Bundle - Winter 2022</a></h3>
@@ -538,6 +556,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=40107971&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Vue Bundle - Winter 2022" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=40107971&amp;QTY=1&amp;AFFILIATE=108875">Vue Bundle - Winter 2022</a></h3>
@@ -668,7 +689,7 @@ Creative-tim
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
                 <a href="https://secure.2checkout.com/order/cart.php?PRODS=39998952&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/1_react-bundle.jpg" alt="React Bundle - BF 2022" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="React Bundle - BF 2022" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
         </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
@@ -690,7 +711,7 @@ Creative-tim
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
                 <a href="https://secure.2checkout.com/order/cart.php?PRODS=39999632&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/1_tailwind-bundle.jpg" alt="Tailwind Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Tailwind Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
         </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
@@ -734,7 +755,7 @@ Creative-tim
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
                 <a href="https://secure.2checkout.com/order/cart.php?PRODS=39999053&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/vuejs-bundle.jpg" alt="Vue Bundle - BF 2022" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Vue Bundle - BF 2022" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
         </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
@@ -756,7 +777,7 @@ Creative-tim
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
                 <a href="https://secure.2checkout.com/order/cart.php?PRODS=39908533&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/soft-ui-dashboard-pro-tall.jpeg" alt="Soft UI Dashboard PRO Tall" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Soft UI Dashboard PRO Tall" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
         </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
@@ -1020,7 +1041,7 @@ Creative-tim
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
                 <a href="https://secure.2checkout.com/order/cart.php?PRODS=37992431&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/muse-ant-dashboard-pro-react.jpeg" alt="Muse Ant Design Dashboard PRO" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Muse Ant Design Dashboard PRO" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
         </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
@@ -1086,7 +1107,7 @@ Creative-tim
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
                 <a href="https://secure.2checkout.com/order/cart.php?PRODS=37887398&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/vue-soft-ui-dashboard-pro.jpeg" alt="Vue Soft UI Dashboard PRO" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Vue Soft UI Dashboard PRO" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
         </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
@@ -1130,7 +1151,7 @@ Creative-tim
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
                 <a href="https://secure.2checkout.com/order/cart.php?PRODS=37836463&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/vision-ui-pro-chakra_ct.png" alt="Vision UI Dashboard PRO Chakra" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Vision UI Dashboard PRO Chakra" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
         </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
@@ -1195,6 +1216,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=37625080&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Winter Big Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=37625080&amp;QTY=1&amp;AFFILIATE=108875">Winter Big Bundle</a></h3>
@@ -1214,6 +1238,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=37625317&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Winter Mobile Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=37625317&amp;QTY=1&amp;AFFILIATE=108875">Winter Mobile Bundle</a></h3>
@@ -1256,7 +1283,7 @@ Creative-tim
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
                 <a href="https://secure.2checkout.com/order/cart.php?PRODS=37533874&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/vuetify-soft-ui-dashboard-pro.jpg" alt="Vuetify Soft UI Dashboard PRO" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Vuetify Soft UI Dashboard PRO" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
         </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
@@ -1277,6 +1304,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=37454602&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Mobile Stack BF 2021" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=37454602&amp;QTY=1&amp;AFFILIATE=108875">Mobile Stack BF 2021</a></h3>
@@ -1296,6 +1326,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=37454186&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="The Ultimate Stack BF 2021" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=37454186&amp;QTY=1&amp;AFFILIATE=108875">The Ultimate Stack BF 2021</a></h3>
@@ -1403,6 +1436,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=37225282&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Autumn Big Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=37225282&amp;QTY=1&amp;AFFILIATE=108875">Autumn Big Bundle</a></h3>
@@ -1466,6 +1502,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=36978913&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/muse_vue_ant_design_dashboard_pro.jpg" alt="Muse Vue Ant Design Dashboard PRO" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=36978913&amp;QTY=1&amp;AFFILIATE=108875">Muse Vue Ant Design Dashboard PRO</a></h3>
@@ -1485,6 +1524,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=36922422&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Mobile Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=36922422&amp;QTY=1&amp;AFFILIATE=108875">Mobile Bundle</a></h3>
@@ -1504,6 +1546,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=36915091&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="8 Years Anniversary Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=36915091&amp;QTY=1&amp;AFFILIATE=108875">8 Years Anniversary Bundle</a></h3>
@@ -1589,6 +1634,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=36200356&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Now UI Design System PRO" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=36200356&amp;QTY=1&amp;AFFILIATE=108875">Now UI Design System PRO</a></h3>
@@ -1630,6 +1678,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=36003446&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Designer Collection" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=36003446&amp;QTY=1&amp;AFFILIATE=108875">Designer Collection</a></h3>
@@ -1671,6 +1722,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=35275283&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Notus Pro React" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=35275283&amp;QTY=1&amp;AFFILIATE=108875">Notus Pro React</a></h3>
@@ -1712,6 +1766,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=35017057&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Spring Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=35017057&amp;QTY=1&amp;AFFILIATE=108875">Spring Bundle</a></h3>
@@ -1754,7 +1811,7 @@ Creative-tim
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
                 <a href="https://secure.2checkout.com/order/cart.php?PRODS=34081148&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/opt_sds_thumbnail.png" alt="Soft UI Design System PRO" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Soft UI Design System PRO" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
         </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
@@ -1907,6 +1964,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=33324758&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Winter Angular Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=33324758&amp;QTY=1&amp;AFFILIATE=108875">Winter Angular Bundle</a></h3>
@@ -1926,6 +1986,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=33325540&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Winter Bootstrap Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=33325540&amp;QTY=1&amp;AFFILIATE=108875">Winter Bootstrap Bundle</a></h3>
@@ -1945,6 +2008,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=33324563&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Winter Laravel Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=33324563&amp;QTY=1&amp;AFFILIATE=108875">Winter Laravel Bundle</a></h3>
@@ -1964,6 +2030,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=33325452&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Winter React Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=33325452&amp;QTY=1&amp;AFFILIATE=108875">Winter React Bundle</a></h3>
@@ -1983,6 +2052,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=33324676&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Winter Vuejs Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=33324676&amp;QTY=1&amp;AFFILIATE=108875">Winter Vuejs Bundle</a></h3>
@@ -2069,7 +2141,7 @@ Creative-tim
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
                 <a href="https://secure.2checkout.com/order/cart.php?PRODS=32885557&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/opt_mdp_react_aspnet_thumbnail.jpeg" alt="Material Dashboard PRO React Asp.net" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Material Dashboard PRO React Asp.net" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
         </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
@@ -2090,6 +2162,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=32669180&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Angular Stack BF 2021" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=32669180&amp;QTY=1&amp;AFFILIATE=108875">Angular Stack BF 2021</a></h3>
@@ -2109,6 +2184,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=32668598&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Bootstrap Stack BF 2021" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=32668598&amp;QTY=1&amp;AFFILIATE=108875">Bootstrap Stack BF 2021</a></h3>
@@ -2128,6 +2206,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=32669512&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Laravel Stack BF 2021" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=32669512&amp;QTY=1&amp;AFFILIATE=108875">Laravel Stack BF 2021</a></h3>
@@ -2147,6 +2228,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=32668882&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="React Stack BF 2021" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=32668882&amp;QTY=1&amp;AFFILIATE=108875">React Stack BF 2021</a></h3>
@@ -2166,6 +2250,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=32669358&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Vuejs Stack BF 2021" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=32669358&amp;QTY=1&amp;AFFILIATE=108875">Vuejs Stack BF 2021</a></h3>
@@ -2339,6 +2426,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=31158543&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/opt_adsp_react_thumbnail.jpg" alt="Argon Design System PRO React" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=31158543&amp;QTY=1&amp;AFFILIATE=108875">Argon Design System PRO React</a></h3>
@@ -2424,6 +2514,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=30031809&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Nuxtjs Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=30031809&amp;QTY=1&amp;AFFILIATE=108875">Nuxtjs Bundle</a></h3>
@@ -2443,6 +2536,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=30031734&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="React Native Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=30031734&amp;QTY=1&amp;AFFILIATE=108875">React Native Bundle</a></h3>
@@ -2506,6 +2602,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=28948898&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Spring Big Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=28948898&amp;QTY=1&amp;AFFILIATE=108875">Spring Big Bundle</a></h3>
@@ -2547,6 +2646,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=27423235&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Laravel Bundle Discount" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=27423235&amp;QTY=1&amp;AFFILIATE=108875">Laravel Bundle Discount</a></h3>
@@ -2588,6 +2690,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=27052716&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Enterprise Stack" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=27052716&amp;QTY=1&amp;AFFILIATE=108875">Enterprise Stack</a></h3>
@@ -2607,6 +2712,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=27051459&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Freelancer Stack" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=27051459&amp;QTY=1&amp;AFFILIATE=108875">Freelancer Stack</a></h3>
@@ -2626,6 +2734,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=27052572&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Startup Stack" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=27052572&amp;QTY=1&amp;AFFILIATE=108875">Startup Stack</a></h3>
@@ -2690,7 +2801,7 @@ Creative-tim
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
                 <a href="https://secure.2checkout.com/order/cart.php?PRODS=26605620&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/opt_bdp_angular_thumbnail.jpg" alt="Black Dashboard PRO Angular" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Black Dashboard PRO Angular" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
         </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
@@ -2807,6 +2918,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=26030755&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Laravel Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=26030755&amp;QTY=1&amp;AFFILIATE=108875">Laravel Bundle</a></h3>
@@ -2870,6 +2984,9 @@ Creative-tim
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=25989963&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Now UI Dashboard PRO Laravel" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=25989963&amp;QTY=1&amp;AFFILIATE=108875">Now UI Dashboard PRO Laravel</a></h3>
@@ -3198,6 +3315,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=20245195&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Material Design Bundle Discount" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=20245195&amp;QTY=1&amp;AFFILIATE=108875">Material Design Bundle Discount</a></h3>
@@ -3261,6 +3381,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=19665215&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Material Design Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=19665215&amp;QTY=1&amp;AFFILIATE=108875">Material Design Bundle</a></h3>
@@ -3280,6 +3403,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=19358207&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Now UI Dashboard PRO Angular" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=19358207&amp;QTY=1&amp;AFFILIATE=108875">Now UI Dashboard PRO Angular</a></h3>
@@ -3343,6 +3469,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=19169160&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Angular Bundle Discount" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=19169160&amp;QTY=1&amp;AFFILIATE=108875">Angular Bundle Discount</a></h3>
@@ -3362,6 +3491,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=19169182&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Big Bundle Discount" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=19169182&amp;QTY=1&amp;AFFILIATE=108875">Big Bundle Discount</a></h3>
@@ -3381,6 +3513,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=19169218&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="HTML Bundle Discount" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=19169218&amp;QTY=1&amp;AFFILIATE=108875">HTML Bundle Discount</a></h3>
@@ -3400,6 +3535,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=19169206&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="React Bundle Discount" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=19169206&amp;QTY=1&amp;AFFILIATE=108875">React Bundle Discount</a></h3>
@@ -3419,6 +3557,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=19169244&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Vuejs Bundle Discount" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=19169244&amp;QTY=1&amp;AFFILIATE=108875">Vuejs Bundle Discount</a></h3>
@@ -3527,6 +3668,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=17827199&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Angular Bundle BF 2018" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=17827199&amp;QTY=1&amp;AFFILIATE=108875">Angular Bundle BF 2018</a></h3>
@@ -3570,6 +3714,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=15356067&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Big Bundle BF 2018" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=15356067&amp;QTY=1&amp;AFFILIATE=108875">Big Bundle BF 2018</a></h3>
@@ -3590,6 +3737,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=15343156&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="HTML Bundle BF 2018" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=15343156&amp;QTY=1&amp;AFFILIATE=108875">HTML Bundle BF 2018</a></h3>
@@ -3610,6 +3760,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=15343372&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="React Bundle BF 2018" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=15343372&amp;QTY=1&amp;AFFILIATE=108875">React Bundle BF 2018</a></h3>
@@ -3630,6 +3783,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=14375404&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Angular Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=14375404&amp;QTY=1&amp;AFFILIATE=108875">Angular Bundle</a></h3>
@@ -3649,6 +3805,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=14376106&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Bootstrap Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=14376106&amp;QTY=1&amp;AFFILIATE=108875">Bootstrap Bundle</a></h3>
@@ -3668,6 +3827,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=14375117&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="React Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=14375117&amp;QTY=1&amp;AFFILIATE=108875">React Bundle</a></h3>
@@ -3687,6 +3849,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=14373734&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Vuejs Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=14373734&amp;QTY=1&amp;AFFILIATE=108875">Vuejs Bundle</a></h3>
@@ -3706,6 +3871,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=13858494&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Extend Premium Support" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=13858494&amp;QTY=1&amp;AFFILIATE=108875">Extend Premium Support</a></h3>
@@ -3796,6 +3964,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=6291801&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Summer Bundle Exclusive" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=6291801&amp;QTY=1&amp;AFFILIATE=108875">Summer Bundle Exclusive</a></h3>
@@ -3816,6 +3987,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=5939520&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/opt_mdp_vue_thumbnail.jpg" alt="Vue Material Dashboard PRO" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=5939520&amp;QTY=1&amp;AFFILIATE=108875">Vue Material Dashboard PRO</a></h3>
@@ -4087,6 +4261,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=4720653&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="2016 Bundle Black Friday - A" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=4720653&amp;QTY=1&amp;AFFILIATE=108875">2016 Bundle Black Friday - A</a></h3>
@@ -4107,6 +4284,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=4720654&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="2016 Bundle Black Friday - B" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=4720654&amp;QTY=1&amp;AFFILIATE=108875">2016 Bundle Black Friday - B</a></h3>
@@ -4127,6 +4307,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=4720656&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="2017 Bundle Black Friday - A" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=4720656&amp;QTY=1&amp;AFFILIATE=108875">2017 Bundle Black Friday - A</a></h3>
@@ -4147,6 +4330,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=4720657&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="2017 Bundle Black Friday - B" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=4720657&amp;QTY=1&amp;AFFILIATE=108875">2017 Bundle Black Friday - B</a></h3>
@@ -4167,6 +4353,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=4720658&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Big Bundle Black Friday - A" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=4720658&amp;QTY=1&amp;AFFILIATE=108875">Big Bundle Black Friday - A</a></h3>
@@ -4187,6 +4376,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=4720659&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Big Bundle Black Friday - B" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=4720659&amp;QTY=1&amp;AFFILIATE=108875">Big Bundle Black Friday - B</a></h3>
@@ -4207,6 +4399,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=4720494&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="2016 Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=4720494&amp;QTY=1&amp;AFFILIATE=108875">2016 Bundle</a></h3>
@@ -4227,6 +4422,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=4720495&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="2017 Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=4720495&amp;QTY=1&amp;AFFILIATE=108875">2017 Bundle</a></h3>
@@ -4293,6 +4491,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=4717909&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/Paper-Dashboard-KIT-PRO-Card_Thumbnail.png" alt="Paper Dashboard PRO PSD" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=4717909&amp;QTY=1&amp;AFFILIATE=108875">Paper Dashboard PRO PSD</a></h3>
@@ -4496,6 +4697,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=4701744&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Cyber Monday Big Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=4701744&amp;QTY=1&amp;AFFILIATE=108875">Cyber Monday Big Bundle</a></h3>
@@ -4539,7 +4743,7 @@ It features a huge number of components that can help you create amazing website
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
                 <a href="https://secure.2checkout.com/order/cart.php?PRODS=4693413&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
-          <img src="https://secure.2checkout.com/images/merchant/5d461a9f589b908d63d225c4859a0f1b/products/opt_pdp_thumbnail.jpg" alt="Paper Dashboard PRO" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Paper Dashboard PRO" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
         </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
@@ -4583,6 +4787,9 @@ It features a huge number of components that can help you create amazing website
     </li>
     <li class="home-article-item flex flex-row feedProduct">
       <div class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden">
+                <a href="https://secure.2checkout.com/order/cart.php?PRODS=4692291&amp;QTY=1&amp;AFFILIATE=108875" class="w-24 h-24 md:w-28 md:h-28 lg:w-32 lg:h-32 xl:w-42 xl:h-42 max-w-24 max-h-24 md:max-w-28 md:max-h-28 lg:max-w-32 lg:max-h-32 xl:max-w-42 xl:max-h-42 -pt-2">
+          <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Big Bundle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 -mt-4 p-4">
+        </a>
               </div>
       <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
         <h3 class="home-article-title"><a href="https://secure.2checkout.com/order/cart.php?PRODS=4692291&amp;QTY=1&amp;AFFILIATE=108875">Big Bundle</a></h3>
