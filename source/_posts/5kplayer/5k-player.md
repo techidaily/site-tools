@@ -17,14 +17,28 @@ thumbnail: https://www.5kplayer.com/img/div03-logo-eighteen.png
 - Wirelessly stream audio video via AirPlay & DLNA, zero quality loss.
 - Download videos from 300+ sites like Dailymotion and Vimeo.
 
-## Free Download
+![5KPlayer](https://www.5kplayer.com/img/div03-logo-eighteen.png)
 
-- [Download For Windows 11/10/8/7](https://www.5kplayer.com/download/5kplayer-setup.exe)
-- [Download For macOS](https://www.5kplayer.com/download/5kplayer-setup.dmg)
+<div class="mx-auto flex items-center justify-center space-x-4">
+  <button 
+  onclick="javascript:window.open('https://www.5kplayer.com/download/5kplayer-setup.dmg', '_blank');void(0);"
+  class="flex flex-row font-bold rounded-lg text-lg w-48 h-16 bg-[#FF8014] text-[#ffffff] items-center justify-center p-2">
+    <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" color="#ffffff" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M16 2C16.3632 4.17921 14.0879 5.83084 12.8158 6.57142C12.4406 6.78988 12.0172 6.5117 12.0819 6.08234C12.2993 4.63878 13.0941 2.00008 16 2Z" stroke="#f8f7f7" stroke-width="1.5"></path><path d="M9 6.5C9.89676 6.5 10.6905 6.69941 11.2945 6.92013C12.0563 7.19855 12.9437 7.19854 13.7055 6.92012C14.3094 6.6994 15.1032 6.5 15.9999 6.5C17.0852 6.5 18.4649 7.08889 19.4999 8.26666C16 11 17 15.5 20.269 16.6916C19.2253 19.5592 17.2413 21.5 15.4999 21.5C13.9999 21.5 14 20.8 12.5 20.8C11 20.8 11 21.5 9.5 21.5C7 21.5 4 17.5 4 12.5C4 8.5 7 6.5 9 6.5Z" stroke="#f8f7f7" stroke-width="1.5"></path></svg>    
+    <span class="font-medium mx-auto">Free Download</span>  
+  </button>
+  <button 
+  onclick="javascript:window.open('https://www.5kplayer.com/download/5kplayer-setup.exe', '_blank');void(0);"
+  class="flex flex-row font-bold rounded-lg text-lg w-48 h-16 bg-[#FF8014] text-[#ffffff] items-center justify-center p-2">
+    <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" color="#ffffff" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M4 16.9865V7.01353C4 6.71792 4.21531 6.46636 4.50737 6.42072L19.3074 4.10822C19.6713 4.05137 20 4.33273 20 4.70103V19.299C20 19.6673 19.6713 19.9486 19.3074 19.8918L4.50737 17.5793C4.21531 17.5336 4 17.2821 4 16.9865Z" stroke="#f8f7f7" stroke-width="1.5"></path><path d="M4 12H20" stroke="#f8f7f7" stroke-width="1.5"></path><path d="M10.5 5.5V18.5" stroke="#f8f7f7" stroke-width="1.5"></path></svg>
+    <span class="font-medium mx-auto">Free Download</span>  
+  </button>
+</div>
+
+
 
 ## Features
 
-### 5KPlayer Supports AirPlay & DLNA Wireless Stream_Apple AirPlay™ + DLNA: Stream Every Moment, Connect Everywhere, Make Multi-screen Share Easy_
+5KPlayer Supports AirPlay & DLNA Wireless Stream_Apple AirPlay™ + DLNA: Stream Every Moment, Connect Everywhere, Make Multi-screen Share Easy_
 
 ![](https://www.5kplayer.com/img/divlast06-face-eighteen.png)
 

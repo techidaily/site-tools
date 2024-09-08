@@ -10,24 +10,80 @@ description: A robust iOS backup and transfer tool for every iPhone/iPad owner
 thumbnail: https://www.5kplayer.com/iphone-manager/images/new-index/main1-img.png
 ---
 
-DearMob iPhone Manager
+**DearMob iPhone Manager**
 
 A robust iOS backup and transfer tool for every iPhone/iPad owner
 
 This tool is the must-have app for iPhone switch, daily management and batch tasks. You can transfer everything from old iPhone iPad to new devices, computers, and external hard drives. Safe and Easy.
 Back up whatever you like, bulk transfer photos, contacts and media files, enjoy ultra flexibility.
 
-## Buy Now
+![DearMob iPhone Manager](https://www.5kplayer.com/iphone-manager/images/new-index/main1-img.png)
 
-- **Windows 11, 10, 8, 7**
-  - [Premium 365: 1 Year Subscription / 3 PCs](https://estore.5kplayer.com/order/checkout.php?PRODS=39852171&QTY=1&AFFILIATE=108875&CART=2&DESIGN_TYPE=2&SHORT_FORM=1&HIDEC=0&SRC=pmbuy-EN&ORDERSTYLE=nLWw4pTPhHU=&COUPON=VIPSAVE&daci=2034085412.1724814733)
-  - [Lifetime License: Lifetime /1PC](https://estore.5kplayer.com/order/checkout.php?PRODS=39852338&QTY=1&AFFILIATE=108875&CART=2&DESIGN_TYPE=2&SHORT_FORM=1&HIDEC=0&SRC=pmbuy-EN&ORDERSTYLE=nLWw4pTPhHU=&COUPON=VIPSAVE&daci=2034085412.1724814733)
-  - [Family License: Lifetime / 3-5 PCs](https://estore.5kplayer.com/order/checkout.php?PRODS=39852335&QTY=1&AFFILIATE=108875&CART=2&DESIGN_TYPE=2&SHORT_FORM=1&HIDEC=0&SRC=pmbuy-EN&ORDERSTYLE=nLWw4pTPhHU=&COUPON=VIPSAVE&daci=2034085412.1724814733)
+<div class="mx-auto flex items-center justify-center space-x-4">
+  <button
+  onclick="javascript:window.open('https://estore.5kplayer.com/order/checkout.php?PRODS=39852171&QTY=1&AFFILIATE=108875&CART=2&DESIGN_TYPE=2&SHORT_FORM=1&HIDEC=0&SRC=pmbuy-EN&ORDERSTYLE=nLWw4pTPhHU=&COUPON=VIPSAVE&daci=2034085412.1724814733','_blank');window.open('https://www.5kplayer.com/download/dearmob-iphone-manager.exe', '_blank');void(0);"
+  class="flex flex-row font-bold rounded-lg text-lg w-48 h-16 bg-[#FF8014] text-[#ffffff] items-center justify-center p-2">
+    <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" color="#ffffff" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M4 16.9865V7.01353C4 6.71792 4.21531 6.46636 4.50737 6.42072L19.3074 4.10822C19.6713 4.05137 20 4.33273 20 4.70103V19.299C20 19.6673 19.6713 19.9486 19.3074 19.8918L4.50737 17.5793C4.21531 17.5336 4 17.2821 4 16.9865Z" stroke="#f8f7f7" stroke-width="1.5"></path><path d="M4 12H20" stroke="#f8f7f7" stroke-width="1.5"></path><path d="M10.5 5.5V18.5" stroke="#f8f7f7" stroke-width="1.5"></path></svg>
+    <span class="font-medium mx-auto">Free Download</span>  
+  </button>
+</div>
 
-- **Mac OS X 10.7 or higher**
-  - [Premium 365: 1 Year Subscription / 3 PCs](https://estore.5kplayer.com/order/checkout.php?PRODS=39852184&QTY=1&AFFILIATE=108875&CART=2&DESIGN_TYPE=2&SHORT_FORM=1&HIDEC=0&SRC=pmbuy-EN&ORDERSTYLE=nLWw4pTPhHU=&COUPON=VIPSAVE&daci=2034085412.1724814733)
-  - [Lifetime License: Lifetime /1PC](https://estore.5kplayer.com/order/checkout.php?PRODS=7153575&QTY=1&AFFILIATE=108875&CART=2&DESIGN_TYPE=2&SHORT_FORM=1&HIDEC=0&SRC=pmbuy-EN&ORDERSTYLE=nLWw4pTPhHU=&COUPON=VIPSAVE&daci=2034085412.1724814733)
-  - [Family License: Lifetime / 3-5 PCs](https://estore.5kplayer.com/order/checkout.php?PRODS=39852315&QTY=1&AFFILIATE=108875&CART=2&DESIGN_TYPE=2&SHORT_FORM=1&HIDEC=0&SRC=pmbuy-EN&ORDERSTYLE=nLWw4pTPhHU=&COUPON=VIPSAVE&daci=2034085412.1724814733)
+
+<div class="mx-auto flex items-center justify-center">
+  <div class="m-8 grid grid-cols-1 gap-6 xl:grid-cols-3">
+    <div class="flex w-full flex-col rounded-2xl bg-[#ffffff] text-[#374151] shadow-xl xl:w-96">
+      <div class="flex h-full flex-col p-8">
+        <div class="pb-6 text-3xl font-bold">1 Year Subscription</div>
+        <div class="pb-12 text-lg">
+          3 PC / 1 Year
+          <div class="text-xs">For 1 year free upgrades.</div>
+        </div>
+        <div class="flex flex-col gap-3 text-base"></div>
+        <div class="flex flex-grow"></div>
+        <div class="flex pt-10">
+          <a href="https://estore.5kplayer.com/order/checkout.php?PRODS=39852171&QTY=1&AFFILIATE=108875&CART=2&DESIGN_TYPE=2&SHORT_FORM=1&HIDEC=0&SRC=pmbuy-EN&ORDERSTYLE=nLWw4pTPhHU=&COUPON=VIPSAVE&daci=2034085412.1724814733" class="w-full transform cursor-pointer rounded-lg bg-[#7e22ce] p-3 text-center text-xl font-bold !text-[#ffffff] !no-underline transition-transform hover:bg-purple-800 active:scale-95"> 
+            <em class="text-base line-through !text-[#c5c5c5]">$59.95</em>
+            $29.95 
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="flex w-full flex-col rounded-2xl bg-[#ffffff] text-[#374151] shadow-xl xl:w-96">
+      <div class="flex h-full flex-col p-8">
+        <div class="pb-6 text-3xl font-bold">Lifetime License</div>
+        <div class="pb-12 text-lg">
+          1 PC / Lifetime
+          <div class="text-xs">One-time fee / Lifetime free updates</div>
+        </div>
+        <div class="flex flex-col gap-3 text-base"></div>
+        <div class="flex flex-grow"></div>
+        <div class="flex pt-10">
+          <a href="https://estore.5kplayer.com/order/checkout.php?PRODS=39852338&QTY=1&AFFILIATE=108875&CART=2&DESIGN_TYPE=2&SHORT_FORM=1&HIDEC=0&SRC=pmbuy-EN&ORDERSTYLE=nLWw4pTPhHU=&COUPON=VIPSAVE&daci=2034085412.1724814733" class="w-full transform cursor-pointer rounded-lg bg-[#7e22ce] p-3 text-center text-xl font-bold !text-[#ffffff] !no-underline transition-transform hover:bg-purple-800 active:scale-95">
+            <em class="text-base line-through !text-[#c5c5c5]">$79.95</em>
+            $39.95
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="flex w-full flex-col rounded-2xl bg-[#ffffff] text-[#374151] shadow-xl xl:w-96">
+      <div class="flex h-full flex-col p-8">
+        <div class="pb-6 text-3xl font-bold">Family Pack</div>
+        <div class="pb-12 text-lg">
+          3-5 PCs / Lifetime
+          <div class="text-xs">One-time fee / Lifetime free updates</div>
+        </div>
+        <div class="flex flex-col gap-3 text-base"></div>
+        <div class="flex flex-grow"></div>
+        <div class="flex pt-10">
+          <a href="https://estore.5kplayer.com/order/checkout.php?PRODS=39852335&QTY=1&AFFILIATE=108875&CART=2&DESIGN_TYPE=2&SHORT_FORM=1&HIDEC=0&SRC=pmbuy-EN&ORDERSTYLE=nLWw4pTPhHU=&COUPON=VIPSAVE&daci=2034085412.1724814733" class="w-full transform cursor-pointer rounded-lg bg-[#7e22ce] p-3 text-center text-xl font-bold !text-[#ffffff] !no-underline transition-transform hover:bg-purple-800 active:scale-95">
+            <em class="text-base line-through !text-[#c5c5c5]">$107.95</em>
+            $59.95
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 ## Features
 

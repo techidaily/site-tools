@@ -17,34 +17,451 @@ Digitize, retrieve, edit, protect, share, and collaborate on all kinds of docume
 
 ![FRforWin-visual](https://pdf.abbyy.com/media/3591/frforwin-visual.png)
 
-## ![ABBYY FineReader PDF](https://pdf.abbyy.com/media/3784/fr-icon-56x56.svg) ABBYY FineReader PDF
 
-## 1. Download
-
-### 1.1 FineReader PDF Standard for Windows
+## 1. FineReader PDF Standard for Windows
 
 PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents.
 
-- [monthly subscription](https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1&CARD=1&SHORT_FORM=1&CURRENCY=CNY&DCURRENCY=CNY&DESIGN_TYPE=2&ARN=1&SRC=WIDGET-NEW&LANG=en&source=pdf.abbyy.com__shopping&ORDERSTYLE=nLWsm5WpjLg=)
-- [yearly subscription](https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1&CARD=1&SHORT_FORM=1&CURRENCY=CNY&DCURRENCY=CNY&DESIGN_TYPE=2&ARN=1&SRC=WIDGET-NEW&LANG=en&source=pdf.abbyy.com__shopping&ORDERSTYLE=nLWsm5WpjLg=)
-- [3-year subscription](https://checkout.abbyy.com/order/checkout.php?PRODS=43369480&QTY=1&AFFILIATE=108875&CART=1&CARD=1&SHORT_FORM=1&CURRENCY=CNY&DCURRENCY=CNY&DESIGN_TYPE=2&ARN=1&SRC=WIDGET-NEW&LANG=en&source=pdf.abbyy.com__shopping&ORDERSTYLE=nLWsm5WpjLg=)
+<div class="mx-auto flex items-center justify-center">
+  <button 
+  onclick="javascript:window.open('https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1&CARD=1&SHORT_FORM=1&CURRENCY=CNY&DCURRENCY=CNY&DESIGN_TYPE=2&ARN=1&SRC=WIDGET-NEW&LANG=en&source=pdf.abbyy.com__shopping&ORDERSTYLE=nLWsm5WpjLg=', '_blank');
+    window.open('https://pdf.abbyy.com/finereader-pdf/trial/', '_blank');void(0);"
+  class="flex flex-row font-bold rounded-lg text-lg w-48 h-16 bg-[#FF8014] text-[#ffffff] items-center justify-center p-2">
+    <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" color="#ffffff" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M4 16.9865V7.01353C4 6.71792 4.21531 6.46636 4.50737 6.42072L19.3074 4.10822C19.6713 4.05137 20 4.33273 20 4.70103V19.299C20 19.6673 19.6713 19.9486 19.3074 19.8918L4.50737 17.5793C4.21531 17.5336 4 17.2821 4 16.9865Z" stroke="#f8f7f7" stroke-width="1.5"></path><path d="M4 12H20" stroke="#f8f7f7" stroke-width="1.5"></path><path d="M10.5 5.5V18.5" stroke="#f8f7f7" stroke-width="1.5"></path></svg>
+    <span class="font-medium mx-auto">Free Download</span>  
+  </button>
+</div>
 
-### 1.2 FineReader PDF Corporate for Windows
+<div class="mx-auto flex items-center justify-center">
+  <div class="m-8 grid grid-cols-1 gap-6 xl:grid-cols-3">
+    <div class="flex w-full flex-col rounded-2xl bg-[#ffffff] text-[#374151] shadow-xl xl:w-96">
+      <div class="flex h-full flex-col p-8">
+        <div class="pb-6 text-3xl font-bold">1 Month Subscription</div>
+        <div class="pb-12 text-lg">
+           1 Standalone license 
+          <div class="text-xs">For 1 month free upgrades.</div>
+        </div>
+        <div class="flex flex-col gap-3 text-base">
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div class="font-bold">Edit, protect, and collaborate on PDFs</div>
+              </div>
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Create and convert PDFs</div>
+              </div>
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Digitize paper documents and scans with OCR</div>
+              </div>        
+        </div>
+        <div class="flex flex-grow"></div>
+        <div class="flex pt-10">
+          <a href="https://secure.2checkout.com/order/checkout.php?PRODS=4601987&QTY=1&AFFILIATE=108875&CART=1&CARD=2&SHORT_FORM=1&DESIGN_TYPE=2" class="w-full transform cursor-pointer rounded-lg bg-[#7e22ce] p-3 text-center text-xl font-bold !text-[#ffffff] !no-underline transition-transform hover:bg-purple-800 active:scale-95"> 
+            <em></em>
+            $16.95 
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="flex w-full flex-col rounded-2xl bg-[#ffffff] text-[#374151] shadow-xl xl:w-96">
+      <div class="flex h-full flex-col p-8">
+        <div class="pb-6 text-3xl font-bold">1 Year Subscription</div>
+        <div class="pb-12 text-lg">
+           1 Standalone license 
+          <div class="text-xs">For 1 Year free upgrades.</div>
+        </div>
+        <div class="flex flex-col gap-3 text-base">
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div class="font-bold">Edit, protect, and collaborate on PDFs</div>
+              </div>
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Create and convert PDFs</div>
+              </div>
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Digitize paper documents and scans with OCR</div>
+              </div>        
+        </div>
+        <div class="flex flex-grow"></div>
+        <div class="flex pt-10">
+          <a href="https://secure.2checkout.com/order/checkout.php?PRODS=4692500&QTY=1&AFFILIATE=108875&CART=1&CARD=2&SHORT_FORM=1&DESIGN_TYPE=2&COUPON=TLO-DVC-LT20" class="w-full transform cursor-pointer rounded-lg bg-[#7e22ce] p-3 text-center text-xl font-bold !text-[#ffffff] !no-underline transition-transform hover:bg-purple-800 active:scale-95">
+            <em class="text-base line-through !text-[#c5c5c5]">$189.95</em>
+            $99.95
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="flex w-full flex-col rounded-2xl bg-[#ffffff] text-[#374151] shadow-xl xl:w-96">
+      <div class="flex h-full flex-col p-8">
+        <div class="pb-6 text-3xl font-bold">3 Year Subscription</div>
+        <div class="pb-12 text-lg">
+           1 Standalone license 
+          <div class="text-xs">For 3 Year free upgrades.</div>
+        </div>
+        <div class="flex flex-col gap-3 text-base">
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div class="font-bold">Edit, protect, and collaborate on PDFs</div>
+              </div>
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Create and convert PDFs</div>
+              </div>
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Digitize paper documents and scans with OCR</div>
+              </div>        
+        </div>
+        <div class="flex flex-grow"></div>
+        <div class="flex pt-10">
+          <a href="https://secure.2checkout.com/order/checkout.php?PRODS=4692501&QTY=1&AFFILIATE=108875&CART=1&CARD=2&SHORT_FORM=1&DESIGN_TYPE=2&COUPON=TLO-DVC-LT70" class="w-full transform cursor-pointer rounded-lg bg-[#7e22ce] p-3 text-center text-xl font-bold !text-[#ffffff] !no-underline transition-transform hover:bg-purple-800 active:scale-95">
+            <em class="text-base line-through !text-[#c5c5c5]">$699.95</em>
+            $292.95
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+## 2. FineReader PDF Corporate for Windows
 
 Versatile productivity toolset for working with PDFs and document digitization. Includes document comparison and automated conversion of up to 5.000 pages per month.
 
-- [monthly subscription](https://checkout.abbyy.com/order/checkout.php?PRODS=39254861&QTY=1&AFFILIATE=108875&CART=1&CARD=1&SHORT_FORM=1&CURRENCY=CNY&DCURRENCY=CNY&DESIGN_TYPE=2&ARN=1&SRC=WIDGET-NEW&LANG=en&source=pdf.abbyy.com__shopping&ORDERSTYLE=nLWsm5WpjLg=)
-- [yearly subscription](https://checkout.abbyy.com/order/checkout.php?PRODS=39254929&QTY=1&AFFILIATE=108875&CART=1&CARD=1&SHORT_FORM=1&CURRENCY=CNY&DCURRENCY=CNY&DESIGN_TYPE=2&ARN=1&SRC=WIDGET-NEW&LANG=en&source=pdf.abbyy.com__shopping&ORDERSTYLE=nLWsm5WpjLg=)
-- [3-year subscription](https://checkout.abbyy.com/order/checkout.php?PRODS=43370135&QTY=1&AFFILIATE=108875&CART=1&CARD=1&SHORT_FORM=1&CURRENCY=CNY&DCURRENCY=CNY&DESIGN_TYPE=2&ARN=1&SRC=WIDGET-NEW&LANG=en&source=pdf.abbyy.com__shopping&ORDERSTYLE=nLWsm5WpjLg=)
+<div class="mx-auto flex items-center justify-center">
+  <button 
+  onclick="javascript:window.open('https://checkout.abbyy.com/order/checkout.php?PRODS=39254861&QTY=1&AFFILIATE=108875&CART=1&CARD=1&SHORT_FORM=1&CURRENCY=CNY&DCURRENCY=CNY&DESIGN_TYPE=2&ARN=1&SRC=WIDGET-NEW&LANG=en&source=pdf.abbyy.com__shopping&ORDERSTYLE=nLWsm5WpjLg=', '_blank');
+    window.open('https://pdf.abbyy.com/finereader-pdf/trial/', '_blank');void(0);"
+  class="flex flex-row font-bold rounded-lg text-lg w-48 h-16 bg-[#FF8014] text-[#ffffff] items-center justify-center p-2">
+    <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" color="#ffffff" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M4 16.9865V7.01353C4 6.71792 4.21531 6.46636 4.50737 6.42072L19.3074 4.10822C19.6713 4.05137 20 4.33273 20 4.70103V19.299C20 19.6673 19.6713 19.9486 19.3074 19.8918L4.50737 17.5793C4.21531 17.5336 4 17.2821 4 16.9865Z" stroke="#f8f7f7" stroke-width="1.5"></path><path d="M4 12H20" stroke="#f8f7f7" stroke-width="1.5"></path><path d="M10.5 5.5V18.5" stroke="#f8f7f7" stroke-width="1.5"></path></svg>
+    <span class="font-medium mx-auto">Free Download</span>  
+  </button>
+</div>
 
-### 1.3 FineReader PDF for Mac<sup>®</sup>
+<div class="mx-auto flex items-center justify-center">
+  <div class="m-8 grid grid-cols-1 gap-6 xl:grid-cols-3">
+    <div class="flex w-full flex-col rounded-2xl bg-[#ffffff] text-[#374151] shadow-xl xl:w-96">
+      <div class="flex h-full flex-col p-8">
+        <div class="pb-6 text-3xl font-bold">1 Month Subscription</div>
+        <div class="pb-12 text-lg">
+           1 Standalone license 
+          <div class="text-xs">For 1 month free upgrades.</div>
+        </div>
+        <div class="flex flex-col gap-3 text-base">
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div class="font-bold">Edit, protect, and collaborate on PDFs</div>
+              </div>
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Create and convert PDFs</div>
+              </div>
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Digitize paper documents and scans with OCR</div>
+              </div>  
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Optimize digitization and conversion routines 5,000 pages/month*, 2 cores</div>
+              </div> 
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Compare documents in different formats</div>
+              </div>                
+        </div>
+        <div class="flex flex-grow"></div>
+        <div class="flex pt-10">
+          <a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254861&QTY=1&AFFILIATE=108875&CART=1&CARD=1&SHORT_FORM=1&CURRENCY=CNY&DCURRENCY=CNY&DESIGN_TYPE=2&ARN=1&SRC=WIDGET-NEW&LANG=en&source=pdf.abbyy.com__shopping&ORDERSTYLE=nLWsm5WpjLg=" class="w-full transform cursor-pointer rounded-lg bg-[#7e22ce] p-3 text-center text-xl font-bold !text-[#ffffff] !no-underline transition-transform hover:bg-purple-800 active:scale-95"> 
+            <em></em>
+            $22.95 
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="flex w-full flex-col rounded-2xl bg-[#ffffff] text-[#374151] shadow-xl xl:w-96">
+      <div class="flex h-full flex-col p-8">
+        <div class="pb-6 text-3xl font-bold">1 Year Subscription</div>
+        <div class="pb-12 text-lg">
+           1 Standalone license 
+          <div class="text-xs">For 1 Year free upgrades.</div>
+        </div>
+        <div class="flex flex-col gap-3 text-base">
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div class="font-bold">Edit, protect, and collaborate on PDFs</div>
+              </div>
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Create and convert PDFs</div>
+              </div>
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Digitize paper documents and scans with OCR</div>
+              </div>
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Optimize digitization and conversion routines 5,000 pages/month*, 2 cores</div>
+              </div> 
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Compare documents in different formats</div>
+              </div>                        
+        </div>
+        <div class="flex flex-grow"></div>
+        <div class="flex pt-10">
+          <a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254929&QTY=1&AFFILIATE=108875&CART=1&CARD=1&SHORT_FORM=1&CURRENCY=CNY&DCURRENCY=CNY&DESIGN_TYPE=2&ARN=1&SRC=WIDGET-NEW&LANG=en&source=pdf.abbyy.com__shopping&ORDERSTYLE=nLWsm5WpjLg=" class="w-full transform cursor-pointer rounded-lg bg-[#7e22ce] p-3 text-center text-xl font-bold !text-[#ffffff] !no-underline transition-transform hover:bg-purple-800 active:scale-95">
+            <em class="text-base line-through !text-[#c5c5c5]">$289.95</em>
+            $159.95
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="flex w-full flex-col rounded-2xl bg-[#ffffff] text-[#374151] shadow-xl xl:w-96">
+      <div class="flex h-full flex-col p-8">
+        <div class="pb-6 text-3xl font-bold">3 Year Subscription</div>
+        <div class="pb-12 text-lg">
+           1 Standalone license 
+          <div class="text-xs">For 3 Year free upgrades.</div>
+        </div>
+        <div class="flex flex-col gap-3 text-base">
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div class="font-bold">Edit, protect, and collaborate on PDFs</div>
+              </div>
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Create and convert PDFs</div>
+              </div>
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Digitize paper documents and scans with OCR</div>
+              </div>  
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Optimize digitization and conversion routines 5,000 pages/month*, 2 cores</div>
+              </div> 
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Compare documents in different formats</div>
+              </div>                      
+        </div>
+        <div class="flex flex-grow"></div>
+        <div class="flex pt-10">
+          <a href="https://checkout.abbyy.com/order/checkout.php?PRODS=43370135&QTY=1&AFFILIATE=108875&CART=1&CARD=1&SHORT_FORM=1&CURRENCY=CNY&DCURRENCY=CNY&DESIGN_TYPE=2&ARN=1&SRC=WIDGET-NEW&LANG=en&source=pdf.abbyy.com__shopping&ORDERSTYLE=nLWsm5WpjLg=" class="w-full transform cursor-pointer rounded-lg bg-[#7e22ce] p-3 text-center text-xl font-bold !text-[#ffffff] !no-underline transition-transform hover:bg-purple-800 active:scale-95">
+            <em class="text-base line-through !text-[#c5c5c5]">$799.95</em>
+            $429.95
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+## 3. FineReader PDF for Mac<sup>®</sup>
 
 A high-quality, modern OCR application for macOS® to convert PDFs, paper documents, and their images into searchable and editable documents.
 
-- [yearly subscription](https://checkout.abbyy.com/order/checkout.php?PRODS=43371335&QTY=1&AFFILIATE=108875&CART=1&CARD=1&SHORT_FORM=1&CURRENCY=CNY&DCURRENCY=CNY&DESIGN_TYPE=2&ARN=1&SRC=WIDGET-NEW&LANG=en&source=pdf.abbyy.com__shopping&ORDERSTYLE=nLWsm5WpjLg=)
-- [3-year subscription](https://checkout.abbyy.com/order/checkout.php?PRODS=43371760&QTY=1&AFFILIATE=108875&CART=1&CARD=1&SHORT_FORM=1&CURRENCY=CNY&DCURRENCY=CNY&DESIGN_TYPE=2&SRC=WIDGET-NEW&LANG=en&source=pdf.abbyy.com__shopping&ORDERSTYLE=nLWsm5WpjLg=)
+<div class="mx-auto flex items-center justify-center">
+  <button 
+  onclick="javascript:window.open('https://checkout.abbyy.com/order/checkout.php?PRODS=43371335&QTY=1&AFFILIATE=108875&CART=1&CARD=1&SHORT_FORM=1&CURRENCY=CNY&DCURRENCY=CNY&DESIGN_TYPE=2&ARN=1&SRC=WIDGET-NEW&LANG=en&source=pdf.abbyy.com__shopping&ORDERSTYLE=nLWsm5WpjLg=', '_blank');
+    window.open('https://pdf.abbyy.com/finereader-pdf-for-mac/trial/', '_blank');void(0);"
+  class="flex flex-row font-bold rounded-lg text-lg w-48 h-16 bg-[#FF8014] text-[#ffffff] items-center justify-center p-2">
+    <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" color="#ffffff" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M16 2C16.3632 4.17921 14.0879 5.83084 12.8158 6.57142C12.4406 6.78988 12.0172 6.5117 12.0819 6.08234C12.2993 4.63878 13.0941 2.00008 16 2Z" stroke="#f8f7f7" stroke-width="1.5"></path><path d="M9 6.5C9.89676 6.5 10.6905 6.69941 11.2945 6.92013C12.0563 7.19855 12.9437 7.19854 13.7055 6.92012C14.3094 6.6994 15.1032 6.5 15.9999 6.5C17.0852 6.5 18.4649 7.08889 19.4999 8.26666C16 11 17 15.5 20.269 16.6916C19.2253 19.5592 17.2413 21.5 15.4999 21.5C13.9999 21.5 14 20.8 12.5 20.8C11 20.8 11 21.5 9.5 21.5C7 21.5 4 17.5 4 12.5C4 8.5 7 6.5 9 6.5Z" stroke="#f8f7f7" stroke-width="1.5"></path></svg>    
+    <span class="font-medium mx-auto">Free Download</span> 
+  </button>
+</div>
 
-## 2. Screens
+<div class="mx-auto flex items-center justify-center">
+  <div class="m-8 grid grid-cols-1 gap-6 xl:grid-cols-2">
+    <div class="flex w-full flex-col rounded-2xl bg-[#ffffff] text-[#374151] shadow-xl xl:w-96">
+      <div class="flex h-full flex-col p-8">
+        <div class="pb-6 text-3xl font-bold">1 Year Subscription</div>
+        <div class="pb-12 text-lg">
+           1 Standalone license 
+          <div class="text-xs">For 1 Year free upgrades.</div>
+        </div>
+        <div class="flex flex-col gap-3 text-base">
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div class="font-bold">Edit, protect, and collaborate on PDFs</div>
+              </div>
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Create and convert PDFs</div>
+              </div>
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Digitize paper documents and scans with OCR</div>
+              </div>        
+        </div>
+        <div class="flex flex-grow"></div>
+        <div class="flex pt-10">
+          <a href="https://checkout.abbyy.com/order/checkout.php?PRODS=43371335&QTY=1&AFFILIATE=108875&CART=1&CARD=1&SHORT_FORM=1&CURRENCY=CNY&DCURRENCY=CNY&DESIGN_TYPE=2&ARN=1&SRC=WIDGET-NEW&LANG=en&source=pdf.abbyy.com__shopping&ORDERSTYLE=nLWsm5WpjLg=" class="w-full transform cursor-pointer rounded-lg bg-[#7e22ce] p-3 text-center text-xl font-bold !text-[#ffffff] !no-underline transition-transform hover:bg-purple-800 active:scale-95"> 
+            <em class="text-base line-through !text-[#c5c5c5]">$89.95</em>
+            $69.95 
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="flex w-full flex-col rounded-2xl bg-[#ffffff] text-[#374151] shadow-xl xl:w-96">
+      <div class="flex h-full flex-col p-8">
+        <div class="pb-6 text-3xl font-bold">3 Year Subscription</div>
+        <div class="pb-12 text-lg">
+           1 Standalone license 
+          <div class="text-xs">For 3 Years free upgrades.</div>
+        </div>
+        <div class="flex flex-col gap-3 text-base">
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div class="font-bold">Edit, protect, and collaborate on PDFs</div>
+              </div>
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Create and convert PDFs</div>
+              </div>
+              <div class="flex flex-row gap-3">
+                  <div class="text-green-600">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check">
+                          <path d="M20 6 9 17l-5-5"></path>
+                      </svg>
+                  </div>
+                  <div>Digitize paper documents and scans with OCR</div>
+              </div>        
+        </div>
+        <div class="flex flex-grow"></div>
+        <div class="flex pt-10">
+          <a href="https://checkout.abbyy.com/order/checkout.php?PRODS=43371760&QTY=1&AFFILIATE=108875&CART=1&CARD=1&SHORT_FORM=1&CURRENCY=CNY&DCURRENCY=CNY&DESIGN_TYPE=2&SRC=WIDGET-NEW&LANG=en&source=pdf.abbyy.com__shopping&ORDERSTYLE=nLWsm5WpjLg=" class="w-full transform cursor-pointer rounded-lg bg-[#7e22ce] p-3 text-center text-xl font-bold !text-[#ffffff] !no-underline transition-transform hover:bg-purple-800 active:scale-95">
+            <em class="text-base line-through !text-[#c5c5c5]">$289.95</em>
+            $199.95
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+## 4. Screens
 
 ![](https://pdf.abbyy.com/media/3931/01_finereader_16_main_window_en.png)
 
@@ -54,7 +471,7 @@ A high-quality, modern OCR application for macOS® to convert PDFs, paper docume
 
 ![](https://pdf.abbyy.com/media/3934/04_finereader_16_convert_pdf_to_word_en.png)
 
-## 3. Key Features
+## 5. Key Features
 
 FineReader PDF helps you get the job done
 
@@ -69,7 +486,7 @@ FineReader PDF helps you get the job done
 
 [![ABBYY FineReader PDF: the smarter PDF solution](https://pdf.abbyy.com/media/3931/01_finereader_16_main_window_en.png?height=316&width=496)](https://pdf.abbyy.com/media/3931/01_finereader_16_main_window_en.png "Create, edit, and organize PDFs")
 
-## 4. Products comparison
+## 6. Products comparison
 
 <table border="0" class="first-left-table text-center table-white gray-h-table border-gray">
 <tbody>
