@@ -19,7 +19,6 @@ A huge library of effects and background music to lift your videos from wow to w
 - Background music to fit any mood
 
 
-
 ## Buy Now
 
 - **Windows 11, 10, 8, 7**

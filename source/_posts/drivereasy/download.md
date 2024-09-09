@@ -28,6 +28,16 @@ We’re proud to say more than 3 million people around the world use Driver Easy
 ![logo](/images/apps/drivereasy/pages/package_1024x1024.png)
 
  (To automatically update all your drivers with 1 click, you’ll need the Pro version of Driver Easy. Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
+ 
+ <div class="mx-auto flex items-center justify-center space-x-4">
+  <button 
+  onclick="javascript:window.open('https://www.drivereasy.com/goto/affdownload.php?affid=108875', '_blank');void(0);"
+  class="flex flex-row font-bold rounded-lg text-lg w-48 h-16 bg-[#FF8014] text-[#ffffff] items-center justify-center p-2">
+    <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" color="#ffffff" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M4 16.9865V7.01353C4 6.71792 4.21531 6.46636 4.50737 6.42072L19.3074 4.10822C19.6713 4.05137 20 4.33273 20 4.70103V19.299C20 19.6673 19.6713 19.9486 19.3074 19.8918L4.50737 17.5793C4.21531 17.5336 4 17.2821 4 16.9865Z" stroke="#f8f7f7" stroke-width="1.5"></path><path d="M4 12H20" stroke="#f8f7f7" stroke-width="1.5"></path><path d="M10.5 5.5V18.5" stroke="#f8f7f7" stroke-width="1.5"></path></svg>
+    <span class="font-medium mx-auto">Free Download</span>  
+  </button>
+</div>
+ 
 
 - [Buy Pro Version](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
 - [$29.95- Single Computer License / 1 Year](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&CART=1)
