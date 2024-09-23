@@ -14,14 +14,17 @@ Digiarty (winxdvd.com) is a world-leading provider of DVD video software across 
 
 <!--__INIT__BEGIN__TAG__PRODUCTS__LIST__-->
 
+
 ## Download All Products
 
 - 1. [WinX DVD Copy Pro](https://tools.techidaily.com/winxdvd/dvd-copy-pro/)
 - 2. [WinX DVD Ripper Platinum](https://tools.techidaily.com/winxdvd/dvd-ripper-platinum/)
 - 3. [WinX MediaTrans](https://tools.techidaily.com/winxdvd/mediatrans/)
-- 4. [Winxvideo AI](https://tools.techidaily.com/winxdvd/winxvideo-ai/)<!--__INIT__END__TAG__PRODUCTS__LIST__-->
+- 4. [Winxvideo AI](https://tools.techidaily.com/winxdvd/winxvideo-ai/)
+<!--__INIT__END__TAG__PRODUCTS__LIST__-->
 
 <!--__INIT__BEGIN__TAG__FEED_PRODUCTS__LIST__-->
+
 ## Choose your license
 
 <div class="home-content-container">
@@ -3519,7 +3522,8 @@ Digiarty (winxdvd.com) is a world-leading provider of DVD video software across 
   </ul>
 </div>
 
-<hr><!--__INIT__END__TAG__FEED_PRODUCTS__LIST__-->
+<hr>
+<!--__INIT__END__TAG__FEED_PRODUCTS__LIST__-->
 
 <hr>
 

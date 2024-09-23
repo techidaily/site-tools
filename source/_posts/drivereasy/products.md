@@ -16,11 +16,14 @@ Driver Easy is a free solution to all driver related problems for Windows 11, 10
 
 <!--__INIT__BEGIN__TAG__PRODUCTS__LIST__-->
 
+
 ## Download All Products
 
-- 1. [Driver Easy - Update your drivers in Windows 11,10 and 7.](https://tools.techidaily.com/drivereasy/download/)<!--__INIT__END__TAG__PRODUCTS__LIST__-->
+- 1. [Driver Easy - Update your drivers in Windows 11,10 and 7.](https://tools.techidaily.com/drivereasy/download/)
+<!--__INIT__END__TAG__PRODUCTS__LIST__-->
 
 <!--__INIT__BEGIN__TAG__FEED_PRODUCTS__LIST__-->
+
 ## Choose your license
 
 <div class="home-content-container">
@@ -224,7 +227,8 @@ Driver Easy is a free solution to all driver related problems for Windows 11, 10
   </ul>
 </div>
 
-<hr><!--__INIT__END__TAG__FEED_PRODUCTS__LIST__-->
+<hr>
+<!--__INIT__END__TAG__FEED_PRODUCTS__LIST__-->
 
 <hr>
 

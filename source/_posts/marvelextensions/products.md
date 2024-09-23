@@ -16,6 +16,7 @@ Marvelextensions
 <!--__INIT__END__TAG__PRODUCTS__LIST__-->
 
 <!--__INIT__BEGIN__TAG__FEED_PRODUCTS__LIST__-->
+
 ## Choose your license
 
 <div class="home-content-container">
@@ -460,7 +461,8 @@ Marvelextensions
   </ul>
 </div>
 
-<hr><!--__INIT__END__TAG__FEED_PRODUCTS__LIST__-->
+<hr>
+<!--__INIT__END__TAG__FEED_PRODUCTS__LIST__-->
 
 <hr>
 
