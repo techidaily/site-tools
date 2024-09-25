@@ -81,13 +81,5 @@ Apart from playing UHD movie video/music/radio, downloading online contents, Air
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tools.techidaily.com/themefuse/products/"><u>Themefuse's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/timeclock365/products/"><u>Timeclock365's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/tintguide/products/"><u>Tintguide's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/tomshardware/products/"><u>Tomshardware's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/trackabi/products/"><u>Trackabi's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/tubedigger/products/"><u>Tubedigger's Products</u></a></li>
-</ul></div>
+
 

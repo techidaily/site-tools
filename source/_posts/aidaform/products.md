@@ -56,10 +56,5 @@ Aidaform
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tools.techidaily.com/stellarinfo/repaire-for-excel/"><u>Stellar Repair for Excel</u></a></li>
-<li><a href="https://tools.techidaily.com/stellarinfo/repair-for-pdf/"><u>Stellar Repair for PDF</u></a></li>
-<li><a href="https://tools.techidaily.com/stellarinfo/file-repair-toolkit/"><u>Toolkit for File Repair</u></a></li>
-</ul></div>
+
 

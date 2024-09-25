@@ -123,10 +123,5 @@ Click the Start Transfer button to start transferring WhatsApp messages and atta
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tools.techidaily.com/niftystats/products/"><u>Niftystats's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/okdosoft/products/"><u>Okdosoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/opencloner/products/"><u>Opencloner's Products</u></a></li>
-</ul></div>
+
 

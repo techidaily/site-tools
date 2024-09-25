@@ -96,29 +96,7 @@ Calculate cells in each column.
 - 30-day money-back guarantee
 - Free support
 - Volume discounts: the more you buy, the less you pay 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tools.techidaily.com/epubor/epub-to-pdf-converter/"><u>EPUB to PDF Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/drm-removal-tools/"><u>Epubor All DRM Removal</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/audible-converter/"><u>Epubor Audible Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/chirp-converter/"><u>Epubor Chirp Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/dzsave/"><u>Epubor DzSave</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/ebook-converter/"><u>Epubor eBook Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/ebook-manager/"><u>Epubor eBook Manager</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/ecore/"><u>Epubor eCore</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/everand-downloader/"><u>Epubor Everand Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/kclippings/"><u>Epubor Kclippings</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/kindle-converter/"><u>Epubor Kindle Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/ebook-editor/"><u>Epubor WordMate</u></a></li>
-<li><a href="https://tools.techidaily.com/koingosw/products/"><u>Koingosw's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/macdvdripperpro/products/"><u>Mac Dvd Ripper Pro </u></a></li>
-<li><a href="https://tools.techidaily.com/winxdvd/dvd-copy-pro/"><u>WinX DVD Copy Pro</u></a></li>
-<li><a href="https://tools.techidaily.com/winxdvd/dvd-ripper-platinum/"><u>WinX DVD Ripper Platinum</u></a></li>
-<li><a href="https://tools.techidaily.com/winxdvd/mediatrans/"><u>WinX MediaTrans</u></a></li>
-<li><a href="https://tools.techidaily.com/winxdvd/products/"><u>Winxdvd's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/winxdvd/winxvideo-ai/"><u>Winxvideo AI</u></a></li>
-<li><a href="https://tools.techidaily.com/wps/products/"><u>Wps's Products</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

@@ -46,10 +46,5 @@ Stellar Repair for Excel is the best choice for repairing corrupt or damaged Exc
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://tools.techidaily.com/aostsoft/products/"><u>Aostsoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/arqui3d/products/"><u>Arqui3d's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/atlassian/products/"><u>Atlassian's Products</u></a></li>
-</ul></div>
+
 
