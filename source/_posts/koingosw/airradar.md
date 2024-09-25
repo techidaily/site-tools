@@ -1,6 +1,6 @@
 ---
 title: KOINGO AirRadar for Mac
-date: 2024-08-27T09:47:35.452Z
+date: 2024-09-23T21:23:58.291Z
 tags: 
   - koingosw
 categories: 
@@ -98,10 +98,22 @@ From Beacon Intervals to Channel Widths.
 
 Choose which WiFi card to scan and join with.
 
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tools.techidaily.com/videosoftdev/products/"><u>Videosoftdev's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/virtualsetworks/products/"><u>Virtualsetworks's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/vistastylebuilder/products/"><u>Vistastylebuilder's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/watchdog/products/"><u>Watchdog's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/welees/products/"><u>Welees's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/winpatrol/products/"><u>Winpatrol's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/wintask/products/"><u>Wintask's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/wintools/products/"><u>Wintools's Products</u></a></li>
+</ul></div>
+

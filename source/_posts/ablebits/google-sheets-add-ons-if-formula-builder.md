@@ -1,6 +1,6 @@
 ---
 title: IF Formula Builder for Google Sheets
-date: 2024-08-28T12:15:41.850Z
+date: 2024-09-19T18:09:45.069Z
 tags: 
   - ablebits
 categories: 
@@ -43,7 +43,6 @@ IF Formula Builder guides you all the way through creating Google Sheets IF form
 
 ### How to swiftly build Google Sheets IF statements
 
-
  ![Enter records and choose the required comparison operator for your logical expression from the list](https://cdn.ablebits.com/-img22lp-google-sheets/if-formula-builder/google-sheets-if-date.png)
 
 Enter records and choose the required comparison operator for your logical expression from the list
@@ -72,7 +71,6 @@ Create multiple IF statements for Google Sheets by copying one ready-made formul
 
 Split existing IF formulas in Google Sheets to pieces for easier editing
 
-
 ## License benefits
 
 ### Our customers get
@@ -82,10 +80,19 @@ Split existing IF formulas in Google Sheets to pieces for easier editing
 - Free support
 - Volume discounts: the more you buy, the less you pay 
 
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tools.techidaily.com/awr/products/"><u>Awr's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/axisitp/products/"><u>Axisitp's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/backuptrans/products/"><u>Backuptrans's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/bandicam/products/"><u>Bandicam's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/basic2plus/products/"><u>Basic2plus's Products</u></a></li>
+</ul></div>
+

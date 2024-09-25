@@ -1,6 +1,6 @@
 ---
 title: Combine sheets in Google Sheets
-date: 2024-08-28T12:15:42.066Z
+date: 2024-09-21T17:34:37.295Z
 tags: 
   - ablebits
 categories: 
@@ -41,7 +41,6 @@ This add-on pulls data from multiple Google spreadsheets into one without copy-p
 -   Preserve the formatting of the tables Pull data from another Google sheet with its original formatting.
 
 ### How to combine data in Google Sheets
-
 
 <iframe loading="lazy" width="984" height="567" class="" src="https://www.youtube-nocookie.com/embed/hlzEvZDo-QE" allow="encrypted-media" allowfullscreen=""></iframe>
 
@@ -84,10 +83,19 @@ Combine data from multiple sheets based on common headers.
 - Free support
 - Volume discounts: the more you buy, the less you pay 
 
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tools.techidaily.com/mwsoft/products/"><u>Mwsoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/myusbonly/products/"><u>Myusbonly's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/namowebeditor/products/"><u>Namowebeditor's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/neowise/products/"><u>Neowise's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/nero/products/"><u>Nero's Products</u></a></li>
+</ul></div>
+

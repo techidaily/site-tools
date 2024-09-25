@@ -1,6 +1,6 @@
 ---
 title: Split Sheet for Google Sheets
-date: 2024-08-28T12:15:41.954Z
+date: 2024-09-18T22:05:28.762Z
 tags: 
   - ablebits
 categories: 
@@ -75,10 +75,18 @@ Split Google sheet by values in the selected column
 - Free support
 - Volume discounts: the more you buy, the less you pay 
 
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tools.techidaily.com/examlab/products/"><u>Examlab's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/extendthemes/products/"><u>Extendthemes's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/extensioncoder/products/"><u>Extensioncoder's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/flipbuilder/products/"><u>Flipbuilder's Products</u></a></li>
+</ul></div>
+

@@ -1,6 +1,6 @@
 ---
 title: Merge two or more sheets in Google Sheets
-date: 2024-08-28T12:15:41.862Z
+date: 2024-09-24T18:45:01.870Z
 tags: 
   - ablebits
 categories: 
@@ -45,7 +45,6 @@ Merge Sheets is a replacement for VLOOKUP and INDEX/MATCH functions. The add-on 
 
 ### How to merge Google sheets
 
-
 <iframe loading="lazy" width="984" height="567" class="" src="https://www.youtube-nocookie.com/embed/V4DXNgqEdLc" allow="encrypted-media" allowfullscreen=""></iframe>
 
  ![Select your main table.](https://cdn.ablebits.com/-img22lp-google-sheets/merge-sheets/select-main-sheet.png)
@@ -75,7 +74,6 @@ See the result message with a number of matches and updates.
  ![Merge Google sheets automatically using scenarios – saved reusable sets of settings.](https://cdn.ablebits.com/-img22lp-google-sheets/merge-sheets/merge-sheets-automatically.png)
 
 Merge Google sheets automatically using scenarios – saved reusable sets of settings.
-
 
 ## Ways to match and merge
 
@@ -118,10 +116,18 @@ Update only if cells from the lookup sheet contain data.
 - Free support
 - Volume discounts: the more you buy, the less you pay 
 
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tools.techidaily.com/bbbcmobilesmart/products/"><u>Bbbcmobilesmart's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/bestwebgraphic/products/"><u>Bestwebgraphic's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/betterfaster/products/"><u>Betterfaster's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/binteko/products/"><u>Binteko's Products</u></a></li>
+</ul></div>
+

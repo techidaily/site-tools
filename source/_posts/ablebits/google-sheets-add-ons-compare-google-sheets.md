@@ -49,7 +49,6 @@ The last will compare two columns in one Google sheet and spot dupes or uniques 
 
 ### How to compare Google sheets
 
-
 <iframe loading="lazy" width="984" height="567" class="" src="https://www.youtube-nocookie.com/embed/yKrc-2Zbx0g" allow="encrypted-media" allowfullscreen=""></iframe>
 
 <iframe loading="lazy" width="984" height="567" class="" src="https://www.youtube-nocookie.com/embed/qmyqc6ag4Vw" allow="encrypted-media" allowfullscreen=""></iframe>
@@ -103,10 +102,21 @@ Compare two columns within one Google sheet.
 - Free support
 - Volume discounts: the more you buy, the less you pay 
 
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tools.techidaily.com/newtecfxbot/products/"><u>Newtecfxbot's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/niftystats/products/"><u>Niftystats's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/okdosoft/products/"><u>Okdosoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/opencloner/products/"><u>Opencloner's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/orange-defender/products/"><u>Orange-defender's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/orpalis/products/"><u>Orpalis's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/otszone/products/"><u>Otszone's Products</u></a></li>
+</ul></div>
+

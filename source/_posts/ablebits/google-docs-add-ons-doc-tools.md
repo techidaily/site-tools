@@ -14,7 +14,6 @@ thumbnail: https://cdn.ablebits.com/-img22lp-google-docs/doc-tools/switch-addons
 
 Optimize your Google Docs workflow with 4 tools for daily tasks. Styles formats your document & its parts with your custom themes. Easy Mail Merge enables quick Gmail campaigns with personalized emails & attachments. Doc Tools will sort text, change case, convert numbers to words and back, and adjust text highlighting. Search & Navigate finds all links, bookmarks, images, tables, headings or specific text within your document.
 
-
 - Styles
 - Easy Mail Merge
 - 11 one-click tools
@@ -46,7 +45,6 @@ Optimize your Google Docs workflow with 4 tools for daily tasks. Styles formats 
 -   Search for any text within your doc And see its instances in every type of data on separate tabs.
 
 ### How to use Doc Tools for Google Docs
-
 
  ![Switch between 4 add-ons using the waffle button at the top.](https://cdn.ablebits.com/-img22lp-google-docs/doc-tools/switch-addons.png)
 
@@ -80,7 +78,6 @@ Style your document with one of 20 pre-supplied styles…
 
 Edit built-in & your custom styles or their individual elements whenever you need.
 
-
 ## License benefits
 
 ### Our customers get
@@ -90,10 +87,21 @@ Edit built-in & your custom styles or their individual elements whenever you nee
 - Free support
 - Volume discounts: the more you buy, the less you pay 
 
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tools.techidaily.com/kantokaraoke/products/"><u>Kantokaraoke's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/keenthemes/products/"><u>Keenthemes's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/kingmailer/products/"><u>Kingmailer's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/koolreport/products/"><u>Koolreport's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/krksoft/products/"><u>Krksoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/labrika/products/"><u>Labrika's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/libertystreet/products/"><u>Libertystreet's Products</u></a></li>
+</ul></div>
+

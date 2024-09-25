@@ -1,6 +1,6 @@
 ---
 title: Merge values in Google Sheets
-date: 2024-08-28T12:15:41.872Z
+date: 2024-09-19T18:26:27.328Z
 tags: 
   - ablebits
 categories: 
@@ -99,10 +99,20 @@ Merge all records from the selected range into one cell.
 - Free support
 - Volume discounts: the more you buy, the less you pay 
 
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tools.techidaily.com/bitdefender/products/"><u>Bitdefender's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/blumentals/products/"><u>Blumentals's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/calctopia/products/"><u>Calctopia's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/calendarbudget/products/"><u>Calendarbudget's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/centrico/products/"><u>Centrico's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/checkpoint/products/"><u>Checkpoint's Products</u></a></li>
+</ul></div>
+

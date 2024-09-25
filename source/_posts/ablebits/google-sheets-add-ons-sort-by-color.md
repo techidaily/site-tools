@@ -1,6 +1,6 @@
 ---
 title: Sort by Color for Google Sheets
-date: 2024-08-28T12:15:41.927Z
+date: 2024-09-24T18:30:29.196Z
 tags: 
   - ablebits
 categories: 
@@ -42,7 +42,6 @@ This add-on is part of Power Tools: 30+ tools to boost your Google Sheets
 
 ### How to sort cells by color in Google Sheets
 
-
  ![Sort entire rows by fill colors of the selected Google Sheets range.](https://cdn.ablebits.com/-img22lp-google-sheets/sort-by-color/sort-rows-fill-color.png)
 
 Sort entire rows by fill colors of the selected Google Sheets range.
@@ -76,10 +75,19 @@ Sort the range by colors of one Google Sheets column.
 - Free support
 - Volume discounts: the more you buy, the less you pay 
 
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tools.techidaily.com/drivermax/products/"><u>Drivermax's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/dupinout/products/"><u>Dupinout's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/dwgfastview/products/"><u>Dwgfastview's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/e-funnels/products/"><u>E-funnels's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/easetext/products/"><u>Easetext's Products</u></a></li>
+</ul></div>
+

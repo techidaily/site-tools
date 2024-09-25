@@ -1,6 +1,6 @@
 ---
 title: Dgtsoft's Products
-date: 2024-09-20T02:06:29.873Z
+date: 2024-09-22T21:44:20.831Z
 tags: 
   - dgtsoft
 categories: 
@@ -1992,5 +1992,12 @@ Dgtsoft
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-if-formula-builder/"><u>IF Formula Builder for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-merge-sheets/"><u>Merge two or more sheets in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-merge-values/"><u>Merge values in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-power-tools/"><u>Power Tools for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-google-sheets-manager/"><u>Sheets Manager for Google Sheets</u></a></li>
+</ul></div>
 

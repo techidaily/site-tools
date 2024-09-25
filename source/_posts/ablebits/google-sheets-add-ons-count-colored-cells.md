@@ -1,6 +1,6 @@
 ---
 title: Function by Color for Google Sheets
-date: 2024-08-28T12:15:42.108Z
+date: 2024-09-18T18:28:32.641Z
 tags: 
   - ablebits
 categories: 
@@ -42,7 +42,6 @@ The tool also recognizes existing formulas so you could quickly review and edit 
 -   Calculate colored cells in 13 different ways Count, sum, find the average, min or max number, etc. – all based on cell colors.
 
 ### How to count cells by color in Google Sheets
-
 
 <iframe loading="lazy" width="984" height="567" class="" src="https://www.youtube-nocookie.com/embed/VzQk67Sm57Y" allow="encrypted-media" allowfullscreen=""></iframe>
 
@@ -97,10 +96,23 @@ Calculate cells in each column.
 - Free support
 - Volume discounts: the more you buy, the less you pay 
 
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tools.techidaily.com/pdf-flip/products/"><u>Pdf-flip's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/pdfconverters/products/"><u>Pdfconverters's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/pearlmountainsoft/products/"><u>Pearlmountainsoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/perfectcorp/products/"><u>Perfectcorp's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/pixoeditor/products/"><u>Pixoeditor's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/powerfolder/products/"><u>Powerfolder's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/preferforex/products/"><u>Preferforex's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/premiumfxbot/products/"><u>Premiumfxbot's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/profitf/products/"><u>Profitf's Products</u></a></li>
+</ul></div>
+

@@ -1,6 +1,6 @@
 ---
 title: Advanced Find and Replace for Google Sheets
-date: 2024-08-28T12:15:41.809Z
+date: 2024-09-18T16:45:58.922Z
 tags: 
   - ablebits
 categories: 
@@ -41,7 +41,6 @@ Meet the easiest way of advanced search and replacement in Google Sheets. Scan y
 -   Delete rows with all found records Or remove only rows you select from the sheets.
 
 ### How to find and replace data in Google Sheets
-
 
  ![Search in all data types: values, links, formulas, errors, notes](https://cdn.ablebits.com/-img22lp-google-sheets/find-replace/look-in.png)
 
@@ -84,10 +83,18 @@ Export results to a new spreadsheet preserving text formatting
 - Free support
 - Volume discounts: the more you buy, the less you pay 
 
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tools.techidaily.com/antamedia/products/"><u>Antamedia's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/anthemion/products/"><u>Anthemion's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/antranks/products/"><u>Antranks's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/anycaseapp/products/"><u>Anycaseapp's Products</u></a></li>
+</ul></div>
+

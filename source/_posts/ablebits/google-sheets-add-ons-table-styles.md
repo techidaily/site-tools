@@ -1,6 +1,6 @@
 ---
 title: Table Styles for Google Sheets
-date: 2024-08-28T12:15:41.965Z
+date: 2024-09-18T17:02:58.142Z
 tags: 
   - ablebits
 categories: 
@@ -43,7 +43,6 @@ This add-on will help you visually organize data in your sheets. It comes with a
 
 ### How to style your table in Google Sheets
 
-
  ![Apply one of 50+ existing styles](https://cdn.ablebits.com/-img22lp-google-sheets/table-styles/apply-styles.png)
 
 Apply one of 50+ existing styles
@@ -85,10 +84,18 @@ Edit the templates or delete them from your styles whatsoever
 - Free support
 - Volume discounts: the more you buy, the less you pay 
 
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tools.techidaily.com/flyingcfx/products/"><u>Flyingcfx's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/forexrobotron/products/"><u>Forexrobotron's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/gearmage/products/"><u>Gearmage's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/glocksoft/products/"><u>Glocksoft's Products</u></a></li>
+</ul></div>
+

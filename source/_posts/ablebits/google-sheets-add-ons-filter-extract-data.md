@@ -1,6 +1,6 @@
 ---
 title: Filter and Extract Data for Google Sheets
-date: 2024-08-28T12:15:42.120Z
+date: 2024-09-19T17:41:08.821Z
 tags: 
   - ablebits
 categories: 
@@ -70,7 +70,6 @@ Insert the resulting table as a Google Sheets QUERY formula…
 
 ...or as values copied from your source table
 
-
 ## License benefits
 
 ### Our customers get
@@ -80,10 +79,21 @@ Insert the resulting table as a Google Sheets QUERY formula…
 - Free support
 - Volume discounts: the more you buy, the less you pay 
 
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tools.techidaily.com/programino/products/"><u>Programino's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/quickheal/products/"><u>Quickheal's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/revouninstaller/products/"><u>Revouninstaller's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/sbscchosting/products/"><u>Sbscchosting's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/securitysoftltd/products/"><u>Securitysoftltd's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/siem/products/"><u>Siem's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/signfiles/products/"><u>Signfiles's Products</u></a></li>
+</ul></div>
+

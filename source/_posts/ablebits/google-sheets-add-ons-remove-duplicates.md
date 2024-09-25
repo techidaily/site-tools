@@ -1,6 +1,6 @@
 ---
 title: Remove duplicates in Google Sheets
-date: 2024-08-28T12:15:41.905Z
+date: 2024-09-20T16:21:59.069Z
 tags: 
   - ablebits
 categories: 
@@ -50,7 +50,6 @@ Go through the settings in each tool manually, or automate the process by saving
 -   Delete duplicates in Google Sheets Decide to clear only repeated cells or delete duplicate rows entirely.
 
 ### How to delete duplicates in Google Sheets
-
 
 <iframe loading="lazy" width="984" height="567" class="" src="https://www.youtube-nocookie.com/embed/CHcu8jGpGsY" allow="encrypted-media" allowfullscreen=""></iframe>
 
@@ -111,10 +110,19 @@ Merge values and consolidate numbers from duplicate rows.
 - Free support
 - Volume discounts: the more you buy, the less you pay 
 
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tools.techidaily.com/devart/products/"><u>Devart's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/dgtsoft/products/"><u>Dgtsoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/digisigner/products/"><u>Digisigner's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/diskpart/products/"><u>Diskpart's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/driver-max/products/"><u>Driver-max's Products</u></a></li>
+</ul></div>
+

@@ -44,7 +44,6 @@ Power Tools is a set of 40+ smart features that you miss most in Google Sheets. 
 
 [Try it for free](https://workspace.google.com/marketplace/app/power_tools/1058867473888)
 
-
 ## Quick features for the most common tasks
 
 Spend less time on such daily operations as find and replace data; copy or delete sheets; count, sum or sort cells by color; change case; remove empty cells, rows or columns; unpivot tables; unmerge and flip cells; freeze panes. Each button on the toolbar will reduce the clicks on these repetitive tasks.
@@ -158,10 +157,20 @@ Save the options to scenarios to reuse them in the future quickly.
 - Free support
 - Volume discounts: the more you buy, the less you pay 
 
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tools.techidaily.com/cloud-press/products/"><u>Cloud-press's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/colibriwp/products/"><u>Colibriwp's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/confidential/products/"><u>Confidential's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/coolmuster/products/"><u>Coolmuster's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/coreui/products/"><u>Coreui's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/creative-tim/products/"><u>Creative-tim's Products</u></a></li>
+</ul></div>
+

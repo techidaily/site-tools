@@ -1,6 +1,6 @@
 ---
 title: Split names in Google Sheets
-date: 2024-08-28T12:15:41.934Z
+date: 2024-09-22T20:08:41.246Z
 tags: 
   - ablebits
 categories: 
@@ -36,7 +36,6 @@ The tool makes it easier to divide full names you have in one column into multip
 
 ### How to separate names in Google Sheets
 
-
 <iframe loading="lazy" width="984" height="567" class="" src="https://www.youtube-nocookie.com/embed/f2L9L5hwOF0" allow="encrypted-media" allowfullscreen=""></iframe>
 
  ![If you use Power Tools, you will find <i>Split Names</i> in the <i>Split</i> group.](https://cdn.ablebits.com/-img22lp-google-sheets/split-names/split-cells-group.png)
@@ -55,7 +54,6 @@ See how many names have been split in the resulting message.
 
 Split full names in Google Sheets into multiple columns.
 
-
 ## License benefits
 
 ### Our customers get
@@ -65,10 +63,23 @@ Split full names in Google Sheets into multiple columns.
 - Free support
 - Volume discounts: the more you buy, the less you pay 
 
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tools.techidaily.com/easyuefi/products/"><u>Easyuefi's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/edrawsoft/products/"><u>Edrawsoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/eltima/products/"><u>Eltima's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/elzon/products/"><u>Elzon's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/emeditor/products/"><u>Emeditor's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/encryptomatic/products/"><u>Encryptomatic's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/endtas/products/"><u>Endtas's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/erelive/products/"><u>Erelive's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/eskooly/products/"><u>Eskooly's Products</u></a></li>
+</ul></div>
+

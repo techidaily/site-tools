@@ -1,6 +1,6 @@
 ---
 title: Epubor eCore
-date: 2024-08-20T08:23:52.804Z
+date: 2024-09-18T19:34:23.061Z
 tags: 
   - epubor
 categories: 
@@ -11,7 +11,6 @@ thumbnail: https://www.epubor.com/images/remote/D4/1D/D41D8C_D41D8C_D41D8C_D41D8
 ---
 
 eCore is an eBook format conversion core developed by Epubor. Epubor has 100% intellectual property rights of this core. You can use it as eBook converter SDK.
-
 
 ### Download
 
@@ -69,10 +68,18 @@ $100 per 1000 users/year
 $1000 per 10000 users/year  
 $10000 per 10000+ users/year
 
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tools.techidaily.com/mt4copier/"><u>Local Trade Copier</u></a></li>
+<li><a href="https://tools.techidaily.com/revouninstaller/"><u>Revo Uninstaller</u></a></li>
+<li><a href="https://tools.techidaily.com/link-assistant-rank-tracker/"><u>SEO PowerSuite - Rank Tracker</u></a></li>
+<li><a href="https://tools.techidaily.com/stellar-photo-recovery/"><u>Stellar Photo Recovery</u></a></li>
+</ul></div>
+
