@@ -1,6 +1,6 @@
 ---
 title: Extendthemes's Products
-date: 2024-09-21T18:22:58.702Z
+date: 2024-09-23T23:25:01.202Z
 tags: 
   - extendthemes
 categories: 
@@ -379,11 +379,12 @@ Extendthemes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/epubor/epub-to-pdf-converter/"><u>EPUB to PDF Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/everand-downloader/"><u>Epubor Everand Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/kclippings/"><u>Epubor Kclippings</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/kindle-converter/"><u>Epubor Kindle Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/kobo-converter/"><u>Epubor Kobo Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/kortext-downloader/"><u>Epubor Kortext Downloader</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-find-replace/"><u>Advanced Find and Replace for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-consolidate-sheets/"><u>Consolidate sheets in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-filter-extract-data/"><u>Filter and Extract Data for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-count-colored-cells/"><u>Function by Color for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-if-formula-builder/"><u>IF Formula Builder for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-google-sheets-manager/"><u>Sheets Manager for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-find-manage-substrings/"><u>Substring Batch Toolkit for Google Sheets</u></a></li>
 </ul></div>
 

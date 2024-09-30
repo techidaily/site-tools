@@ -1,6 +1,6 @@
 ---
 title: Split names in Google Sheets
-date: 2024-09-22T20:08:41.246Z
+date: 2024-09-28T16:51:28.234Z
 tags: 
   - ablebits
 categories: 
@@ -72,14 +72,12 @@ Split full names in Google Sheets into multiple columns.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/easyuefi/products/"><u>Easyuefi's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/edrawsoft/products/"><u>Edrawsoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/eltima/products/"><u>Eltima's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/elzon/products/"><u>Elzon's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/emeditor/products/"><u>Emeditor's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/encryptomatic/products/"><u>Encryptomatic's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/endtas/products/"><u>Endtas's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/erelive/products/"><u>Erelive's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/eskooly/products/"><u>Eskooly's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/products/"><u>Epubor All Tools</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/kortext-downloader/"><u>Epubor Kortext Downloader</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/nook-converter/"><u>Epubor Nook Converter</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/nook-drm-removal/"><u>Epubor Nook DRM Removal</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/pdf-password-remover/"><u>Epubor PDF Password Remover</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/reader/"><u>Epubor Reader</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/pdf-splitter-merger/"><u>PDF Merger & PDF Splitter</u></a></li>
 </ul></div>
 

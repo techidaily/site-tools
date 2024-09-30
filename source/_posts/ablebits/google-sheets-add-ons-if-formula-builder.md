@@ -1,6 +1,6 @@
 ---
 title: IF Formula Builder for Google Sheets
-date: 2024-09-19T18:09:45.069Z
+date: 2024-09-27T17:11:25.118Z
 tags: 
   - ablebits
 categories: 
@@ -89,10 +89,9 @@ Split existing IF formulas in Google Sheets to pieces for easier editing
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/awr/products/"><u>Awr's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/axisitp/products/"><u>Axisitp's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/backuptrans/products/"><u>Backuptrans's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/bandicam/products/"><u>Bandicam's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/basic2plus/products/"><u>Basic2plus's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/ios-system-recovery/"><u>FoneLab iOS System Recovery</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/ios-transfer/"><u>FoneTrans – Intelligent iOS Data Transfer</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/iphone-cleaner/"><u>iPhone Cleaner</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/iphone-unlocker/"><u>iPhone Unlocker</u></a></li>
 </ul></div>
 

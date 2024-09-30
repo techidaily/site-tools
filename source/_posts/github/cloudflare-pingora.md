@@ -1,6 +1,6 @@
 ---
 title: Pingora
-date: 2024-08-11T10:32:56.897Z
+date: 2024-09-24T03:22:21.661Z
 tags: 
   - nginx
 categories: 
@@ -75,16 +75,21 @@ Pingora keeps a rolling MSRV (minimum supported Rust version) policy of 6 months
 
 Our current MSRV is 1.72.
 
-
-
 <ins class="adsbygoogle"
     style="display:block"
     data-ad-format="autorelaxed"
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tools.techidaily.com/abbyy/products/"><u>ABBYY FineReader PDF</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/products/"><u>Aiseesoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/copernic/products/"><u>Copernic's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/macxdvd/products/"><u>Digiarty Software(MacXDVD)</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/transfer/"><u>Epubor Kindle Transfer</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/telstory-converter/"><u>Epubor Telstory Converter</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/tidal-downloader/"><u>Epubor Tidal Downloader</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/ultimate/"><u>Epubor Ultimate</u></a></li>
+</ul></div>
 

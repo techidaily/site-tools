@@ -111,12 +111,14 @@ Compare two columns within one Google sheet.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/newtecfxbot/products/"><u>Newtecfxbot's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/niftystats/products/"><u>Niftystats's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/okdosoft/products/"><u>Okdosoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/opencloner/products/"><u>Opencloner's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/orange-defender/products/"><u>Orange-defender's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/orpalis/products/"><u>Orpalis's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/otszone/products/"><u>Otszone's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/excel-suite/"><u>Ablebits Ultimate Suite</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-combine-duplicate-rows/"><u>Combine duplicate rows in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-combine-sheets/"><u>Combine sheets in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-consolidate-sheets/"><u>Consolidate sheets in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-docs-add-ons-doc-tools/"><u>Doc Tools for Google Docs</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-docs-add-ons-easy-mail-merge/"><u>Easy Mail Merge for Google Docs</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-filter-extract-data/"><u>Filter and Extract Data for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-count-colored-cells/"><u>Function by Color for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/winxdvd/products/"><u>Winxdvd's Products</u></a></li>
 </ul></div>
 

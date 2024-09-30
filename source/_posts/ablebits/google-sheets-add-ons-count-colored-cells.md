@@ -1,6 +1,6 @@
 ---
 title: Function by Color for Google Sheets
-date: 2024-09-18T18:28:32.641Z
+date: 2024-09-27T23:45:25.552Z
 tags: 
   - ablebits
 categories: 
@@ -105,14 +105,11 @@ Calculate cells in each column.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/pdf-flip/products/"><u>Pdf-flip's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/pdfconverters/products/"><u>Pdfconverters's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/pearlmountainsoft/products/"><u>Pearlmountainsoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/perfectcorp/products/"><u>Perfectcorp's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/pixoeditor/products/"><u>Pixoeditor's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/powerfolder/products/"><u>Powerfolder's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/preferforex/products/"><u>Preferforex's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/premiumfxbot/products/"><u>Premiumfxbot's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/profitf/products/"><u>Profitf's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-random-generator/"><u>Random Generator for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-remove-duplicates/"><u>Remove duplicates in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-sort-by-color/"><u>Sort by Color for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-split-names/"><u>Split names in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-split-sheet/"><u>Split Sheet for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-table-styles/"><u>Table Styles for Google Sheets</u></a></li>
 </ul></div>
 

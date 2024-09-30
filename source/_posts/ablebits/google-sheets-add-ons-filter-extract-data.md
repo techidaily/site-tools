@@ -1,6 +1,6 @@
 ---
 title: Filter and Extract Data for Google Sheets
-date: 2024-09-19T17:41:08.821Z
+date: 2024-09-24T02:36:44.785Z
 tags: 
   - ablebits
 categories: 
@@ -88,12 +88,14 @@ Insert the resulting table as a Google Sheets QUERY formula…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/programino/products/"><u>Programino's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/quickheal/products/"><u>Quickheal's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/revouninstaller/products/"><u>Revouninstaller's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/sbscchosting/products/"><u>Sbscchosting's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/securitysoftltd/products/"><u>Securitysoftltd's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/siem/products/"><u>Siem's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/signfiles/products/"><u>Signfiles's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/3d-kstudio/products/"><u>3d-kstudio's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/abexsoft/products/"><u>Abexsoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/outlook-shared-email-templates/"><u>Ablebits Shared Email Templates for Outlook</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/products/"><u>Ablebits's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/absolute/products/"><u>Absolute's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/adblockultimate/products/"><u>Adblockultimate's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/advancedinstaller/products/"><u>Advancedinstaller's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/aidaform/products/"><u>Aidaform's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/ailtware/products/"><u>Ailtware's Products</u></a></li>
 </ul></div>
 

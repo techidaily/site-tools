@@ -1,6 +1,6 @@
 ---
 title: Merge values in Google Sheets
-date: 2024-09-19T18:26:27.328Z
+date: 2024-09-26T17:43:47.762Z
 tags: 
   - ablebits
 categories: 
@@ -108,11 +108,14 @@ Merge all records from the selected range into one cell.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/bitdefender/products/"><u>Bitdefender's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/blumentals/products/"><u>Blumentals's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/calctopia/products/"><u>Calctopia's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/calendarbudget/products/"><u>Calendarbudget's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/centrico/products/"><u>Centrico's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/checkpoint/products/"><u>Checkpoint's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/ai-photo-editor/"><u>AI Photo Editor</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/blu-ray-player/"><u>Aiseesoft Blu-ray Player</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/burnova/"><u>Aiseesoft Burnova DVD/Blu-ray Burnner</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/dvd-creator/"><u>Aiseesoft DVD Creator</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/erase-iphone/"><u>Aiseesoft Erase iPhone</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/edit-video/"><u>Aiseesoft Video Editor</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/video-repair/"><u>Aiseesoft Video Repair</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/audio-converter/"><u>Video Audio Converter</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/video-enhancer/"><u>Video Enhancer</u></a></li>
 </ul></div>
 

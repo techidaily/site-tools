@@ -1,6 +1,6 @@
 ---
 title: Atlassian's Products
-date: 2024-09-23T18:51:35.467Z
+date: 2024-09-22T21:00:24.722Z
 tags: 
   - atlassian
 categories: 
@@ -38,12 +38,13 @@ Atlassian
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/5kplayer/5k-player/"><u>5KPlayer</u></a></li>
-<li><a href="https://tools.techidaily.com/5kplayer/airplay/"><u>5KPlayer - AirPlay</u></a></li>
-<li><a href="https://tools.techidaily.com/5kplayer/dlna/"><u>5KPlayer - DLNA</u></a></li>
-<li><a href="https://tools.techidaily.com/5kplayer/video-music-player/"><u>5KPlayer - Play Video Music Free</u></a></li>
-<li><a href="https://tools.techidaily.com/5kplayer/products/"><u>5kplayer's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/5kplayer/iphone-manager/"><u>DearMob iPhone Manager</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/products/"><u>Wondershare's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-find-replace/"><u>Advanced Find and Replace for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-compare-google-sheets/"><u>Compare Sheets for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-consolidate-sheets/"><u>Consolidate sheets in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-filter-extract-data/"><u>Filter and Extract Data for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-count-colored-cells/"><u>Function by Color for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-if-formula-builder/"><u>IF Formula Builder for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-google-sheets-manager/"><u>Sheets Manager for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-find-manage-substrings/"><u>Substring Batch Toolkit for Google Sheets</u></a></li>
 </ul></div>
 
