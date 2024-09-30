@@ -20,15 +20,18 @@ For complex data loss situations like Server recovery, dead hard drives, ransomw
 
 <!--__INIT__BEGIN__TAG__PRODUCTS__LIST__-->
 
+
 ## Download All Products
 
 - 1. [iPhone Data Recovery Software](https://tools.techidaily.com/stellarinfo/data-recovery-ios/)
 - 2. [Stellar All Products - Buy Now](https://tools.techidaily.com/stellarinfo/buy-now/)
 - 3. [Stellar Repair for Excel](https://tools.techidaily.com/stellarinfo/repaire-for-excel/)
 - 4. [Stellar Repair for PDF](https://tools.techidaily.com/stellarinfo/repair-for-pdf/)
-- 5. [Toolkit for File Repair](https://tools.techidaily.com/stellarinfo/file-repair-toolkit/)<!--__INIT__END__TAG__PRODUCTS__LIST__-->
+- 5. [Toolkit for File Repair](https://tools.techidaily.com/stellarinfo/file-repair-toolkit/)
+<!--__INIT__END__TAG__PRODUCTS__LIST__-->
 
 <!--__INIT__BEGIN__TAG__FEED_PRODUCTS__LIST__-->
+
 ## Choose your license
 
 <div class="home-content-container">
@@ -36,7 +39,8 @@ For complex data loss situations like Server recovery, dead hard drives, ransomw
   </ul>
 </div>
 
-<hr><!--__INIT__END__TAG__FEED_PRODUCTS__LIST__-->
+<hr>
+<!--__INIT__END__TAG__FEED_PRODUCTS__LIST__-->
 
 <hr>
 

@@ -26,6 +26,7 @@ The Russian UI is translated by Vitaly Naumenkov from Dnepro of Ukraine
 
 <!--__INIT__BEGIN__TAG__PRODUCTS__LIST__-->
 
+
 ## Download All Products
 
 - 1. [5KPlayer](https://tools.techidaily.com/5kplayer/5k-player/)
@@ -33,9 +34,11 @@ The Russian UI is translated by Vitaly Naumenkov from Dnepro of Ukraine
 - 3. [5KPlayer - DLNA](https://tools.techidaily.com/5kplayer/dlna/)
 - 4. [5KPlayer - Play Video Music Free](https://tools.techidaily.com/5kplayer/video-music-player/)
 - 5. [5KPlayer - Youtube Download](https://tools.techidaily.com/5kplayer/youtube-download/)
-- 6. [DearMob iPhone Manager](https://tools.techidaily.com/5kplayer/iphone-manager/)<!--__INIT__END__TAG__PRODUCTS__LIST__-->
+- 6. [DearMob iPhone Manager](https://tools.techidaily.com/5kplayer/iphone-manager/)
+<!--__INIT__END__TAG__PRODUCTS__LIST__-->
 
 <!--__INIT__BEGIN__TAG__FEED_PRODUCTS__LIST__-->
+
 ## Choose your license
 
 <div class="home-content-container">
@@ -283,7 +286,8 @@ The Russian UI is translated by Vitaly Naumenkov from Dnepro of Ukraine
   </ul>
 </div>
 
-<hr><!--__INIT__END__TAG__FEED_PRODUCTS__LIST__-->
+<hr>
+<!--__INIT__END__TAG__FEED_PRODUCTS__LIST__-->
 
 <hr>
 
