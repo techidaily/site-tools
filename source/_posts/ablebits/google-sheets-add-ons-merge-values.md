@@ -1,6 +1,6 @@
 ---
 title: Merge values in Google Sheets
-date: 2024-09-26T17:43:47.762Z
+date: 2024-09-27T16:36:48.614Z
 tags: 
   - ablebits
 categories: 
@@ -108,14 +108,12 @@ Merge all records from the selected range into one cell.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/aiseesoft/ai-photo-editor/"><u>AI Photo Editor</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/blu-ray-player/"><u>Aiseesoft Blu-ray Player</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/burnova/"><u>Aiseesoft Burnova DVD/Blu-ray Burnner</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/dvd-creator/"><u>Aiseesoft DVD Creator</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/erase-iphone/"><u>Aiseesoft Erase iPhone</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/edit-video/"><u>Aiseesoft Video Editor</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/video-repair/"><u>Aiseesoft Video Repair</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/audio-converter/"><u>Video Audio Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/video-enhancer/"><u>Video Enhancer</u></a></li>
+<li><a href="https://tools.techidaily.com/koingosw/airradar/"><u>KOINGO AirRadar for Mac</u></a></li>
+<li><a href="https://tools.techidaily.com/koingosw/maccleanse/"><u>KOINGO MacCleanse</u></a></li>
+<li><a href="https://tools.techidaily.com/koingosw/products/"><u>Koingosw's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/macdvdripperpro/products/"><u>Mac Dvd Ripper Pro </u></a></li>
+<li><a href="https://tools.techidaily.com/winxdvd/dvd-copy-pro/"><u>WinX DVD Copy Pro</u></a></li>
+<li><a href="https://tools.techidaily.com/winxdvd/dvd-ripper-platinum/"><u>WinX DVD Ripper Platinum</u></a></li>
+<li><a href="https://tools.techidaily.com/wps/products/"><u>Wps's Products</u></a></li>
 </ul></div>
 

@@ -1,6 +1,6 @@
 ---
 title: Filter and Extract Data for Google Sheets
-date: 2024-09-24T02:36:44.785Z
+date: 2024-09-30T16:31:42.691Z
 tags: 
   - ablebits
 categories: 
@@ -88,14 +88,12 @@ Insert the resulting table as a Google Sheets QUERY formula…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/3d-kstudio/products/"><u>3d-kstudio's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/abexsoft/products/"><u>Abexsoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/outlook-shared-email-templates/"><u>Ablebits Shared Email Templates for Outlook</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/products/"><u>Ablebits's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/absolute/products/"><u>Absolute's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/adblockultimate/products/"><u>Adblockultimate's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/advancedinstaller/products/"><u>Advancedinstaller's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/aidaform/products/"><u>Aidaform's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/ailtware/products/"><u>Ailtware's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/gumcuisine/products/"><u>Gumcuisine's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/hdsentinel/products/"><u>Hdsentinel's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/heliumscraper/products/"><u>Heliumscraper's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/hideallip/products/"><u>Hideallip's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/howtogeek/products/"><u>Howtogeek's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/icopybot/products/"><u>Icopybot's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/idesksoft/products/"><u>Idesksoft's Products</u></a></li>
 </ul></div>
 

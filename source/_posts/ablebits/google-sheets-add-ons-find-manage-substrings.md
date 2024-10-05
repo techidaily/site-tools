@@ -93,12 +93,12 @@ How to add several text strings to multiple cells in Google Sheets.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/"><u>Android Phone Backup</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/"><u>Android Screen Mirror</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/iphone-transfer/"><u>iOS Phone Manager/Transfer Tool</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/"><u>iOS Screen Mirror</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/iphone-unlock/"><u>iOS Screen Unlock </u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/ios-system-repair/"><u>iOS System Repair</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/itunes-repair/"><u>iTunes Repair</u></a></li>
+<li><a href="https://tools.techidaily.com/acethinker/products/"><u>Acethinker's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/acethinker/aquaclip-downloader/"><u>Aqua Clip / Video Keeper</u></a></li>
+<li><a href="https://tools.techidaily.com/copernic/products/"><u>Copernic's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/drivereasy/products/"><u>Drivereasy's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/mondly/products/"><u>Mondly's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/stellarinfo/products/"><u>Stellar's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/stellardata-recovery/products/"><u>Stellar® Data Recovery's Products</u></a></li>
 </ul></div>
 

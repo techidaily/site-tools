@@ -1,6 +1,6 @@
 ---
 title: Remove duplicates in Google Sheets
-date: 2024-09-26T01:52:59.628Z
+date: 2024-10-01T23:17:10.054Z
 tags: 
   - ablebits
 categories: 
@@ -119,13 +119,12 @@ Merge values and consolidate numbers from duplicate rows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/aiseesoft/slideshow-creator/"><u>Aiseesoft Slideshow Creator</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/whatsapp-transfer/"><u>Aiseesoft WhatsSync - WhatsApp Transfer</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/drm-removal-tools/"><u>Epubor All DRM Removal</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/audible-converter/"><u>Epubor Audible Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/chirp-converter/"><u>Epubor Chirp Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/dzsave/"><u>Epubor DzSave</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/ebook-converter/"><u>Epubor eBook Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/pdf-converter-ultimate/"><u>PDF Converter Ultimate</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-find-replace/"><u>Advanced Find and Replace for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-if-formula-builder/"><u>IF Formula Builder for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-merge-sheets/"><u>Merge two or more sheets in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-merge-values/"><u>Merge values in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-power-tools/"><u>Power Tools for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-random-generator/"><u>Random Generator for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-google-sheets-manager/"><u>Sheets Manager for Google Sheets</u></a></li>
 </ul></div>
 

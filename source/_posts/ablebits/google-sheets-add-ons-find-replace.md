@@ -1,6 +1,6 @@
 ---
 title: Advanced Find and Replace for Google Sheets
-date: 2024-09-25T02:00:21.202Z
+date: 2024-09-28T20:15:12.989Z
 tags: 
   - ablebits
 categories: 
@@ -92,14 +92,12 @@ Export results to a new spreadsheet preserving text formatting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/android-data-eraser/"><u>Android Data Eraser</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/android-transfer/"><u>Android Phone Manager/Transfer Tool</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/android-repair/"><u>Android System Repair</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/data-recovery-iphone/"><u>Data Recovery (iOS)</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/"><u>DVD Slideshow Builder Deluxe</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/phone-switch/"><u>iOS & Android Phone Transfer</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/"><u>iOS & Android WhatsApp Transfer </u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/ios-data-eraser/"><u>iOS Data Eraser</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/"><u>Virtual Location (iOS/Android)</u></a></li>
+<li><a href="https://tools.techidaily.com/movavi/effects-store/"><u>Movavi Effects Store</u></a></li>
+<li><a href="https://tools.techidaily.com/movavi/photo-editor/"><u>Movavi Photo Editor</u></a></li>
+<li><a href="https://tools.techidaily.com/movavi/screen-recorder/"><u>Movavi Screen Recorder</u></a></li>
+<li><a href="https://tools.techidaily.com/movavi/slideshow-maker/"><u>Movavi Slideshow Maker</u></a></li>
+<li><a href="https://tools.techidaily.com/movavi/video-converter/"><u>Movavi Video Converter</u></a></li>
+<li><a href="https://tools.techidaily.com/movavi/products/"><u>Movavi's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/link-assistant/products/"><u>SEO Software — All-In-One SEO Tools for full-cycle SEO optimization's Products</u></a></li>
 </ul></div>
 

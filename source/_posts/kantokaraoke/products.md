@@ -1,6 +1,6 @@
 ---
 title: Kantokaraoke's Products
-date: 2024-09-24T01:45:59.736Z
+date: 2024-09-28T20:46:13.181Z
 tags: 
   - kantokaraoke
 categories: 
@@ -83,11 +83,9 @@ Kantokaraoke
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/"><u>Android Phone Backup</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/"><u>Android Screen Mirror</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/"><u>Android Screen Unlock</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/"><u>Dr.Fone - Full Toolkit</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/iphone-backup-and-restore/"><u>iOS Phone Backup</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/iphone-transfer/"><u>iOS Phone Manager/Transfer Tool</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-combine-duplicate-rows/"><u>Combine duplicate rows in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-combine-sheets/"><u>Combine sheets in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-docs-add-ons-doc-tools/"><u>Doc Tools for Google Docs</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-docs-add-ons-easy-mail-merge/"><u>Easy Mail Merge for Google Docs</u></a></li>
 </ul></div>
 

@@ -1,6 +1,6 @@
 ---
 title: Merge two or more sheets in Google Sheets
-date: 2024-09-26T16:33:41.328Z
+date: 2024-10-03T16:48:58.154Z
 tags: 
   - ablebits
 categories: 
@@ -125,9 +125,9 @@ Update only if cells from the lookup sheet contain data.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/aiseesoft/screen-recorder/"><u>Aiseesoft Screen Recorder</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/mobiesync/"><u>MobieSync – The Best Android iOS Transfer Tool</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/video-converter-ultimate/"><u>Video Converter Ultimate</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/whatsapp-transfer-for-ios/"><u>WhatsApp Transfer for iOS</u></a></li>
+<li><a href="https://tools.techidaily.com/apowersoft/video-editor/"><u>ApowerEdit</u></a></li>
+<li><a href="https://tools.techidaily.com/apowersoft/record-all-screen/"><u>ApowerREC</u></a></li>
+<li><a href="https://tools.techidaily.com/apowersoft/products/"><u>Apowersoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/apowersoft/video-converter-studio/"><u>Video Converter Studio</u></a></li>
 </ul></div>
 
