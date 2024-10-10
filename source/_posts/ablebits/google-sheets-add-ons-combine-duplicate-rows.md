@@ -89,10 +89,9 @@ Merge records from dupe rows and calculate numbers in 14 ways.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/coreui/products/"><u>Coreui's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/creative-tim/products/"><u>Creative-tim's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/creator/products/"><u>Creator's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/dbconvert/products/"><u>Dbconvert's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/dbschema/products/"><u>Dbschema's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/reader/"><u>Epubor Reader</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/story-downloader/"><u>Epubor Story Downloader</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/telstory-converter/"><u>Epubor Telstory Converter</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/tidal-downloader/"><u>Epubor Tidal Downloader</u></a></li>
 </ul></div>
 

@@ -1,6 +1,6 @@
 ---
 title: Merge values in Google Sheets
-date: 2024-09-27T16:36:48.614Z
+date: 2024-10-07T19:35:56.029Z
 tags: 
   - ablebits
 categories: 
@@ -108,12 +108,10 @@ Merge all records from the selected range into one cell.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/koingosw/airradar/"><u>KOINGO AirRadar for Mac</u></a></li>
-<li><a href="https://tools.techidaily.com/koingosw/maccleanse/"><u>KOINGO MacCleanse</u></a></li>
-<li><a href="https://tools.techidaily.com/koingosw/products/"><u>Koingosw's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/macdvdripperpro/products/"><u>Mac Dvd Ripper Pro </u></a></li>
-<li><a href="https://tools.techidaily.com/winxdvd/dvd-copy-pro/"><u>WinX DVD Copy Pro</u></a></li>
-<li><a href="https://tools.techidaily.com/winxdvd/dvd-ripper-platinum/"><u>WinX DVD Ripper Platinum</u></a></li>
-<li><a href="https://tools.techidaily.com/wps/products/"><u>Wps's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/"><u>Android Screen Mirror</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/"><u>Android Screen Unlock</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/"><u>Dr.Fone - Full Toolkit</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/iphone-backup-and-restore/"><u>iOS Phone Backup</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/iphone-transfer/"><u>iOS Phone Manager/Transfer Tool</u></a></li>
 </ul></div>
 

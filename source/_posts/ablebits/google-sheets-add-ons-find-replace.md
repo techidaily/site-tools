@@ -1,6 +1,6 @@
 ---
 title: Advanced Find and Replace for Google Sheets
-date: 2024-09-28T20:15:12.989Z
+date: 2024-10-08T18:22:37.944Z
 tags: 
   - ablebits
 categories: 
@@ -92,12 +92,14 @@ Export results to a new spreadsheet preserving text formatting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/movavi/effects-store/"><u>Movavi Effects Store</u></a></li>
-<li><a href="https://tools.techidaily.com/movavi/photo-editor/"><u>Movavi Photo Editor</u></a></li>
-<li><a href="https://tools.techidaily.com/movavi/screen-recorder/"><u>Movavi Screen Recorder</u></a></li>
-<li><a href="https://tools.techidaily.com/movavi/slideshow-maker/"><u>Movavi Slideshow Maker</u></a></li>
-<li><a href="https://tools.techidaily.com/movavi/video-converter/"><u>Movavi Video Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/movavi/products/"><u>Movavi's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/link-assistant/products/"><u>SEO Software — All-In-One SEO Tools for full-cycle SEO optimization's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft-iphone-data-recovery-for-win/"><u>Aiseesoft FoneLab iPhone Data Recovery for Windows</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft-total-video-converter-for-mac/"><u>Aiseesoft Total Video Converter for Mac</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft-total-video-converter/"><u>Aiseesoft Video Converter</u></a></li>
+<li><a href="https://tools.techidaily.com/nanocad/"><u>nanoCAD Engineering Ecosystem</u></a></li>
+<li><a href="https://tools.techidaily.com/github/cloudflare-pingora/"><u>Pingora</u></a></li>
+<li><a href="https://tools.techidaily.com/link-assistant-website-auditor/"><u>SEO PowerSuite - WebSite Auditor</u></a></li>
+<li><a href="https://tools.techidaily.com/stellar-photo-recovery-for-win/"><u>Stellar Photo Recovery for Windows</u></a></li>
+<li><a href="https://tools.techidaily.com/stellar-video-repair/"><u>Stellar Video Repair</u></a></li>
+<li><a href="https://tools.techidaily.com/youcam-online-editor/buy-now/"><u>YouCam Online Editor All Products - Buy Now</u></a></li>
 </ul></div>
 

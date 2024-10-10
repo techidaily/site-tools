@@ -1,6 +1,6 @@
 ---
 title: Aiseesoft DVD Creator
-date: 2024-09-29T17:25:05.114Z
+date: 2024-10-06T16:42:32.524Z
 tags: 
   - aisseesoft
   - dvd
@@ -172,13 +172,10 @@ Click Burn to start to create the video file or files into DVD disc/folder/ISO f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/neowise/products/"><u>Neowise's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/nero/products/"><u>Nero's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/newtecfxbot/products/"><u>Newtecfxbot's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/niftystats/products/"><u>Niftystats's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/okdosoft/products/"><u>Okdosoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/opencloner/products/"><u>Opencloner's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/orange-defender/products/"><u>Orange-defender's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/orpalis/products/"><u>Orpalis's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-random-generator/"><u>Random Generator for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-remove-duplicates/"><u>Remove duplicates in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-sort-by-color/"><u>Sort by Color for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-split-names/"><u>Split names in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-split-sheet/"><u>Split Sheet for Google Sheets</u></a></li>
 </ul></div>
 

@@ -1,6 +1,6 @@
 ---
 title: Filter and Extract Data for Google Sheets
-date: 2024-09-30T16:31:42.691Z
+date: 2024-10-03T21:08:11.547Z
 tags: 
   - ablebits
 categories: 
@@ -88,12 +88,11 @@ Insert the resulting table as a Google Sheets QUERY formula…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/gumcuisine/products/"><u>Gumcuisine's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/hdsentinel/products/"><u>Hdsentinel's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/heliumscraper/products/"><u>Heliumscraper's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/hideallip/products/"><u>Hideallip's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/howtogeek/products/"><u>Howtogeek's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/icopybot/products/"><u>Icopybot's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/idesksoft/products/"><u>Idesksoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/apowersoft/video-editor/"><u>ApowerEdit</u></a></li>
+<li><a href="https://tools.techidaily.com/apowersoft/record-all-screen/"><u>ApowerREC</u></a></li>
+<li><a href="https://tools.techidaily.com/koingosw/airradar/"><u>KOINGO AirRadar for Mac</u></a></li>
+<li><a href="https://tools.techidaily.com/koingosw/maccleanse/"><u>KOINGO MacCleanse</u></a></li>
+<li><a href="https://tools.techidaily.com/koingosw/products/"><u>Koingosw's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/apowersoft/video-converter-studio/"><u>Video Converter Studio</u></a></li>
 </ul></div>
 

@@ -1,6 +1,6 @@
 ---
 title: Split names in Google Sheets
-date: 2024-09-30T16:01:43.268Z
+date: 2024-10-05T16:42:32.202Z
 tags: 
   - ablebits
 categories: 
@@ -72,14 +72,10 @@ Split full names in Google Sheets into multiple columns.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/abexsoft/products/"><u>Abexsoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/absolute/products/"><u>Absolute's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/adblockultimate/products/"><u>Adblockultimate's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/advancedinstaller/products/"><u>Advancedinstaller's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/aidaform/products/"><u>Aidaform's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/ailtware/products/"><u>Ailtware's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/albusbit/products/"><u>Albusbit's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/alestemple/products/"><u>Alestemple's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-sort-by-color/"><u>Sort by Color for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/ai-photo-editor/"><u>AI Photo Editor</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/screen-recorder/"><u>Aiseesoft Screen Recorder</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/mobiesync/"><u>MobieSync – The Best Android iOS Transfer Tool</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/video-converter-ultimate/"><u>Video Converter Ultimate</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/whatsapp-transfer-for-ios/"><u>WhatsApp Transfer for iOS</u></a></li>
 </ul></div>
 
