@@ -1,6 +1,6 @@
 ---
 title: Remove duplicates in Google Sheets
-date: 2024-10-03T18:27:07.410Z
+date: 2024-10-16T00:49:14.852Z
 tags: 
   - ablebits
 categories: 
@@ -119,10 +119,9 @@ Merge values and consolidate numbers from duplicate rows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/aiseesoft-android-data-recovery-for-mac/"><u>Aiseesoft FoneLab Android Data Recovery for Mac</u></a></li>
-<li><a href="https://tools.techidaily.com/copernic/download/"><u>Discover the best Windows desktop search solution</u></a></li>
-<li><a href="https://tools.techidaily.com/mondly/download/"><u>Mondly - Learn Languages Online for Free</u></a></li>
-<li><a href="https://tools.techidaily.com/stellar-video-repair-for-mac/"><u>Stellar Video Repair for macOS</u></a></li>
-<li><a href="https://tools.techidaily.com/hello-world/"><u>TechiDaily Tools Site</u></a></li>
+<li><a href="https://tools.techidaily.com/confidential/products/"><u>Confidential's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/coolmuster/products/"><u>Coolmuster's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/coreui/products/"><u>Coreui's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/creative-tim/products/"><u>Creative-tim's Products</u></a></li>
 </ul></div>
 

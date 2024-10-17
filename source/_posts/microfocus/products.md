@@ -1,6 +1,6 @@
 ---
 title: Microfocus's Products
-date: 2024-10-03T17:15:17.942Z
+date: 2024-10-15T22:43:23.088Z
 tags: 
   - microfocus
 categories: 
@@ -60,12 +60,9 @@ Microfocus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/wpplugins/products/"><u>Wpplugins's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/wpsolr/products/"><u>Wpsolr's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/wysiwygwebbuilder/products/"><u>Wysiwygwebbuilder's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/x-mirage/products/"><u>X-mirage's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/xvirus/products/"><u>Xvirus's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/zdnet/products/"><u>Zdnet's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/zevrix/products/"><u>Zevrix's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/apowersoft/phone-manager/"><u>ApowerManager</u></a></li>
+<li><a href="https://tools.techidaily.com/apowersoft/phone-mirror/"><u>ApowerMirror</u></a></li>
+<li><a href="https://tools.techidaily.com/apowersoft/data-recovery/"><u>ApowerRecover</u></a></li>
+<li><a href="https://tools.techidaily.com/apowersoft/products/"><u>Apowersoft's Products</u></a></li>
 </ul></div>
 
