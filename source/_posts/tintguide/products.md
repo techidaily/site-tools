@@ -1,6 +1,6 @@
 ---
 title: Tintguide's Products
-date: 2024-10-21T18:08:10.587Z
+date: 2024-10-21T04:02:39.778Z
 tags: 
   - tintguide
 categories: 
@@ -38,9 +38,11 @@ Tintguide
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-combine-duplicate-rows/"><u>Combine duplicate rows in Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-combine-sheets/"><u>Combine sheets in Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-docs-add-ons-doc-tools/"><u>Doc Tools for Google Docs</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-docs-add-ons-easy-mail-merge/"><u>Easy Mail Merge for Google Docs</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-merge-sheets/"><u>Merge two or more sheets in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-merge-values/"><u>Merge values in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-power-tools/"><u>Power Tools for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-random-generator/"><u>Random Generator for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-remove-duplicates/"><u>Remove duplicates in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-sort-by-color/"><u>Sort by Color for Google Sheets</u></a></li>
 </ul></div>
 

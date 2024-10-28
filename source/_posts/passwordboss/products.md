@@ -1,6 +1,6 @@
 ---
 title: Passwordboss's Products
-date: 2024-10-16T16:47:27.680Z
+date: 2024-10-27T08:28:42.429Z
 tags: 
   - passwordboss
 categories: 
@@ -38,9 +38,9 @@ Passwordboss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/ablebits/excel-suite/"><u>Ablebits Ultimate Suite</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-combine-duplicate-rows/"><u>Combine duplicate rows in Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-docs-add-ons-doc-tools/"><u>Doc Tools for Google Docs</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-docs-add-ons-easy-mail-merge/"><u>Easy Mail Merge for Google Docs</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-find-replace/"><u>Advanced Find and Replace for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-filter-extract-data/"><u>Filter and Extract Data for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-count-colored-cells/"><u>Function by Color for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-find-manage-substrings/"><u>Substring Batch Toolkit for Google Sheets</u></a></li>
 </ul></div>
 
