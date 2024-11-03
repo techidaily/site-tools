@@ -1,6 +1,6 @@
 ---
 title: Merge two or more sheets in Google Sheets
-date: 2024-10-26T02:57:52.431Z
+date: 2024-10-30T22:53:48.630Z
 tags: 
   - ablebits
 categories: 
@@ -125,10 +125,9 @@ Update only if cells from the lookup sheet contain data.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/stellarinfo/repaire-for-excel/"><u>Stellar Repair for Excel</u></a></li>
-<li><a href="https://tools.techidaily.com/swifdoo/products/"><u>Swifdoo's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/systoolsgroup/products/"><u>Systoolsgroup's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/tansee/products/"><u>Tansee's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/terabyteunlimited/products/"><u>Terabyteunlimited's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/devart/products/"><u>Devart's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/dgtsoft/products/"><u>Dgtsoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/digisigner/products/"><u>Digisigner's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/diskpart/products/"><u>Diskpart's Products</u></a></li>
 </ul></div>
 

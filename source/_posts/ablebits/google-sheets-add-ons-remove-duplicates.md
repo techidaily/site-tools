@@ -1,6 +1,6 @@
 ---
 title: Remove duplicates in Google Sheets
-date: 2024-10-16T00:49:14.852Z
+date: 2024-10-29T17:22:37.122Z
 tags: 
   - ablebits
 categories: 
@@ -119,9 +119,10 @@ Merge values and consolidate numbers from duplicate rows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/confidential/products/"><u>Confidential's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/coolmuster/products/"><u>Coolmuster's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/coreui/products/"><u>Coreui's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/creative-tim/products/"><u>Creative-tim's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/gearmage/products/"><u>Gearmage's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/glocksoft/products/"><u>Glocksoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/gridzy/products/"><u>Gridzy's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/gumcuisine/products/"><u>Gumcuisine's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/hdsentinel/products/"><u>Hdsentinel's Products</u></a></li>
 </ul></div>
 

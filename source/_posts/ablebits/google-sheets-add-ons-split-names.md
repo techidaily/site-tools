@@ -1,6 +1,6 @@
 ---
 title: Split names in Google Sheets
-date: 2024-10-15T21:54:14.005Z
+date: 2024-10-28T06:36:54.290Z
 tags: 
   - ablebits
 categories: 
@@ -72,12 +72,10 @@ Split full names in Google Sheets into multiple columns.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/devart/products/"><u>Devart's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/dgtsoft/products/"><u>Dgtsoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/digisigner/products/"><u>Digisigner's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/diskpart/products/"><u>Diskpart's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/driver-max/products/"><u>Driver-max's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/drivermax/products/"><u>Drivermax's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/dupinout/products/"><u>Dupinout's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/idesksoft/products/"><u>Idesksoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/ifind-recovery/products/"><u>Ifind-recovery's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/incomedia/products/"><u>Incomedia's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/iobit/products/"><u>Iobit's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/iproxyever/products/"><u>Iproxyever's Products</u></a></li>
 </ul></div>
 

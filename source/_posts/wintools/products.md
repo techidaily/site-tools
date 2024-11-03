@@ -1,6 +1,6 @@
 ---
 title: Wintools's Products
-date: 2024-10-22T00:28:02.660Z
+date: 2024-10-28T23:02:21.335Z
 tags: 
   - wintools
 categories: 
@@ -460,12 +460,11 @@ Wintools
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/marvelextensions/products/"><u>Marvelextensions's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/massmailsoftware/products/"><u>Massmailsoftware's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/microfocus/products/"><u>Microfocus's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/mirillis/products/"><u>Mirillis's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/mt4copier/products/"><u>Mt4copier's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/munsoft/products/"><u>Munsoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/mwsoft/products/"><u>Mwsoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-find-replace/"><u>Advanced Find and Replace for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-if-formula-builder/"><u>IF Formula Builder for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-merge-sheets/"><u>Merge two or more sheets in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-merge-values/"><u>Merge values in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-google-sheets-manager/"><u>Sheets Manager for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-find-manage-substrings/"><u>Substring Batch Toolkit for Google Sheets</u></a></li>
 </ul></div>
 

@@ -1,6 +1,6 @@
 ---
 title: Microfocus's Products
-date: 2024-10-25T09:46:41.141Z
+date: 2024-10-31T01:57:31.615Z
 tags: 
   - microfocus
 categories: 
@@ -60,11 +60,9 @@ Microfocus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/ifind-recovery/products/"><u>Ifind-recovery's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/incomedia/products/"><u>Incomedia's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/iobit/products/"><u>Iobit's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/iproxyever/products/"><u>Iproxyever's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/ispprotect/products/"><u>Ispprotect's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/itoosoft/products/"><u>Itoosoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/3d-kstudio/products/"><u>3d-kstudio's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/abexsoft/products/"><u>Abexsoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/outlook-shared-email-templates/"><u>Ablebits Shared Email Templates for Outlook</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/products/"><u>Ablebits's Products</u></a></li>
 </ul></div>
 
