@@ -1,6 +1,6 @@
 ---
 title: Advanced Find and Replace for Google Sheets
-date: 2024-10-31T21:04:06.470Z
+date: 2024-11-05T21:43:47.245Z
 tags: 
   - ablebits
 categories: 
@@ -92,10 +92,10 @@ Export results to a new spreadsheet preserving text formatting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/betterfaster/products/"><u>Betterfaster's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/binteko/products/"><u>Binteko's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/bitdefender/products/"><u>Bitdefender's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/blumentals/products/"><u>Blumentals's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/calctopia/products/"><u>Calctopia's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/"><u>Android Phone Backup</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/"><u>Android Screen Mirror</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/iphone-backup-and-restore/"><u>iOS Phone Backup</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/iphone-transfer/"><u>iOS Phone Manager/Transfer Tool</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/itunes-repair/"><u>iTunes Repair</u></a></li>
 </ul></div>
 

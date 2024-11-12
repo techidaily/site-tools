@@ -1,6 +1,6 @@
 ---
 title: Microfocus's Products
-date: 2024-10-31T01:57:31.615Z
+date: 2024-11-05T23:06:11.395Z
 tags: 
   - microfocus
 categories: 
@@ -60,9 +60,11 @@ Microfocus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/3d-kstudio/products/"><u>3d-kstudio's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/abexsoft/products/"><u>Abexsoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/outlook-shared-email-templates/"><u>Ablebits Shared Email Templates for Outlook</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/products/"><u>Ablebits's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/flashbackrecorder/products/"><u>Flashbackrecorder's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/handybackup/products/"><u>Handybackup's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/videoconverterfactory/hd-video-converter/"><u>HD Video Converter Factory Pro | WonderFox</u></a></li>
+<li><a href="https://tools.techidaily.com/islide/products/"><u>Islide's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/zonetrigger/products/"><u>Zonetrigger's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/zoolz/products/"><u>Zoolz's Products</u></a></li>
 </ul></div>
 

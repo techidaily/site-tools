@@ -1,6 +1,6 @@
 ---
 title: Table Styles for Google Sheets
-date: 2024-10-29T02:37:58.248Z
+date: 2024-11-06T16:43:56.339Z
 tags: 
   - ablebits
 categories: 
@@ -93,10 +93,11 @@ Edit the templates or delete them from your styles whatsoever
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/keenthemes/products/"><u>Keenthemes's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/kingmailer/products/"><u>Kingmailer's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/koolreport/products/"><u>Koolreport's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/krksoft/products/"><u>Krksoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/labrika/products/"><u>Labrika's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/kindle-converter/"><u>Epubor Kindle Converter</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/kobo-converter/"><u>Epubor Kobo Converter</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/kortext-downloader/"><u>Epubor Kortext Downloader</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/nook-converter/"><u>Epubor Nook Converter</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/nook-drm-removal/"><u>Epubor Nook DRM Removal</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/pdf-password-remover/"><u>Epubor PDF Password Remover</u></a></li>
 </ul></div>
 

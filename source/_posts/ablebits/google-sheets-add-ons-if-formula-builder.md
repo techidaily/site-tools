@@ -1,6 +1,6 @@
 ---
 title: IF Formula Builder for Google Sheets
-date: 2024-10-28T01:34:20.174Z
+date: 2024-11-07T04:22:48.110Z
 tags: 
   - ablebits
 categories: 
@@ -89,12 +89,10 @@ Split existing IF formulas in Google Sheets to pieces for easier editing
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/coolmuster/products/"><u>Coolmuster's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/coreui/products/"><u>Coreui's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/creative-tim/products/"><u>Creative-tim's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/creator/products/"><u>Creator's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/dbconvert/products/"><u>Dbconvert's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/dbschema/products/"><u>Dbschema's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/debalance/products/"><u>Debalance's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/android-transfer/"><u>Android Phone Manager/Transfer Tool</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/data-recovery-iphone/"><u>Data Recovery (iOS)</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/"><u>DVD Slideshow Builder Deluxe</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/"><u>iOS & Android WhatsApp Transfer </u></a></li>
+<li><a href="https://tools.techidaily.com/hello-world/"><u>TechiDaily Tools Site</u></a></li>
 </ul></div>
 
