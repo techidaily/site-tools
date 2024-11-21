@@ -1,6 +1,6 @@
 ---
 title: Filter and Extract Data for Google Sheets
-date: 2024-11-10T08:18:25.922Z
+date: 2024-11-16T16:47:01.756Z
 tags: 
   - ablebits
 categories: 
@@ -88,11 +88,14 @@ Insert the resulting table as a Google Sheets QUERY formula…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-find-replace/"><u>Advanced Find and Replace for Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-combine-sheets/"><u>Combine sheets in Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-compare-google-sheets/"><u>Compare Sheets for Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-consolidate-sheets/"><u>Consolidate sheets in Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-count-colored-cells/"><u>Function by Color for Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-find-manage-substrings/"><u>Substring Batch Toolkit for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/veridium/products/"><u>Veridium's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/videoconverterfactory/products/"><u>Videoconverterfactory's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/videosoftdev/products/"><u>Videosoftdev's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/virtualsetworks/products/"><u>Virtualsetworks's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/vistastylebuilder/products/"><u>Vistastylebuilder's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/watchdog/products/"><u>Watchdog's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/welees/products/"><u>Welees's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/winpatrol/products/"><u>Winpatrol's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/wintask/products/"><u>Wintask's Products</u></a></li>
 </ul></div>
 

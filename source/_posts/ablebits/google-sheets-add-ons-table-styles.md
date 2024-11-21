@@ -1,6 +1,6 @@
 ---
 title: Table Styles for Google Sheets
-date: 2024-11-06T16:43:56.339Z
+date: 2024-11-20T08:50:29.249Z
 tags: 
   - ablebits
 categories: 
@@ -93,11 +93,12 @@ Edit the templates or delete them from your styles whatsoever
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/epubor/kindle-converter/"><u>Epubor Kindle Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/kobo-converter/"><u>Epubor Kobo Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/kortext-downloader/"><u>Epubor Kortext Downloader</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/nook-converter/"><u>Epubor Nook Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/nook-drm-removal/"><u>Epubor Nook DRM Removal</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/pdf-password-remover/"><u>Epubor PDF Password Remover</u></a></li>
+<li><a href="https://tools.techidaily.com/makeuseof/products/"><u>Makeuseof's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/malwarefox/products/"><u>Malwarefox's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/manycam/products/"><u>Manycam's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/marionettestudio/products/"><u>Marionettestudio's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/marvelextensions/products/"><u>Marvelextensions's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/massmailsoftware/products/"><u>Massmailsoftware's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/microfocus/products/"><u>Microfocus's Products</u></a></li>
 </ul></div>
 
