@@ -1,6 +1,6 @@
 ---
 title: Split names in Google Sheets
-date: 2024-11-18T23:39:08.135Z
+date: 2024-11-23T03:06:50.481Z
 tags: 
   - ablebits
 categories: 
@@ -72,10 +72,11 @@ Split full names in Google Sheets into multiple columns.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/ispprotect/products/"><u>Ispprotect's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/itoosoft/products/"><u>Itoosoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/ivmeka/products/"><u>Ivmeka's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/jetprofiler/products/"><u>Jetprofiler's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/kantokaraoke/products/"><u>Kantokaraoke's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/screen-recorder/"><u>Aiseesoft Screen Recorder</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/ios-system-recovery/"><u>FoneLab iOS System Recovery</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/ios-transfer/"><u>FoneTrans – Intelligent iOS Data Transfer</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/iphone-cleaner/"><u>iPhone Cleaner</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/iphone-unlocker/"><u>iPhone Unlocker</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/mobiesync/"><u>MobieSync – The Best Android iOS Transfer Tool</u></a></li>
 </ul></div>
 

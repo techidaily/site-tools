@@ -1,6 +1,6 @@
 ---
 title: Merge values in Google Sheets
-date: 2024-11-15T17:20:23.946Z
+date: 2024-11-27T18:52:02.177Z
 tags: 
   - ablebits
 categories: 
@@ -108,13 +108,11 @@ Merge all records from the selected range into one cell.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/dupinout/products/"><u>Dupinout's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/dwgfastview/products/"><u>Dwgfastview's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/e-funnels/products/"><u>E-funnels's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/easetext/products/"><u>Easetext's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/easyuefi/products/"><u>Easyuefi's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/edrawsoft/products/"><u>Edrawsoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/eltima/products/"><u>Eltima's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/elzon/products/"><u>Elzon's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/"><u>Android Phone Backup</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/"><u>Android Screen Mirror</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/"><u>Android Screen Unlock</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/iphone-backup-and-restore/"><u>iOS Phone Backup</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/iphone-transfer/"><u>iOS Phone Manager/Transfer Tool</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/itunes-repair/"><u>iTunes Repair</u></a></li>
 </ul></div>
 

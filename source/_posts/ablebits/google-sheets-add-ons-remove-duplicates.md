@@ -1,6 +1,6 @@
 ---
 title: Remove duplicates in Google Sheets
-date: 2024-11-18T02:30:08.888Z
+date: 2024-11-27T20:18:15.675Z
 tags: 
   - ablebits
 categories: 
@@ -119,9 +119,10 @@ Merge values and consolidate numbers from duplicate rows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/gumcuisine/products/"><u>Gumcuisine's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/hdsentinel/products/"><u>Hdsentinel's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/heliumscraper/products/"><u>Heliumscraper's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/hideallip/products/"><u>Hideallip's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/android-transfer/"><u>Android Phone Manager/Transfer Tool</u></a></li>
+<li><a href="https://tools.techidaily.com/copernic/download/"><u>Discover the best Windows desktop search solution</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/"><u>DVD Slideshow Builder Deluxe</u></a></li>
+<li><a href="https://tools.techidaily.com/stellar-video-repair-for-mac/"><u>Stellar Video Repair for macOS</u></a></li>
+<li><a href="https://tools.techidaily.com/hello-world/"><u>TechiDaily Tools Site</u></a></li>
 </ul></div>
 
