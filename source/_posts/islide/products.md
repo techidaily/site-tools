@@ -1,6 +1,6 @@
 ---
 title: Islide's Products
-date: 2024-11-26T01:01:04.550Z
+date: 2024-12-03T13:11:05.347Z
 tags: 
   - islide
 categories: 
@@ -83,13 +83,10 @@ Islide
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/wondershare/democreator/download/"><u>DemoCreator Download</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/"><u>Dr.Fone - Full Toolkit</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/dvdcreator/download/"><u>DVD Creator - Easy and powerful DVD Toolbox. Meet all your DVD needs.</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/filmora/download/"><u>Filmora - AI Video Editing Software</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/photo/download/"><u>FotoPhire Photo Editing Toolkit</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/pdf/download/"><u>Smart PDFElement - PDF Editor</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/tunesgo/download/"><u>TunesGo - Must-Have Phone Manager</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/virbo/download/"><u>Virbo - Download</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-compare-google-sheets/"><u>Compare Sheets for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-consolidate-sheets/"><u>Consolidate sheets in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-filter-extract-data/"><u>Filter and Extract Data for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-count-colored-cells/"><u>Function by Color for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-find-manage-substrings/"><u>Substring Batch Toolkit for Google Sheets</u></a></li>
 </ul></div>
 

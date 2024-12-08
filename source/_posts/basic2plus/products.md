@@ -1,6 +1,6 @@
 ---
 title: Basic2plus's Products
-date: 2024-11-23T17:43:29.841Z
+date: 2024-12-05T06:05:27.512Z
 tags: 
   - basic2plus
 categories: 
@@ -60,9 +60,9 @@ Basic2plus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/wondershare/anieraser/download/"><u>AniEraser - AI Watermark Remover for Images & Videos</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/kwicut/download/"><u>KwiCut - Boost Your Productivity with Smart Video Clipping</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/videoconverter/download/"><u>Video Converter - Wondershare UniConverter</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen-for-mac/"><u>Wondershare Dr.Fone Android Screen Unlock for macOS</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-compare-google-sheets/"><u>Compare Sheets for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-consolidate-sheets/"><u>Consolidate sheets in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-filter-extract-data/"><u>Filter and Extract Data for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-count-colored-cells/"><u>Function by Color for Google Sheets</u></a></li>
 </ul></div>
 

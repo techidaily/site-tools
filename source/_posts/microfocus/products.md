@@ -1,6 +1,6 @@
 ---
 title: Microfocus's Products
-date: 2024-11-25T05:21:23.236Z
+date: 2024-12-02T06:08:35.024Z
 tags: 
   - microfocus
 categories: 
@@ -60,9 +60,12 @@ Microfocus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/link-assistant/keyword-research/keyword-gap/"><u>Keyword Gap Analysis Tool</u></a></li>
-<li><a href="https://tools.techidaily.com/link-assistant/keyword-research/keyword-grouper/"><u>Keyword Grouping Tool</u></a></li>
-<li><a href="https://tools.techidaily.com/stellardata-recovery/file-repair-toolkit/"><u>Toolkit for File Repair</u></a></li>
-<li><a href="https://tools.techidaily.com/advancedinstaller/"><u>Windows Installer Packaging Tool for Developers, ISVs & Enterprises - Advanced Installer</u></a></li>
+<li><a href="https://tools.techidaily.com/acethinker/products/"><u>Acethinker's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/movavi/effects-store/"><u>Movavi Effects Store</u></a></li>
+<li><a href="https://tools.techidaily.com/movavi/photo-editor/"><u>Movavi Photo Editor</u></a></li>
+<li><a href="https://tools.techidaily.com/movavi/screen-recorder/"><u>Movavi Screen Recorder</u></a></li>
+<li><a href="https://tools.techidaily.com/movavi/slideshow-maker/"><u>Movavi Slideshow Maker</u></a></li>
+<li><a href="https://tools.techidaily.com/movavi/products/"><u>Movavi's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/link-assistant/products/"><u>SEO Software — All-In-One SEO Tools for full-cycle SEO optimization's Products</u></a></li>
 </ul></div>
 
