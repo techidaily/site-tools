@@ -1,6 +1,6 @@
 ---
 title: Filter and Extract Data for Google Sheets
-date: 2024-11-27T18:55:41.972Z
+date: 2024-12-19T19:55:58.168Z
 tags: 
   - ablebits
 categories: 
@@ -88,9 +88,11 @@ Insert the resulting table as a Google Sheets QUERY formula…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/movavi/slideshow-maker/"><u>Movavi Slideshow Maker</u></a></li>
-<li><a href="https://tools.techidaily.com/movavi/video-converter/"><u>Movavi Video Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/movavi/video-editor/"><u>Movavi Video Editor</u></a></li>
-<li><a href="https://tools.techidaily.com/movavi/video-suite/"><u>Movavi Video Suite</u></a></li>
+<li><a href="https://tools.techidaily.com/niftystats/products/"><u>Niftystats's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/okdosoft/products/"><u>Okdosoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/opencloner/products/"><u>Opencloner's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/orange-defender/products/"><u>Orange-defender's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/orpalis/products/"><u>Orpalis's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/otszone/products/"><u>Otszone's Products</u></a></li>
 </ul></div>
 

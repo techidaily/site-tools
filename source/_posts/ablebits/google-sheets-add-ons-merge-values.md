@@ -1,6 +1,6 @@
 ---
 title: Merge values in Google Sheets
-date: 2024-11-27T18:52:02.177Z
+date: 2024-12-18T18:37:15.248Z
 tags: 
   - ablebits
 categories: 
@@ -108,11 +108,10 @@ Merge all records from the selected range into one cell.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/"><u>Android Phone Backup</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/"><u>Android Screen Mirror</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/"><u>Android Screen Unlock</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/iphone-backup-and-restore/"><u>iOS Phone Backup</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/iphone-transfer/"><u>iOS Phone Manager/Transfer Tool</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/itunes-repair/"><u>iTunes Repair</u></a></li>
+<li><a href="https://tools.techidaily.com/aostsoft/products/"><u>Aostsoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/arqui3d/products/"><u>Arqui3d's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/atlassian/products/"><u>Atlassian's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/atomisystems/products/"><u>Atomisystems's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/atomseo/products/"><u>Atomseo's Products</u></a></li>
 </ul></div>
 

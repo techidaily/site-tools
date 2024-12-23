@@ -1,6 +1,6 @@
 ---
 title: Sheets Manager for Google Sheets
-date: 2024-11-22T19:23:39.007Z
+date: 2024-12-18T09:58:24.423Z
 tags: 
   - ablebits
 categories: 
@@ -92,14 +92,14 @@ Get a link to open a new Drive folder with the new files right away
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/aiseesoft-total-video-converter-for-win/"><u>Aiseesoft Total Video Converter for Windows</u></a></li>
-<li><a href="https://tools.techidaily.com/copernic-desktop-search/"><u>Copernic Desktop Search</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/kwicut/download/"><u>KwiCut - Boost Your Productivity with Smart Video Clipping</u></a></li>
-<li><a href="https://tools.techidaily.com/mt4copier/"><u>Local Trade Copier</u></a></li>
-<li><a href="https://tools.techidaily.com/revouninstaller/"><u>Revo Uninstaller</u></a></li>
-<li><a href="https://tools.techidaily.com/link-assistant-rank-tracker/"><u>SEO PowerSuite - Rank Tracker</u></a></li>
-<li><a href="https://tools.techidaily.com/stellar-photo-recovery/"><u>Stellar Photo Recovery</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/videoconverter/download/"><u>Video Converter - Wondershare UniConverter</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen-for-mac/"><u>Wondershare Dr.Fone Android Screen Unlock for macOS</u></a></li>
+<li><a href="https://tools.techidaily.com/3d-kstudio/products/"><u>3d-kstudio's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/abexsoft/products/"><u>Abexsoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/outlook-shared-email-templates/"><u>Ablebits Shared Email Templates for Outlook</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/products/"><u>Ablebits's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/absolute/products/"><u>Absolute's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/adblockultimate/products/"><u>Adblockultimate's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/advancedinstaller/products/"><u>Advancedinstaller's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/aidaform/products/"><u>Aidaform's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-table-styles/"><u>Table Styles for Google Sheets</u></a></li>
 </ul></div>
 

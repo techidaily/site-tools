@@ -1,6 +1,6 @@
 ---
 title: Microfocus's Products
-date: 2024-12-08T06:16:43.185Z
+date: 2024-12-19T08:59:42.938Z
 tags: 
   - microfocus
 categories: 
@@ -60,12 +60,14 @@ Microfocus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/trackabi/products/"><u>Trackabi's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/tubedigger/products/"><u>Tubedigger's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/tubesitessubmitter/products/"><u>Tubesitessubmitter's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/typora/products/"><u>Typora's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/ubackup/products/"><u>Ubackup's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/ultrafxvps/products/"><u>Ultrafxvps's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/vdownloader/products/"><u>Vdownloader's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/abbyy/products/"><u>ABBYY FineReader PDF</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/products/"><u>Aiseesoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/macxdvd/products/"><u>Digiarty Software(MacXDVD)</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/transfer/"><u>Epubor Kindle Transfer</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/reader/"><u>Epubor Reader</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/story-downloader/"><u>Epubor Story Downloader</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/telstory-converter/"><u>Epubor Telstory Converter</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/tidal-downloader/"><u>Epubor Tidal Downloader</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/ultimate/"><u>Epubor Ultimate</u></a></li>
 </ul></div>
 

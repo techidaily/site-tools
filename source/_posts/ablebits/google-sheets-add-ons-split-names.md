@@ -1,6 +1,6 @@
 ---
 title: Split names in Google Sheets
-date: 2024-11-23T03:06:50.481Z
+date: 2024-12-15T16:25:16.965Z
 tags: 
   - ablebits
 categories: 
@@ -72,11 +72,10 @@ Split full names in Google Sheets into multiple columns.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/aiseesoft/screen-recorder/"><u>Aiseesoft Screen Recorder</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/ios-system-recovery/"><u>FoneLab iOS System Recovery</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/ios-transfer/"><u>FoneTrans – Intelligent iOS Data Transfer</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/iphone-cleaner/"><u>iPhone Cleaner</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/iphone-unlocker/"><u>iPhone Unlocker</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/mobiesync/"><u>MobieSync – The Best Android iOS Transfer Tool</u></a></li>
+<li><a href="https://tools.techidaily.com/coreui/products/"><u>Coreui's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/creative-tim/products/"><u>Creative-tim's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/creator/products/"><u>Creator's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/dbconvert/products/"><u>Dbconvert's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/dbschema/products/"><u>Dbschema's Products</u></a></li>
 </ul></div>
 

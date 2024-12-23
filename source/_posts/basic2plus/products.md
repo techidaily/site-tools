@@ -1,6 +1,6 @@
 ---
 title: Basic2plus's Products
-date: 2024-12-10T19:53:14.012Z
+date: 2024-12-22T01:36:48.239Z
 tags: 
   - basic2plus
 categories: 
@@ -60,9 +60,11 @@ Basic2plus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/videoconverterfactory/dvd-ripper/"><u>DVD Ripper Pro | WonderFox</u></a></li>
-<li><a href="https://tools.techidaily.com/videoconverterfactory/dvd-video-converter/"><u>DVD Video Converter | WonderFox</u></a></li>
-<li><a href="https://tools.techidaily.com/videoconverterfactory/video-watermark/"><u>Video Watermark | WonderFox</u></a></li>
-<li><a href="https://tools.techidaily.com/wysiwygwebbuilder/download/"><u>WYSIWYG Web Builder AI</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-find-replace/"><u>Advanced Find and Replace for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-filter-extract-data/"><u>Filter and Extract Data for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-count-colored-cells/"><u>Function by Color for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-if-formula-builder/"><u>IF Formula Builder for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-google-sheets-manager/"><u>Sheets Manager for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-find-manage-substrings/"><u>Substring Batch Toolkit for Google Sheets</u></a></li>
 </ul></div>
 

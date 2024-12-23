@@ -1,6 +1,6 @@
 ---
 title: Consolidate sheets in Google Sheets
-date: 2024-11-28T22:18:05.860Z
+date: 2024-12-16T03:30:46.632Z
 tags: 
   - ablebits
 categories: 
@@ -110,14 +110,11 @@ Summarize data based on the position of cells
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/acethinker/products/"><u>Acethinker's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/products/"><u>Aiseesoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/acethinker/aquaclip-downloader/"><u>Aqua Clip / Video Keeper</u></a></li>
-<li><a href="https://tools.techidaily.com/copernic/products/"><u>Copernic's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/macxdvd/products/"><u>Digiarty Software(MacXDVD)</u></a></li>
-<li><a href="https://tools.techidaily.com/drivereasy/products/"><u>Drivereasy's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/mondly/products/"><u>Mondly's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/stellarinfo/products/"><u>Stellar's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/stellardata-recovery/products/"><u>Stellar® Data Recovery's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/massmailsoftware/products/"><u>Massmailsoftware's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/microfocus/products/"><u>Microfocus's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/mirillis/products/"><u>Mirillis's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/mt4copier/products/"><u>Mt4copier's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/munsoft/products/"><u>Munsoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/mwsoft/products/"><u>Mwsoft's Products</u></a></li>
 </ul></div>
 
