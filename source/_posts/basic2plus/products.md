@@ -1,6 +1,6 @@
 ---
 title: Basic2plus's Products
-date: 2024-12-22T01:36:48.239Z
+date: 2024-12-23T17:56:22.996Z
 tags: 
   - basic2plus
 categories: 
@@ -60,11 +60,10 @@ Basic2plus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-find-replace/"><u>Advanced Find and Replace for Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-filter-extract-data/"><u>Filter and Extract Data for Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-count-colored-cells/"><u>Function by Color for Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-if-formula-builder/"><u>IF Formula Builder for Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-google-sheets-manager/"><u>Sheets Manager for Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-find-manage-substrings/"><u>Substring Batch Toolkit for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/flashbackrecorder/products/"><u>Flashbackrecorder's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/zillya/products/"><u>Zillya's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/zonealarm/products/"><u>Zonealarm's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/zonetrigger/products/"><u>Zonetrigger's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/zoolz/products/"><u>Zoolz's Products</u></a></li>
 </ul></div>
 

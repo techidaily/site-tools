@@ -1,6 +1,6 @@
 ---
 title: Advanced Find and Replace for Google Sheets
-date: 2024-12-15T23:04:24.694Z
+date: 2024-12-27T03:17:27.212Z
 tags: 
   - ablebits
 categories: 
@@ -92,9 +92,12 @@ Export results to a new spreadsheet preserving text formatting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-remove-duplicates/"><u>Remove duplicates in Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-sort-by-color/"><u>Sort by Color for Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-split-names/"><u>Split names in Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-split-sheet/"><u>Split Sheet for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft-iphone-data-recovery-for-mac/"><u>Aiseesoft FoneLab iPhone Data Recovery for Mac</u></a></li>
+<li><a href="https://tools.techidaily.com/drivereasy/download/"><u>Driver Easy - Update your drivers in Windows 11,10 and 7.</u></a></li>
+<li><a href="https://tools.techidaily.com/ios-unlock-dr-fone-wondershare/"><u>iOS Unlock - Dr.Fone - Wondershare</u></a></li>
+<li><a href="https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/"><u>iPhone Data Recovery Software</u></a></li>
+<li><a href="https://tools.techidaily.com/github/cloudflare-pingora/"><u>Pingora</u></a></li>
+<li><a href="https://tools.techidaily.com/stellardata-recovery/buy-now/"><u>Stellar All Products - Buy Now</u></a></li>
+<li><a href="https://tools.techidaily.com/stellardata-recovery/repair-for-pdf/"><u>Stellar Repair for PDF</u></a></li>
 </ul></div>
 

@@ -1,6 +1,6 @@
 ---
 title: Remove duplicates in Google Sheets
-date: 2024-12-19T06:16:59.752Z
+date: 2024-12-22T19:30:14.567Z
 tags: 
   - ablebits
 categories: 
@@ -119,13 +119,12 @@ Merge values and consolidate numbers from duplicate rows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/bestwebgraphic/products/"><u>Bestwebgraphic's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/betterfaster/products/"><u>Betterfaster's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/binteko/products/"><u>Binteko's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/bitdefender/products/"><u>Bitdefender's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/blumentals/products/"><u>Blumentals's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/calctopia/products/"><u>Calctopia's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/calendarbudget/products/"><u>Calendarbudget's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/centrico/products/"><u>Centrico's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/android-transfer/"><u>Android Phone Manager/Transfer Tool</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/data-recovery-iphone/"><u>Data Recovery (iOS)</u></a></li>
+<li><a href="https://tools.techidaily.com/copernic/download/"><u>Discover the best Windows desktop search solution</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/"><u>DVD Slideshow Builder Deluxe</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/phone-switch/"><u>iOS & Android Phone Transfer</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/"><u>iOS & Android WhatsApp Transfer </u></a></li>
+<li><a href="https://tools.techidaily.com/hello-world/"><u>TechiDaily Tools Site</u></a></li>
 </ul></div>
 
