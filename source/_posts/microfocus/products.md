@@ -1,6 +1,6 @@
 ---
 title: Microfocus's Products
-date: 2024-12-28T00:59:16.590Z
+date: 2025-01-04T19:24:55.090Z
 tags: 
   - microfocus
 categories: 
@@ -60,10 +60,10 @@ Microfocus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/massmailsoftware/products/"><u>Massmailsoftware's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/munsoft/products/"><u>Munsoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/mwsoft/products/"><u>Mwsoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/myusbonly/products/"><u>Myusbonly's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/namowebeditor/products/"><u>Namowebeditor's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-combine-duplicate-rows/"><u>Combine duplicate rows in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-combine-sheets/"><u>Combine sheets in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-compare-google-sheets/"><u>Compare Sheets for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-docs-add-ons-doc-tools/"><u>Doc Tools for Google Docs</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-docs-add-ons-easy-mail-merge/"><u>Easy Mail Merge for Google Docs</u></a></li>
 </ul></div>
 
