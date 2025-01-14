@@ -1,6 +1,6 @@
 ---
 title: Merge values in Google Sheets
-date: 2024-12-21T21:02:52.928Z
+date: 2025-01-11T18:29:39.544Z
 tags: 
   - ablebits
 categories: 
@@ -108,11 +108,11 @@ Merge all records from the selected range into one cell.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/wondershare/democreator/download/"><u>DemoCreator Download</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/dvdcreator/download/"><u>DVD Creator - Easy and powerful DVD Toolbox. Meet all your DVD needs.</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/filmora/download/"><u>Filmora - AI Video Editing Software</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/photo/download/"><u>FotoPhire Photo Editing Toolkit</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/tunesgo/download/"><u>TunesGo - Must-Have Phone Manager</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/virbo/download/"><u>Virbo - Download</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/android-transfer/"><u>Android Phone Manager/Transfer Tool</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/data-recovery-iphone/"><u>Data Recovery (iOS)</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/"><u>DVD Slideshow Builder Deluxe</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/phone-switch/"><u>iOS & Android Phone Transfer</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/"><u>iOS & Android WhatsApp Transfer </u></a></li>
+<li><a href="https://tools.techidaily.com/hello-world/"><u>TechiDaily Tools Site</u></a></li>
 </ul></div>
 

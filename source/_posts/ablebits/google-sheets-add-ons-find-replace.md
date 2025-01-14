@@ -1,6 +1,6 @@
 ---
 title: Advanced Find and Replace for Google Sheets
-date: 2024-12-27T03:17:27.212Z
+date: 2025-01-10T22:57:55.754Z
 tags: 
   - ablebits
 categories: 
@@ -92,12 +92,10 @@ Export results to a new spreadsheet preserving text formatting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/aiseesoft-iphone-data-recovery-for-mac/"><u>Aiseesoft FoneLab iPhone Data Recovery for Mac</u></a></li>
-<li><a href="https://tools.techidaily.com/drivereasy/download/"><u>Driver Easy - Update your drivers in Windows 11,10 and 7.</u></a></li>
-<li><a href="https://tools.techidaily.com/ios-unlock-dr-fone-wondershare/"><u>iOS Unlock - Dr.Fone - Wondershare</u></a></li>
-<li><a href="https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/"><u>iPhone Data Recovery Software</u></a></li>
-<li><a href="https://tools.techidaily.com/github/cloudflare-pingora/"><u>Pingora</u></a></li>
-<li><a href="https://tools.techidaily.com/stellardata-recovery/buy-now/"><u>Stellar All Products - Buy Now</u></a></li>
-<li><a href="https://tools.techidaily.com/stellardata-recovery/repair-for-pdf/"><u>Stellar Repair for PDF</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/anieraser/download/"><u>AniEraser - AI Watermark Remover for Images & Videos</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/anireel/download/"><u>Anireel</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/dvdcreator/download/"><u>DVD Creator - Easy and powerful DVD Toolbox. Meet all your DVD needs.</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/filmora/download/"><u>Filmora - AI Video Editing Software</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/pdf/download/"><u>Smart PDFElement - PDF Editor</u></a></li>
 </ul></div>
 

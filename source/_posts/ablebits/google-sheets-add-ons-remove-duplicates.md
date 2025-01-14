@@ -1,6 +1,6 @@
 ---
 title: Remove duplicates in Google Sheets
-date: 2024-12-22T19:30:14.567Z
+date: 2025-01-09T16:29:12.037Z
 tags: 
   - ablebits
 categories: 
@@ -119,12 +119,14 @@ Merge values and consolidate numbers from duplicate rows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/android-transfer/"><u>Android Phone Manager/Transfer Tool</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/data-recovery-iphone/"><u>Data Recovery (iOS)</u></a></li>
-<li><a href="https://tools.techidaily.com/copernic/download/"><u>Discover the best Windows desktop search solution</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/"><u>DVD Slideshow Builder Deluxe</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/phone-switch/"><u>iOS & Android Phone Transfer</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/"><u>iOS & Android WhatsApp Transfer </u></a></li>
-<li><a href="https://tools.techidaily.com/hello-world/"><u>TechiDaily Tools Site</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/ai-photo-editor/"><u>AI Photo Editor</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/screen-recorder/"><u>Aiseesoft Screen Recorder</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/ios-system-recovery/"><u>FoneLab iOS System Recovery</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/ios-transfer/"><u>FoneTrans – Intelligent iOS Data Transfer</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/iphone-cleaner/"><u>iPhone Cleaner</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/iphone-unlocker/"><u>iPhone Unlocker</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/mobiesync/"><u>MobieSync – The Best Android iOS Transfer Tool</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/video-converter-ultimate/"><u>Video Converter Ultimate</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/whatsapp-transfer-for-ios/"><u>WhatsApp Transfer for iOS</u></a></li>
 </ul></div>
 

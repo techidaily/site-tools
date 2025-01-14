@@ -96,14 +96,11 @@ Edit built-in & your custom styles or their individual elements whenever you nee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/aiseesoft/slideshow-creator/"><u>Aiseesoft Slideshow Creator</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/video-to-gif/"><u>Aiseesoft Video to GIF Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/whatsapp-transfer/"><u>Aiseesoft WhatsSync - WhatsApp Transfer</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/drm-removal-tools/"><u>Epubor All DRM Removal</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/audible-converter/"><u>Epubor Audible Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/chirp-converter/"><u>Epubor Chirp Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/dzsave/"><u>Epubor DzSave</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/ebook-converter/"><u>Epubor eBook Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/pdf-converter-ultimate/"><u>PDF Converter Ultimate</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/kobo-converter/"><u>Epubor Kobo Converter</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/kortext-downloader/"><u>Epubor Kortext Downloader</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/nook-converter/"><u>Epubor Nook Converter</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/nook-drm-removal/"><u>Epubor Nook DRM Removal</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/pdf-password-remover/"><u>Epubor PDF Password Remover</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/pdf-splitter-merger/"><u>PDF Merger & PDF Splitter</u></a></li>
 </ul></div>
 

@@ -1,6 +1,6 @@
 ---
 title: Merge two or more sheets in Google Sheets
-date: 2024-12-27T02:40:01.494Z
+date: 2025-01-07T22:04:28.473Z
 tags: 
   - ablebits
 categories: 
@@ -125,12 +125,10 @@ Update only if cells from the lookup sheet contain data.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/wondershare/anieraser/download/"><u>AniEraser - AI Watermark Remover for Images & Videos</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/anireel/download/"><u>Anireel</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/kwicut/download/"><u>KwiCut - Boost Your Productivity with Smart Video Clipping</u></a></li>
-<li><a href="https://tools.techidaily.com/mt4copier/"><u>Local Trade Copier</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/pdf/download/"><u>Smart PDFElement - PDF Editor</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/videoconverter/download/"><u>Video Converter - Wondershare UniConverter</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen-for-mac/"><u>Wondershare Dr.Fone Android Screen Unlock for macOS</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/android-data-eraser/"><u>Android Data Eraser</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/android-repair/"><u>Android System Repair</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/ios-data-eraser/"><u>iOS Data Eraser</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/iphone-unlock/"><u>iOS Screen Unlock </u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/"><u>Virtual Location (iOS/Android)</u></a></li>
 </ul></div>
 

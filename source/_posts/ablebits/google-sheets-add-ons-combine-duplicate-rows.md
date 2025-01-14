@@ -89,11 +89,10 @@ Merge records from dupe rows and calculate numbers in 14 ways.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/epubor/kindle-converter/"><u>Epubor Kindle Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/kobo-converter/"><u>Epubor Kobo Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/kortext-downloader/"><u>Epubor Kortext Downloader</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/nook-converter/"><u>Epubor Nook Converter</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/nook-drm-removal/"><u>Epubor Nook DRM Removal</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/pdf-password-remover/"><u>Epubor PDF Password Remover</u></a></li>
+<li><a href="https://tools.techidaily.com/abbyy/products/"><u>ABBYY FineReader PDF</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/products/"><u>Aiseesoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/copernic/products/"><u>Copernic's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/macxdvd/products/"><u>Digiarty Software(MacXDVD)</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/ultimate/"><u>Epubor Ultimate</u></a></li>
 </ul></div>
 
