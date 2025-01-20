@@ -1,6 +1,6 @@
 ---
 title: Function by Color for Google Sheets
-date: 2025-01-10T18:19:54.595Z
+date: 2025-01-14T04:43:17.334Z
 tags: 
   - ablebits
 categories: 
@@ -105,14 +105,11 @@ Calculate cells in each column.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/5kplayer/video-music-player/"><u>5KPlayer - Play Video Music Free</u></a></li>
-<li><a href="https://tools.techidaily.com/5kplayer/youtube-download/"><u>5KPlayer - Youtube Download</u></a></li>
-<li><a href="https://tools.techidaily.com/5kplayer/products/"><u>5kplayer's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/apowersoft/phone-manager/"><u>ApowerManager</u></a></li>
-<li><a href="https://tools.techidaily.com/apowersoft/phone-mirror/"><u>ApowerMirror</u></a></li>
-<li><a href="https://tools.techidaily.com/apowersoft/apower-pdf/"><u>ApowerPDF</u></a></li>
-<li><a href="https://tools.techidaily.com/apowersoft/data-recovery/"><u>ApowerRecover</u></a></li>
-<li><a href="https://tools.techidaily.com/apowersoft/products/"><u>Apowersoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/5kplayer/iphone-manager/"><u>DearMob iPhone Manager</u></a></li>
+<li><a href="https://tools.techidaily.com/wpsolr/products/"><u>Wpsolr's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/wysiwygwebbuilder/products/"><u>Wysiwygwebbuilder's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/x-mirage/products/"><u>X-mirage's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/xvirus/products/"><u>Xvirus's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/zdnet/products/"><u>Zdnet's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/zevrix/products/"><u>Zevrix's Products</u></a></li>
 </ul></div>
 

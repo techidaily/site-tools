@@ -1,6 +1,6 @@
 ---
 title: Merge two or more sheets in Google Sheets
-date: 2025-01-07T22:04:28.473Z
+date: 2025-01-17T03:46:39.720Z
 tags: 
   - ablebits
 categories: 
@@ -125,10 +125,9 @@ Update only if cells from the lookup sheet contain data.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/android-data-eraser/"><u>Android Data Eraser</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/android-repair/"><u>Android System Repair</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/ios-data-eraser/"><u>iOS Data Eraser</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/iphone-unlock/"><u>iOS Screen Unlock </u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/"><u>Virtual Location (iOS/Android)</u></a></li>
+<li><a href="https://tools.techidaily.com/hdsentinel/products/"><u>Hdsentinel's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/heliumscraper/products/"><u>Heliumscraper's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/hideallip/products/"><u>Hideallip's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/howtogeek/products/"><u>Howtogeek's Products</u></a></li>
 </ul></div>
 

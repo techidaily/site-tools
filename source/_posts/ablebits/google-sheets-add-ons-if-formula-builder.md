@@ -1,6 +1,6 @@
 ---
 title: IF Formula Builder for Google Sheets
-date: 2025-01-08T18:48:04.674Z
+date: 2025-01-17T20:00:39.032Z
 tags: 
   - ablebits
 categories: 
@@ -89,9 +89,14 @@ Split existing IF formulas in Google Sheets to pieces for easier editing
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/"><u>Android Phone Backup</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/"><u>iOS Screen Mirror</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/ios-system-repair/"><u>iOS System Repair</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/itunes-repair/"><u>iTunes Repair</u></a></li>
+<li><a href="https://tools.techidaily.com/extendthemes/products/"><u>Extendthemes's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/extensioncoder/products/"><u>Extensioncoder's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/flipbuilder/products/"><u>Flipbuilder's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/flyingcfx/products/"><u>Flyingcfx's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/forexrobotron/products/"><u>Forexrobotron's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/gearmage/products/"><u>Gearmage's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/glocksoft/products/"><u>Glocksoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/gridzy/products/"><u>Gridzy's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/gumcuisine/products/"><u>Gumcuisine's Products</u></a></li>
 </ul></div>
 

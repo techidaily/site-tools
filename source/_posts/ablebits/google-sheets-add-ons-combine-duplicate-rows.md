@@ -89,10 +89,9 @@ Merge records from dupe rows and calculate numbers in 14 ways.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/abbyy/products/"><u>ABBYY FineReader PDF</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/products/"><u>Aiseesoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/copernic/products/"><u>Copernic's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/macxdvd/products/"><u>Digiarty Software(MacXDVD)</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/ultimate/"><u>Epubor Ultimate</u></a></li>
+<li><a href="https://tools.techidaily.com/trackabi/products/"><u>Trackabi's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/tubedigger/products/"><u>Tubedigger's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/tubesitessubmitter/products/"><u>Tubesitessubmitter's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/typora/products/"><u>Typora's Products</u></a></li>
 </ul></div>
 
