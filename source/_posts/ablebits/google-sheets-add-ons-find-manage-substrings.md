@@ -93,11 +93,10 @@ How to add several text strings to multiple cells in Google Sheets.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/dbconvert/products/"><u>Dbconvert's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/dbschema/products/"><u>Dbschema's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/debalance/products/"><u>Debalance's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/devart/products/"><u>Devart's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/dgtsoft/products/"><u>Dgtsoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/digisigner/products/"><u>Digisigner's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/bbbcmobilesmart/products/"><u>Bbbcmobilesmart's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/bestwebgraphic/products/"><u>Bestwebgraphic's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/betterfaster/products/"><u>Betterfaster's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/binteko/products/"><u>Binteko's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/bitdefender/products/"><u>Bitdefender's Products</u></a></li>
 </ul></div>
 

@@ -1,6 +1,6 @@
 ---
 title: Consolidate sheets in Google Sheets
-date: 2025-01-14T16:26:20.854Z
+date: 2025-02-04T19:07:10.399Z
 tags: 
   - ablebits
 categories: 
@@ -110,9 +110,9 @@ Summarize data based on the position of cells
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/winpatrol/products/"><u>Winpatrol's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/wintask/products/"><u>Wintask's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/wintools/products/"><u>Wintools's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/wpplugins/products/"><u>Wpplugins's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/systoolsgroup/products/"><u>Systoolsgroup's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/tansee/products/"><u>Tansee's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/terabyteunlimited/products/"><u>Terabyteunlimited's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/textstudio/products/"><u>Textstudio's Products</u></a></li>
 </ul></div>
 

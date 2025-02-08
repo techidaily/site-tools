@@ -1,6 +1,6 @@
 ---
 title: Remove duplicates in Google Sheets
-date: 2025-01-16T04:42:51.189Z
+date: 2025-02-01T22:18:47.329Z
 tags: 
   - ablebits
 categories: 
@@ -119,14 +119,10 @@ Merge values and consolidate numbers from duplicate rows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/marionettestudio/products/"><u>Marionettestudio's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/marvelextensions/products/"><u>Marvelextensions's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/massmailsoftware/products/"><u>Massmailsoftware's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/microfocus/products/"><u>Microfocus's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/mirillis/products/"><u>Mirillis's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/mt4copier/products/"><u>Mt4copier's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/munsoft/products/"><u>Munsoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/mwsoft/products/"><u>Mwsoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/myusbonly/products/"><u>Myusbonly's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/howtogeek/products/"><u>Howtogeek's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/icopybot/products/"><u>Icopybot's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/idesksoft/products/"><u>Idesksoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/ifind-recovery/products/"><u>Ifind-recovery's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/incomedia/products/"><u>Incomedia's Products</u></a></li>
 </ul></div>
 

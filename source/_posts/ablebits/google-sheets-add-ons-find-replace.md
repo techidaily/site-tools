@@ -1,6 +1,6 @@
 ---
 title: Advanced Find and Replace for Google Sheets
-date: 2025-01-16T00:06:27.349Z
+date: 2025-02-04T00:00:55.861Z
 tags: 
   - ablebits
 categories: 
@@ -92,13 +92,9 @@ Export results to a new spreadsheet preserving text formatting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/diskpart/products/"><u>Diskpart's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/driver-max/products/"><u>Driver-max's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/drivermax/products/"><u>Drivermax's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/dupinout/products/"><u>Dupinout's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/dwgfastview/products/"><u>Dwgfastview's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/e-funnels/products/"><u>E-funnels's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/easetext/products/"><u>Easetext's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/easyuefi/products/"><u>Easyuefi's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/blumentals/products/"><u>Blumentals's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/calctopia/products/"><u>Calctopia's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/calendarbudget/products/"><u>Calendarbudget's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/centrico/products/"><u>Centrico's Products</u></a></li>
 </ul></div>
 

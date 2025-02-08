@@ -1,6 +1,6 @@
 ---
 title: Filter and Extract Data for Google Sheets
-date: 2025-01-15T23:16:30.867Z
+date: 2025-02-04T16:50:54.432Z
 tags: 
   - ablebits
 categories: 
@@ -88,11 +88,14 @@ Insert the resulting table as a Google Sheets QUERY formula…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/flashbackrecorder/products/"><u>Flashbackrecorder's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/handybackup/products/"><u>Handybackup's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/zillya/products/"><u>Zillya's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/zonealarm/products/"><u>Zonealarm's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/zonetrigger/products/"><u>Zonetrigger's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/zoolz/products/"><u>Zoolz's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/typora/products/"><u>Typora's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/ubackup/products/"><u>Ubackup's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/ultrafxvps/products/"><u>Ultrafxvps's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/vdownloader/products/"><u>Vdownloader's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/veridium/products/"><u>Veridium's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/videoconverterfactory/products/"><u>Videoconverterfactory's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/videosoftdev/products/"><u>Videosoftdev's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/virtualsetworks/products/"><u>Virtualsetworks's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/vistastylebuilder/products/"><u>Vistastylebuilder's Products</u></a></li>
 </ul></div>
 

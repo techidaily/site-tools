@@ -1,6 +1,6 @@
 ---
 title: Split names in Google Sheets
-date: 2025-01-13T17:16:02.289Z
+date: 2025-02-04T20:05:07.226Z
 tags: 
   - ablebits
 categories: 
@@ -72,12 +72,11 @@ Split full names in Google Sheets into multiple columns.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/orpalis/products/"><u>Orpalis's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/otszone/products/"><u>Otszone's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/passwordboss/products/"><u>Passwordboss's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/pavtube/products/"><u>Pavtube's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/pcclean/products/"><u>Pcclean's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/pcdj/products/"><u>Pcdj's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/pdf-flip/products/"><u>Pdf-flip's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/jetprofiler/products/"><u>Jetprofiler's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/kantokaraoke/products/"><u>Kantokaraoke's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/keenthemes/products/"><u>Keenthemes's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/kingmailer/products/"><u>Kingmailer's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/koolreport/products/"><u>Koolreport's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/krksoft/products/"><u>Krksoft's Products</u></a></li>
 </ul></div>
 

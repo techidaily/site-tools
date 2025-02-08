@@ -1,6 +1,6 @@
 ---
 title: IF Formula Builder for Google Sheets
-date: 2025-01-17T20:00:39.032Z
+date: 2025-02-05T20:25:38.872Z
 tags: 
   - ablebits
 categories: 
@@ -89,14 +89,14 @@ Split existing IF formulas in Google Sheets to pieces for easier editing
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/extendthemes/products/"><u>Extendthemes's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/extensioncoder/products/"><u>Extensioncoder's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/flipbuilder/products/"><u>Flipbuilder's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/flyingcfx/products/"><u>Flyingcfx's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/forexrobotron/products/"><u>Forexrobotron's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/gearmage/products/"><u>Gearmage's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/glocksoft/products/"><u>Glocksoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/gridzy/products/"><u>Gridzy's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/gumcuisine/products/"><u>Gumcuisine's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/dbconvert/products/"><u>Dbconvert's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/dbschema/products/"><u>Dbschema's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/debalance/products/"><u>Debalance's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/devart/products/"><u>Devart's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/dgtsoft/products/"><u>Dgtsoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/digisigner/products/"><u>Digisigner's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/diskpart/products/"><u>Diskpart's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/driver-max/products/"><u>Driver-max's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/drivermax/products/"><u>Drivermax's Products</u></a></li>
 </ul></div>
 

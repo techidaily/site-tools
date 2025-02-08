@@ -1,6 +1,6 @@
 ---
 title: Function by Color for Google Sheets
-date: 2025-01-14T04:43:17.334Z
+date: 2025-01-31T17:16:54.506Z
 tags: 
   - ablebits
 categories: 
@@ -105,11 +105,12 @@ Calculate cells in each column.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/wpsolr/products/"><u>Wpsolr's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/wysiwygwebbuilder/products/"><u>Wysiwygwebbuilder's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/x-mirage/products/"><u>X-mirage's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/xvirus/products/"><u>Xvirus's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/zdnet/products/"><u>Zdnet's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/zevrix/products/"><u>Zevrix's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/themefuse/products/"><u>Themefuse's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/timeclock365/products/"><u>Timeclock365's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/tintguide/products/"><u>Tintguide's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/tomshardware/products/"><u>Tomshardware's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/trackabi/products/"><u>Trackabi's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/tubedigger/products/"><u>Tubedigger's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/tubesitessubmitter/products/"><u>Tubesitessubmitter's Products</u></a></li>
 </ul></div>
 
