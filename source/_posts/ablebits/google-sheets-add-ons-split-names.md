@@ -1,6 +1,6 @@
 ---
 title: Split names in Google Sheets
-date: 2025-02-04T20:05:07.226Z
+date: 2025-02-12T19:59:22.608Z
 tags: 
   - ablebits
 categories: 
@@ -72,11 +72,10 @@ Split full names in Google Sheets into multiple columns.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/jetprofiler/products/"><u>Jetprofiler's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/kantokaraoke/products/"><u>Kantokaraoke's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/keenthemes/products/"><u>Keenthemes's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/kingmailer/products/"><u>Kingmailer's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/koolreport/products/"><u>Koolreport's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/krksoft/products/"><u>Krksoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/kobo-converter/"><u>Epubor Kobo Converter</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/kortext-downloader/"><u>Epubor Kortext Downloader</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/nook-converter/"><u>Epubor Nook Converter</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/nook-drm-removal/"><u>Epubor Nook DRM Removal</u></a></li>
+<li><a href="https://tools.techidaily.com/epubor/pdf-password-remover/"><u>Epubor PDF Password Remover</u></a></li>
 </ul></div>
 

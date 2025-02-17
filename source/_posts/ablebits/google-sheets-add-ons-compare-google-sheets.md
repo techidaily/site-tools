@@ -111,13 +111,10 @@ Compare two columns within one Google sheet.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/stellarinfo/data-recovery-ios/"><u>iPhone Data Recovery Software</u></a></li>
-<li><a href="https://tools.techidaily.com/softwarezirkel/products/"><u>Softwarezirkel's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/starthotspot/products/"><u>Starthotspot's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/stellarinfo/buy-now/"><u>Stellar All Products - Buy Now</u></a></li>
-<li><a href="https://tools.techidaily.com/stellarinfo/repaire-for-excel/"><u>Stellar Repair for Excel</u></a></li>
-<li><a href="https://tools.techidaily.com/stellarinfo/repair-for-pdf/"><u>Stellar Repair for PDF</u></a></li>
-<li><a href="https://tools.techidaily.com/swifdoo/products/"><u>Swifdoo's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/stellarinfo/file-repair-toolkit/"><u>Toolkit for File Repair</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/excel-suite/"><u>Ablebits Ultimate Suite</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-combine-duplicate-rows/"><u>Combine duplicate rows in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-docs-add-ons-doc-tools/"><u>Doc Tools for Google Docs</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-docs-add-ons-easy-mail-merge/"><u>Easy Mail Merge for Google Docs</u></a></li>
+<li><a href="https://tools.techidaily.com/winxdvd/products/"><u>Winxdvd's Products</u></a></li>
 </ul></div>
 

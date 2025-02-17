@@ -1,6 +1,6 @@
 ---
 title: Advanced Find and Replace for Google Sheets
-date: 2025-02-04T00:00:55.861Z
+date: 2025-02-11T06:51:34.547Z
 tags: 
   - ablebits
 categories: 
@@ -92,9 +92,10 @@ Export results to a new spreadsheet preserving text formatting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/blumentals/products/"><u>Blumentals's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/calctopia/products/"><u>Calctopia's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/calendarbudget/products/"><u>Calendarbudget's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/centrico/products/"><u>Centrico's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft-android-data-recovery-for-mac/"><u>Aiseesoft FoneLab Android Data Recovery for Mac</u></a></li>
+<li><a href="https://tools.techidaily.com/mondly/download/"><u>Mondly - Learn Languages Online for Free</u></a></li>
+<li><a href="https://tools.techidaily.com/link-assistant-rank-tracker-local-rankings/"><u>SEO PowerSuite - Local Rank Tracker Tool</u></a></li>
+<li><a href="https://tools.techidaily.com/stellar-video-repair-for-mac/"><u>Stellar Video Repair for macOS</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen-for-win/"><u>Wondershare Dr.Fone Android Screen Unlock for Windows</u></a></li>
 </ul></div>
 

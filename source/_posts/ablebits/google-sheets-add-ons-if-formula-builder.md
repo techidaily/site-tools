@@ -1,6 +1,6 @@
 ---
 title: IF Formula Builder for Google Sheets
-date: 2025-02-05T20:25:38.872Z
+date: 2025-02-12T23:55:59.760Z
 tags: 
   - ablebits
 categories: 
@@ -89,14 +89,11 @@ Split existing IF formulas in Google Sheets to pieces for easier editing
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/dbconvert/products/"><u>Dbconvert's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/dbschema/products/"><u>Dbschema's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/debalance/products/"><u>Debalance's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/devart/products/"><u>Devart's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/dgtsoft/products/"><u>Dgtsoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/digisigner/products/"><u>Digisigner's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/diskpart/products/"><u>Diskpart's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/driver-max/products/"><u>Driver-max's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/drivermax/products/"><u>Drivermax's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/screen-recorder/"><u>Aiseesoft Screen Recorder</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/iphone-cleaner/"><u>iPhone Cleaner</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/iphone-unlocker/"><u>iPhone Unlocker</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/mobiesync/"><u>MobieSync – The Best Android iOS Transfer Tool</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/video-converter-ultimate/"><u>Video Converter Ultimate</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/whatsapp-transfer-for-ios/"><u>WhatsApp Transfer for iOS</u></a></li>
 </ul></div>
 
