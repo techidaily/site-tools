@@ -1,6 +1,6 @@
 ---
 title: Function by Color for Google Sheets
-date: 2025-02-14T02:17:45.676Z
+date: 2025-02-27T01:00:20.525Z
 tags: 
   - ablebits
 categories: 
@@ -105,13 +105,9 @@ Calculate cells in each column.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-consolidate-sheets/"><u>Consolidate sheets in Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-merge-sheets/"><u>Merge two or more sheets in Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-merge-values/"><u>Merge values in Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-power-tools/"><u>Power Tools for Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-random-generator/"><u>Random Generator for Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-remove-duplicates/"><u>Remove duplicates in Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-sort-by-color/"><u>Sort by Color for Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-split-names/"><u>Split names in Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/xvirus/products/"><u>Xvirus's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/zdnet/products/"><u>Zdnet's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/zevrix/products/"><u>Zevrix's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/zillya/products/"><u>Zillya's Products</u></a></li>
 </ul></div>
 

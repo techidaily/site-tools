@@ -93,12 +93,10 @@ How to add several text strings to multiple cells in Google Sheets.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/android-transfer/"><u>Android Phone Manager/Transfer Tool</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/data-recovery-iphone/"><u>Data Recovery (iOS)</u></a></li>
-<li><a href="https://tools.techidaily.com/copernic/download/"><u>Discover the best Windows desktop search solution</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/"><u>DVD Slideshow Builder Deluxe</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/phone-switch/"><u>iOS & Android Phone Transfer</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/"><u>iOS & Android WhatsApp Transfer </u></a></li>
-<li><a href="https://tools.techidaily.com/hello-world/"><u>TechiDaily Tools Site</u></a></li>
+<li><a href="https://tools.techidaily.com/coolmuster/products/"><u>Coolmuster's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/coreui/products/"><u>Coreui's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/creative-tim/products/"><u>Creative-tim's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/creator/products/"><u>Creator's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/dbconvert/products/"><u>Dbconvert's Products</u></a></li>
 </ul></div>
 

@@ -1,6 +1,6 @@
 ---
 title: IF Formula Builder for Google Sheets
-date: 2025-02-12T23:55:59.760Z
+date: 2025-03-01T21:30:51.479Z
 tags: 
   - ablebits
 categories: 
@@ -89,11 +89,9 @@ Split existing IF formulas in Google Sheets to pieces for easier editing
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/aiseesoft/screen-recorder/"><u>Aiseesoft Screen Recorder</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/iphone-cleaner/"><u>iPhone Cleaner</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/iphone-unlocker/"><u>iPhone Unlocker</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/mobiesync/"><u>MobieSync – The Best Android iOS Transfer Tool</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/video-converter-ultimate/"><u>Video Converter Ultimate</u></a></li>
-<li><a href="https://tools.techidaily.com/aiseesoft/whatsapp-transfer-for-ios/"><u>WhatsApp Transfer for iOS</u></a></li>
+<li><a href="https://tools.techidaily.com/edrawsoft/products/"><u>Edrawsoft's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/eltima/products/"><u>Eltima's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/elzon/products/"><u>Elzon's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/emeditor/products/"><u>Emeditor's Products</u></a></li>
 </ul></div>
 

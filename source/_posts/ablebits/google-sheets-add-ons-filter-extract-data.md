@@ -1,6 +1,6 @@
 ---
 title: Filter and Extract Data for Google Sheets
-date: 2025-02-16T03:39:14.853Z
+date: 2025-02-28T17:23:13.641Z
 tags: 
   - ablebits
 categories: 
@@ -88,12 +88,9 @@ Insert the resulting table as a Google Sheets QUERY formula…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tools.techidaily.com/3d-kstudio/products/"><u>3d-kstudio's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/abexsoft/products/"><u>Abexsoft's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/outlook-shared-email-templates/"><u>Ablebits Shared Email Templates for Outlook</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/products/"><u>Ablebits's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/absolute/products/"><u>Absolute's Products</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-split-sheet/"><u>Split Sheet for Google Sheets</u></a></li>
-<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-table-styles/"><u>Table Styles for Google Sheets</u></a></li>
+<li><a href="https://tools.techidaily.com/flashbackrecorder/products/"><u>Flashbackrecorder's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/zonealarm/products/"><u>Zonealarm's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/zonetrigger/products/"><u>Zonetrigger's Products</u></a></li>
+<li><a href="https://tools.techidaily.com/zoolz/products/"><u>Zoolz's Products</u></a></li>
 </ul></div>
 
